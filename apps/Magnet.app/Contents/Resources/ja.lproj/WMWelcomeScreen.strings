@@ -1,0 +1,12 @@
+/* Class = "NSButtonCell"; title = "Launch Magnet at login"; ObjectID = "6V8-zu-QsG"; */
+"6V8-zu-QsG.title" = "ログイン時にマグネットを起動する";
+
+/* Class = "NSTextFieldCell"; title = "You have just gained a productivity boost. Drag windows to the edges and corners to make them fullscreen, halves, quarters & thirds."; ObjectID = "Jhs-k6-BXc"; */
+"Jhs-k6-BXc.title" = "生産性が向上すること間違いなしです。ウインドウを端または角へドラッグして、全画面、2分割、3分割そして4分割にしてみましょう。";
+
+/* Class = "NSTextFieldCell"; title = "And if dragging doesn’t float your boat, \nthere is always a little icon sitting in the Menu Bar where you can access all the features and define keyboard shortcuts."; ObjectID = "kJx-xa-As8"; */
+"kJx-xa-As8.title" = "ドラッグ操作がしっくりこないときは、メニューバーのアイコンから様々な機能にアクセスしたり、キーボードショットカットを定義したりすることが可能です。";
+
+/* Class = "NSTextFieldCell"; title = "Congrats!"; ObjectID = "rqk-c6-TSk"; */
+"rqk-c6-TSk.title" = "おめでとう!";
+

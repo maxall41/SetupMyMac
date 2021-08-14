@@ -1,4 +1,6 @@
-# Instructions
+# Welcome
+
+## Instructions
 
 ```python3 run.py```
 or if that fails

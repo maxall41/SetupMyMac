@@ -1,0 +1,24 @@
+/* Class = "NSTextFieldCell"; title = "Security & Privacy"; ObjectID = "4bf-TC-5zX"; */
+"4bf-TC-5zX.title" = "安全性與隱私";
+
+/* Class = "NSTextFieldCell"; title = "If the checkbox is disabled, \nclick the padlock and enter your password."; ObjectID = "a2b-Ov-99K"; */
+"a2b-Ov-99K.title" = "如果選項框已禁用, 點擊鎖頭圖標, \n然後輸入您的密碼.";
+
+/* Class = "NSTextFieldCell"; title = "Check Magnet.app"; ObjectID = "AiN-Wo-Mo7"; */
+"AiN-Wo-Mo7.title" = "勾選 Magnet.app";
+
+/* Class = "NSTextFieldCell"; title = "Go to System Preferences"; ObjectID = "Ar3-Ld-YCx"; */
+"Ar3-Ld-YCx.title" = "前往系統偏好設定";
+
+/* Class = "NSTextFieldCell"; title = "Accessibility"; ObjectID = "jzg-jz-1lN"; */
+"jzg-jz-1lN.title" = "輔助使用";
+
+/* Class = "NSTextFieldCell"; title = "Privacy"; ObjectID = "KXj-so-mgO"; */
+"KXj-so-mgO.title" = "隱私";
+
+/* Class = "NSTextFieldCell"; title = "Authorize Magnet"; ObjectID = "odV-6b-MKH"; */
+"odV-6b-MKH.title" = "授權 Magnet";
+
+/* Class = "NSTextFieldCell"; title = "Magnet needs your permission to manage windows. Follow these steps to authorize it:"; ObjectID = "tAs-Xv-dBX"; */
+"tAs-Xv-dBX.title" = "Magnet 需要您的授權, 以管理視窗. \n請按照以下步驟授權:";
+

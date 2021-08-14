@@ -1,0 +1,12 @@
+/* Class = "NSButtonCell"; title = "Launch Magnet at login"; ObjectID = "6V8-zu-QsG"; */
+"6V8-zu-QsG.title" = "Spouštět Magnet po přihlášení";
+
+/* Class = "NSTextFieldCell"; title = "You have just gained a productivity boost. Drag windows to the edges and corners to make them fullscreen, halves, quarters & thirds."; ObjectID = "Jhs-k6-BXc"; */
+"Jhs-k6-BXc.title" = "Vaše produktivita od teď poroste.\nPřetažením okna ke kraji obrazovky můžete změnit jeho velikost na čtvrtku, třetinu, půlku nebo celou obrazovku.";
+
+/* Class = "NSTextFieldCell"; title = "And if dragging doesn’t float your boat, \nthere is always a little icon sitting in the Menu Bar where you can access all the features and define keyboard shortcuts."; ObjectID = "kJx-xa-As8"; */
+"kJx-xa-As8.title" = "A pokud ovládání myší není váš šálek čaje, v menu aplikace vpravo nahoře je přehled nastavitelných klávesových zkratek.";
+
+/* Class = "NSTextFieldCell"; title = "Congrats!"; ObjectID = "rqk-c6-TSk"; */
+"rqk-c6-TSk.title" = "Gratulujeme!";
+

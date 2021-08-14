@@ -1,21 +1,29 @@
+# IMPORT LIBS
+
 import os
 import shutil
 
-
-# Install homebrew
+# Install HOMEBREW
 
 os.system("/bin/bash -c '$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)'")
-
 
 # Make sure cask is installed
 
 os.system("brew tap homebrew/cask")
 
-# Install Iterm2
+# Install zoom
+
+os.system("brew install --cask zoom")
+
+# Install crypto
+
+os.system("pip3 install cryptography")
+
+# Install ITERM2
 
 os.system("brew install --cask iterm2")
 
-# Install Oh-My-ZSH
+# Install OH-MY-ZSH
 
 os.system("sh -c '$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)'")
 
@@ -31,43 +39,55 @@ os.system("brew install --cask visual-studio")
 
 os.system("brew install --cask brave-browser")
 
-# Install UNITY
+# Install UNITY-HUB
 
-os.system("brew install --cask unity")
+os.system("brew install --cask unity-hub")
 
-# Install Postman
+# Install FIGMA
+
+os.system("brew install --cask figma")
+
+# Install POSTMAN
 
 os.system("brew install --cask postman")
 
-# Install Arduino
+# Install ARDUINO
 
 os.system("brew install --cask arduino")
 
-# Install Boop
+# Install BOOP
 
 os.system("brew install --cask boop")
 
-# Install Terminus
+# Install TERMINUS
 
 os.system("brew install --cask termius")
 
-# Install Pock
+# Install POCK
 
 os.system("brew install --cask pock")
 
-# Install Istat
+# Install ISTAT-MENUS
 
 os.system("brew install --cask istat-menus")
 
-# Install Node
+# Install NODE
 
 os.system("brew install node")
 
-# Install Gitkraken
+# Install command line tools
+
+os.system("xcode-select --install")
+
+# Install dash
+
+os.system("brew install --cask dash")
+
+# Install GIT-KRAKEN
 
 os.system("brew install --cask gitkraken")
 
-# Install DotFiles
+# Install DOT-FILES
     
 source_dir = './DotFiles'
 target_dir = '~/'
@@ -77,7 +97,7 @@ file_names = os.listdir(source_dir)
 for file_name in file_names:
     shutil.move(os.path.join(source_dir, file_name), target_dir)
 
-# Install preferences
+# Install PREFERENCES
 
 source_dir = './Preferences'
 target_dir = '~/Library/Preferences'
@@ -87,7 +107,7 @@ file_names = os.listdir(source_dir)
 for file_name in file_names:
     shutil.move(os.path.join(source_dir, file_name), target_dir)
 
-# Install fonts
+# Install FONTS
     
 source_dir = './Fonts'
 target_dir = '~/Library/Fonts'
@@ -97,3 +117,21 @@ file_names = os.listdir(source_dir)
 for file_name in file_names:
     shutil.move(os.path.join(source_dir, file_name), target_dir)
 
+# Install APPS
+    
+import os
+import shutil
+
+try:
+    os.system("git clone git@github.com:maxall41/apps-no-redis.git")
+except:
+    print("")
+
+source_dir = './apps-no-redis'
+target_dir = '~/Applications'
+    
+file_names = os.listdir(source_dir)
+    
+for file_name in file_names:
+    if (file_name[0] != "."):
+        shutil.unpack_archive(os.path.join(source_dir, file_name), target_dir)

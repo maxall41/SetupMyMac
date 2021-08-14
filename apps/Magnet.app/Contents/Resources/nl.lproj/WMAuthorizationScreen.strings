@@ -1,0 +1,24 @@
+/* Class = "NSTextFieldCell"; title = "Security & Privacy"; ObjectID = "4bf-TC-5zX"; */
+"4bf-TC-5zX.title" = "Beveiliging en privacy";
+
+/* Class = "NSTextFieldCell"; title = "If the checkbox is disabled, \nclick the padlock and enter your password."; ObjectID = "a2b-Ov-99K"; */
+"a2b-Ov-99K.title" = "Indien de checkbox uit staat, klik op het slot en voer uw paswoord in.";
+
+/* Class = "NSTextFieldCell"; title = "Check Magnet.app"; ObjectID = "AiN-Wo-Mo7"; */
+"AiN-Wo-Mo7.title" = "Activeer Magnet.app";
+
+/* Class = "NSTextFieldCell"; title = "Go to System Preferences"; ObjectID = "Ar3-Ld-YCx"; */
+"Ar3-Ld-YCx.title" = "Ga naar Systeemvoorkeuren";
+
+/* Class = "NSTextFieldCell"; title = "Accessibility"; ObjectID = "jzg-jz-1lN"; */
+"jzg-jz-1lN.title" = "Toegankelijkheid";
+
+/* Class = "NSTextFieldCell"; title = "Privacy"; ObjectID = "KXj-so-mgO"; */
+"KXj-so-mgO.title" = "Privacy";
+
+/* Class = "NSTextFieldCell"; title = "Authorize Magnet"; ObjectID = "odV-6b-MKH"; */
+"odV-6b-MKH.title" = "Magnet Toestaan";
+
+/* Class = "NSTextFieldCell"; title = "Magnet needs your permission to manage windows. Follow these steps to authorize it:"; ObjectID = "tAs-Xv-dBX"; */
+"tAs-Xv-dBX.title" = "Magnet heft toestemming nodig voor het beheren van uw vensters. Volg deze stappen om toestemming te verlenen:";
+

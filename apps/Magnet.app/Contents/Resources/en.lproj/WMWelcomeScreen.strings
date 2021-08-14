@@ -1,0 +1,12 @@
+
+/* Class = "NSButtonCell"; title = "Launch Magnet at login"; ObjectID = "6V8-zu-QsG"; */
+"6V8-zu-QsG.title" = "Launch Magnet at login";
+
+/* Class = "NSTextFieldCell"; title = "You have just gained a productivity boost. \nDrag windows to the edges and corners to make them fullscreen, halves, quarters & thirds."; ObjectID = "Jhs-k6-BXc"; */
+"Jhs-k6-BXc.title" = "You have just gained a productivity boost. \nDrag windows to the edges and corners to make them fullscreen, halves, quarters & thirds.";
+
+/* Class = "NSTextFieldCell"; title = "And if dragging doesn’t float your boat, \nthere is always a little icon sitting in the Menu Bar where you can access all the features and define keyboard shortcuts."; ObjectID = "kJx-xa-As8"; */
+"kJx-xa-As8.title" = "And if dragging doesn’t float your boat, \nthere is always a little icon sitting \nin the menu bar where you can access \nall features and define keyboard shortcuts.";
+
+/* Class = "NSTextFieldCell"; title = "Congrats!"; ObjectID = "rqk-c6-TSk"; */
+"rqk-c6-TSk.title" = "Congrats!";

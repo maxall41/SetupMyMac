@@ -1,0 +1,24 @@
+/* Class = "NSTextFieldCell"; title = "Security & Privacy"; ObjectID = "4bf-TC-5zX"; */
+"4bf-TC-5zX.title" = "Sécurité et confidentialité";
+
+/* Class = "NSTextFieldCell"; title = "If the checkbox is disabled, \nclick the padlock and enter your password."; ObjectID = "a2b-Ov-99K"; */
+"a2b-Ov-99K.title" = "Si la case est bloquée, cliquez sur le verrou et saisissez votre mot de passe.";
+
+/* Class = "NSTextFieldCell"; title = "Check Magnet.app"; ObjectID = "AiN-Wo-Mo7"; */
+"AiN-Wo-Mo7.title" = "Cochez Magnet.app";
+
+/* Class = "NSTextFieldCell"; title = "Go to System Preferences"; ObjectID = "Ar3-Ld-YCx"; */
+"Ar3-Ld-YCx.title" = "Allez à Préférences Système";
+
+/* Class = "NSTextFieldCell"; title = "Accessibility"; ObjectID = "jzg-jz-1lN"; */
+"jzg-jz-1lN.title" = "Accessibilité";
+
+/* Class = "NSTextFieldCell"; title = "Privacy"; ObjectID = "KXj-so-mgO"; */
+"KXj-so-mgO.title" = "Confidentialité";
+
+/* Class = "NSTextFieldCell"; title = "Authorize Magnet"; ObjectID = "odV-6b-MKH"; */
+"odV-6b-MKH.title" = "Autoriser Magnet";
+
+/* Class = "NSTextFieldCell"; title = "Magnet needs your permission to manage windows. Follow these steps to authorize it:"; ObjectID = "tAs-Xv-dBX"; */
+"tAs-Xv-dBX.title" = "Magnet nécessite votre permission pour\ngérer les fenêtres. Suivez ces étapes pour\nl’y autoriser:";
+

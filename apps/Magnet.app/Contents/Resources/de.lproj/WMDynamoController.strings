@@ -1,0 +1,9 @@
+
+/* Class = "NSTextFieldCell"; title = "We've made another app\nthat will save your precious time.\nWould you like to see it?"; ObjectID = "OKL-Ya-Qvd"; */
+"OKL-Ya-Qvd.title" = "Wir haben eine weitere App entwickelt,\ndie Ihnen wertvolle Zeit einsparen wird.\nMöchten Sie sie sehen?";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "gFr-dm-lsS"; */
+"gFr-dm-lsS.title" = "Nein";
+
+/* Class = "NSButtonCell"; title = "Show"; ObjectID = "rv5-BI-6Eo"; */
+"rv5-BI-6Eo.title" = "Ja";
