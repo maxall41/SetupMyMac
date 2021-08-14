@@ -1,0 +1,40 @@
+{
+  "remoteParents": {
+    "github": {
+      "maxall41": {
+        "Prometheus": {
+          "hostingServiceType": "github",
+          "owner": "maxall41",
+          "name": "Prometheus"
+        }
+      }
+    }
+  },
+  "upstreamFrecencyMetadata": {
+    "origin": {
+      "id": "remote-origin",
+      "timestamps": [
+        1622342098709
+      ],
+      "total": 1
+    }
+  },
+  "remoteHeadCollectionByRemoteName": {
+    "origin": {
+      "HEAD": {
+        "name": "HEAD",
+        "oid": "364f459dbae71a79af891c02c259838a91c43d45",
+        "local": 0,
+        "loid": "0000000000000000000000000000000000000000",
+        "symrefTarget": "refs/heads/main"
+      },
+      "refs/heads/main": {
+        "name": "refs/heads/main",
+        "oid": "364f459dbae71a79af891c02c259838a91c43d45",
+        "local": 1,
+        "loid": "0000000000000000000000000000000000000000",
+        "symrefTarget": null
+      }
+    }
+  }
+}
