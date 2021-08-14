@@ -1,9 +1,15 @@
 import os
+import shutil
 
 
 # Install homebrew
 
 os.system("/bin/bash -c '$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)'")
+
+
+# Make sure cask is installed
+
+os.system("brew tap homebrew/cask")
 
 # Install Iterm2
 
@@ -62,9 +68,6 @@ os.system("brew install node")
 os.system("brew install --cask gitkraken")
 
 # Install DotFiles
-
-import shutil
-import os
     
 source_dir = './DotFiles'
 target_dir = '~/'
@@ -73,3 +76,24 @@ file_names = os.listdir(source_dir)
     
 for file_name in file_names:
     shutil.move(os.path.join(source_dir, file_name), target_dir)
+
+#Install preferences
+
+source_dir = './Preferences'
+target_dir = '~/Library/Preferences'
+    
+file_names = os.listdir(source_dir)
+    
+for file_name in file_names:
+    shutil.move(os.path.join(source_dir, file_name), target_dir)
+
+# Install fonts
+    
+source_dir = './Fonts'
+target_dir = '~/Library/Fonts'
+    
+file_names = os.listdir(source_dir)
+    
+for file_name in file_names:
+    shutil.move(os.path.join(source_dir, file_name), target_dir)
+

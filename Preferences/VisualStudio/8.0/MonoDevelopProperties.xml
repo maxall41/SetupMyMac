@@ -1,0 +1,35 @@
+﻿<MonoDevelopProperties version="2.0">
+  <Property key="/MonoDevelop/Ide/GlobalOptionsDialog-lastPanel" value="SyntaxHighlighting" />
+  <Property key="Author.Copyright" value="" />
+  <Property key="Author.Email" value="maxall4@protonmail.com" />
+  <Property key="ColorScheme-Dark" value="Solarized Dark" />
+  <Property key="DotNetCore.DismissedSurveysList" />
+  <Property key="FavoriteRecentFiles" />
+  <Property key="IncludeWhitespaces" value="All" />
+  <Property key="MonoDevelop.Core.FirstRun" value="False" />
+  <Property key="MonoDevelop.Core.LastRunVersion" value="8.10.6.10" />
+  <Property key="MonoDevelop.Ide.AddinUpdater.LastCheck" value="08/12/2021 12:43:53" />
+  <Property key="MonoDevelop.Ide.AddinUpdater.UpdateChannel" value="Stable" />
+  <Property key="MonoDevelop.Ide.UserInterfaceTheme" value="Dark" />
+  <Property key="MonoDevelop.Unity.Configuration.Settings.PersistentDebugTargets">
+    <ArrayOfPersistentDebugTarget xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+  </Property>
+  <Property key="Monodevelop.TaskList.ActiveView" value="MonoDevelop.Ide.Tasks.CommentTasksView" />
+  <Property key="Monodevelop.UserTasksHighPrioColor-Dark" value="rgb:c5f6/2985/2985" />
+  <Property key="Monodevelop.UserTasksLowPrioColor-Dark" value="rgb:6c38/e69f/8bd2" />
+  <Property key="Monodevelop.UserTasksNormalPrioColor-Dark" value="rgb:28c2/606b/ffff" />
+  <Property key="SharpDevelop.Workbench.WorkbenchMemento">
+    <Property key="bounds" value="146, 150, 1294, 750" />
+    <Property key="fullscreen" value="False" />
+    <Property key="windowState" value="Withdrawn" />
+  </Property>
+  <Property key="TextEditor.CSharp.Specific.TriggerOnDeletion" value="False" />
+  <Property key="TextEditor.F#.Specific.BackgroundAnalysisScopeOption" value="ActiveFile" />
+  <Property key="TextEditor.F#.Specific.Closed File Diagnostic" value="False" />
+  <Property key="TextEditor.TypeScript.Specific.BackgroundAnalysisScopeOption" value="FullSolution" />
+  <Property key="TextEditor.TypeScript.Specific.BlockForCompletionItems" value="False" />
+  <Property key="TrialNotificationExpiryDays" value="2" />
+  <Property key="VisualStudio.Ide.Updater.UpdaterDialog.LastAutomaticOpen" value="08/11/2021 16:51:05" />
+  <Property key="XS.TargetedNotifications.DismissedList" />
+  <Property key="Xamarin.Ide.GetToCode.PromptForSignIn" value="False" />
+</MonoDevelopProperties>

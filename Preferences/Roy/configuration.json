@@ -1,0 +1,33 @@
+{
+  "statusItemImageName" : "icon-pick",
+  "useUppercase" : false,
+  "floatPrecision" : 3,
+  "paschaModeEnabled" : false,
+  "recentPicks" : [
+    {
+      "format" : "Hex",
+      "color" : {
+        "r" : 0.80000001192092896,
+        "g" : 0.92941176891326904,
+        "b" : 0.88235294818878174,
+        "a" : 1
+      }
+    },
+    {
+      "format" : "Hex",
+      "color" : {
+        "a" : 1,
+        "g" : 0.094117647058823528,
+        "r" : 0.21568627450980393,
+        "b" : 0.37647058823529411
+      }
+    }
+  ],
+  "magnificationLevel" : 8,
+  "focusModeModifier" : 262144,
+  "colorSpace" : "",
+  "activatingShortcut" : {
+
+  },
+  "chosenFormat" : "Hex"
+}

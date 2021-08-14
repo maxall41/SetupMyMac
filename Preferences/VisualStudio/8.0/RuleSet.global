@@ -1,0 +1,4 @@
+<RuleSet Name="Global Rules" ToolsVersion="12.0">
+    <Rules AnalyzerId="Roslyn" RuleNamespace="Roslyn">>
+    </Rules>
+</RuleSet>

@@ -1,0 +1,16 @@
+UseIconsInMenus=0
+IconScale=0
+MousewheelPAN=0
+ZoomNoCenter=0
+AutoPAN=1
+OpenGLAntialiasingMode=0
+CairoAntialiasingMode=0
+WorkingDir=/private/var/folders/pj/pr051ht50nd5blxlzvhzfcnw0000gn/T/AppTranslocation/809C14EE-11D2-48D7-89FA-18E97BBC3C3B/d/kicad.app/Contents/Applications
+ShowEnvVarWarningDialog=1
+[EnvironmentVariables]
+KICAD_SYMBOL_DIR=/Library/Application Support/kicad/library
+KICAD_TEMPLATE_DIR=/Library/Application Support/kicad/template
+KICAD_USER_TEMPLATE_DIR=/Users/maxcampbell/Documents/kicad/template
+KIGITHUB=https://github.com/KiCad
+KISYS3DMOD=/Library/Application Support/kicad/modules/packages3d/
+KISYSMOD=/Library/Application Support/kicad/modules
