@@ -97,16 +97,6 @@ file_names = os.listdir(source_dir)
 for file_name in file_names:
     shutil.move(os.path.join(source_dir, file_name), target_dir)
 
-# Install PREFERENCES
-
-source_dir = './Preferences'
-target_dir = '~/Library/Preferences'
-    
-file_names = os.listdir(source_dir)
-    
-for file_name in file_names:
-    shutil.move(os.path.join(source_dir, file_name), target_dir)
-
 # Install FONTS
     
 source_dir = './Fonts'
