@@ -15,7 +15,7 @@ def is_tool(name):
 
 os.system("/bin/bash -c '$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)'")
 
-if is_tool("brew") == false:
+if is_tool("brew") == False:
     print("Please add Homebrew to your path and then run this script again 🍺")
 
 # Make sure cask is installed
