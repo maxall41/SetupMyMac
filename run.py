@@ -3,9 +3,20 @@
 import os
 import shutil
 
+# Functions
+
+def is_tool(name):
+    """Check whether `name` is on PATH."""
+
+    from distutils.spawn import find_executable
+
+    return find_executable(name) is not None
 # Install HOMEBREW
 
 os.system("/bin/bash -c '$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)'")
+
+if is_tool("brew") == false:
+    print("Please add Homebrew to your path and then run this script again 🍺")
 
 # Make sure cask is installed
 
@@ -31,9 +42,9 @@ os.system("sh -c '$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/too
 
 os.system("brew install --cask visual-studio-code")
 
-# Install VISUAL-STUDIO
+# Install RIDER
 
-os.system("brew install --cask visual-studio")
+os.system("brew install --cask rider")
 
 # Install BRAVE-BROWSER
 
@@ -87,6 +98,8 @@ os.system("brew install --cask dash")
 
 os.system("brew install --cask gitkraken")
 
+print("🚀 Installed APPS")
+
 # Install DOT-FILES
     
 source_dir = './DotFiles'
@@ -96,6 +109,7 @@ file_names = os.listdir(source_dir)
     
 for file_name in file_names:
     shutil.move(os.path.join(source_dir, file_name), target_dir)
+print("🚀 Installed Dot files")
 
 # Install FONTS
     
@@ -106,22 +120,9 @@ file_names = os.listdir(source_dir)
     
 for file_name in file_names:
     shutil.move(os.path.join(source_dir, file_name), target_dir)
-
-# Install APPS
-
-# import os
-# import shutil
-
-# try:
-#     os.system("git clone git@github.com:maxall41/apps-no-redis.git")
-# except:
-#     print("")
-
-# source_dir = './apps-no-redis'
-# target_dir = 'C:/Users/maxcampbell/'
-
-# file_names = os.listdir(source_dir)
-
-# for file_name in file_names:
-#     if (file_name[0] != "."):
-#         shutil.unpack_archive(os.path.join(source_dir, file_name), target_dir)
+print("🚀 Installed FONTS")
+ # Other stuff
+print("--------------- DONE ---------------")
+print("Some steps must be taken manually to install the following tools:")
+print("Roy")
+print("Mirror")
