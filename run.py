@@ -94,17 +94,21 @@ os.system("brew install --cask boop")
 
 os.system("brew install --cask termius")
 
-# Install POCK
+# Install Balena
 
-os.system("brew install --cask pock")
+os.system("brew install --cask balenaetcher")
 
-# Install ISTAT-MENUS
+# Install raspberry pi imager
 
-os.system("brew install --cask istat-menus")
+os.system("brew install --cask raspberry-pi-imager")
 
 # Install dash
 
 os.system("brew install --cask dash")
+
+# Install Teams
+
+os.system("brew install --cask microsoft-teams")
 
 # Install GIT-KRAKEN
 
