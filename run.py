@@ -30,6 +30,10 @@ from fontTools.ttLib import TTFont
 
 os.system("brew tap homebrew/cask")
 
+# Install Oh My ZSH
+
+os.system("sh -c '$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)'")
+
 # Install XXH
 
 os.system("brew install xxh")
