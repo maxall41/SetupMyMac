@@ -6,6 +6,10 @@ import subprocess
 import bootstrap
 import utils
 
+# Run pre bootstrap setup code
+
+bootstrap.pre_bootstrap()
+
 # Check if Homebrew is installed
 
 if utils.is_tool("brew") == False:
@@ -13,9 +17,9 @@ if utils.is_tool("brew") == False:
     print("Link: https://brew.sh")
     exit()
 
-# Bootstrap
+# Run bootstrap
 
-bootstrap.run()
+bootstrap.bootstrap()
 
 # Import stuff after bootstrap
 
