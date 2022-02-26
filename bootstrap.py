@@ -11,3 +11,5 @@ def pre_bootstrap():
   os.system("pip3 install --upgrade pip")
   # Install RICH
   os.system("pip3 install rich")
+  # Install FONTTOOLS
+  os.system("pip3 install fonttools")
