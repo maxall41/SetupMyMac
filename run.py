@@ -12,14 +12,14 @@ bootstrap.run()
 
 # Import stuff after bootstrap
 
-from rich.console import Console
+from rich import print
 
 # Install HOMEBREW
 
 os.system("/bin/bash -c '$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)'")
 
 if utils.is_tool("brew") == False:
-    print("Please add Homebrew to your path and then run this script again 🍺")
+    print("[bold red]Please add Homebrew to your path and then run this script again[/bold red] 🍺")
 
 # Make sure cask is installed
 
@@ -101,7 +101,10 @@ os.system("brew install --cask dash")
 
 os.system("brew install --cask gitkraken")
 
-print("🚀 Installed APPS")
+
+# Extra
+
+print("🚀 [bold green] Installed APPS[/bold green]")
 
 # Install DOT-FILES
     
@@ -112,7 +115,8 @@ file_names = os.listdir(source_dir)
     
 for file_name in file_names:
     shutil.move(os.path.join(source_dir, file_name), target_dir)
-print("🚀 Installed Dot files")
+
+print("🚀 [bold green]Installed DOTFILES[/bold green]")
 
 # Install FONTS
     
@@ -123,9 +127,8 @@ file_names = os.listdir(source_dir)
     
 for file_name in file_names:
     shutil.move(os.path.join(source_dir, file_name), target_dir)
-print("🚀 Installed FONTS")
- # Other stuff
-print("--------------- DONE ---------------")
-print("Some steps must be taken manually to install the following tools:")
-print("Roy")
-print("Mirror")
+
+print("🚀 [bold green]Installed FONTS[/bold green]")
+# Other stuff
+print("[bold purple]--------------- DONE ---------------[/bold purple]")
+print("[bold yellow]Some steps must be taken manually to install the following tools:\nRoy: https://www.useroy.com\nMagnet: https://apps.apple.com/us/app/magnet/id441258766?mt=12[/bold yellow]")
