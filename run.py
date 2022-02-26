@@ -133,4 +133,4 @@ print("🚀 [bold green]Installed FONTS[/bold green]")
 
 # Other stuff
 print("[bold purple]--------------- DONE ---------------[/bold purple]")
-print("[bold yellow]Some steps must be taken manually to install the following tools:\nRoy: https://www.useroy.com\nMagnet: https://apps.apple.com/us/app/magnet/id441258766?mt=12[/bold yellow]\nFonts also need to be installed manually")
+print("[bold yellow]Some steps must be taken manually to install the following tools:\nRoy: https://www.useroy.com\nMagnet: https://apps.apple.com/us/app/magnet/id441258766?mt=12[/bold yellow]")
