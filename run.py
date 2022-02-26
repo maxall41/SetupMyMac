@@ -4,15 +4,7 @@ import os
 import shutil
 import subprocess
 import bootstrap
-
-# Functions
-
-def is_tool(name):
-    """Check whether `name` is on PATH."""
-
-    from distutils.spawn import find_executable
-
-    return find_executable(name) is not None
+import utils
 
 # Bootstrap
 
@@ -26,7 +18,7 @@ from rich.console import Console
 
 os.system("/bin/bash -c '$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)'")
 
-if is_tool("brew") == False:
+if utils.is_tool("brew") == False:
     print("Please add Homebrew to your path and then run this script again 🍺")
 
 # Make sure cask is installed
