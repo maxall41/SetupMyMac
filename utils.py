@@ -4,3 +4,5 @@ def is_tool(name):
     from distutils.spawn import find_executable
 
     return find_executable(name) is not None
+def check_if_hyperlinks_supported():
+    return True
