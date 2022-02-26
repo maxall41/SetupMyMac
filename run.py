@@ -3,6 +3,7 @@
 import os
 import shutil
 import subprocess
+import bootstrap
 
 # Functions
 
@@ -12,6 +13,14 @@ def is_tool(name):
     from distutils.spawn import find_executable
 
     return find_executable(name) is not None
+
+# Bootstrap
+
+bootstrap.run()
+
+# Import stuff after bootstrap
+
+from rich.console import Console
 
 # Install HOMEBREW
 
