@@ -122,7 +122,7 @@ print("🚀 [bold green]Installed DOTFILES[/bold green]")
 # Install FONTS
     
 source_dir = './Fonts'
-target_dir = '../../Fonts'
+target_dir = '../../Library/Fonts'
     
 file_names = os.listdir(source_dir)
     
