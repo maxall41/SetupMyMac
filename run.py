@@ -110,7 +110,7 @@ print("🚀 [bold green] Installed APPS[/bold green]")
 # Install DOT-FILES
     
 source_dir = './DotFiles'
-target_dir = '~/'
+target_dir = '../../'
     
 file_names = os.listdir(source_dir)
     
@@ -119,7 +119,18 @@ for file_name in file_names:
 
 print("🚀 [bold green]Installed DOTFILES[/bold green]")
 
+# Install FONTS
+    
+source_dir = './Fonts'
+target_dir = '../../Fonts'
+    
+file_names = os.listdir(source_dir)
+    
+for file_name in file_names:
+    shutil.move(os.path.join(source_dir, file_name), target_dir)
+
 print("🚀 [bold green]Installed FONTS[/bold green]")
+
 # Other stuff
 print("[bold purple]--------------- DONE ---------------[/bold purple]")
 print("[bold yellow]Some steps must be taken manually to install the following tools:\nRoy: https://www.useroy.com\nMagnet: https://apps.apple.com/us/app/magnet/id441258766?mt=12[/bold yellow]\nFonts also need to be installed manually")
