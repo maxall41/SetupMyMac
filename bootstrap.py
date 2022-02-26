@@ -8,6 +8,6 @@ def bootstrap():
 
 def pre_bootstrap():
   # Make sure PIP is latest
-  os.system("pip3 install --upgrade pip3")
+  os.system("pip3 install --upgrade pip")
   # Install RICH
   os.system("pip3 install rich")
