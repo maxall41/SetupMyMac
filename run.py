@@ -20,6 +20,7 @@ os.system("/bin/bash -c '$(curl -fsSL https://raw.githubusercontent.com/Homebrew
 
 if utils.is_tool("brew") == False:
     print("[bold red]Please add Homebrew to your path and then run this script again[/bold red] 🍺")
+    exit()
 
 # Make sure cask is installed
 
