@@ -24,6 +24,7 @@ bootstrap.bootstrap()
 # Import stuff after bootstrap
 
 from rich import print
+from fontTools.ttLib import TTFont
 
 # Make sure cask is installed
 
@@ -121,12 +122,12 @@ print("🚀 [bold green]Installed DOTFILES[/bold green]")
 # Install FONTS
     
 source_dir = './Fonts'
-target_dir = '~/Library/Fonts'
     
 file_names = os.listdir(source_dir)
     
 for file_name in file_names:
-    shutil.move(os.path.join(source_dir, file_name), target_dir)
+    font = TTFont("./Fonts/" + file_name)
+    font.save()
 
 print("🚀 [bold green]Installed FONTS[/bold green]")
 # Other stuff
