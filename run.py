@@ -127,7 +127,7 @@ file_names = os.listdir(source_dir)
     
 for file_name in file_names:
     font = TTFont("./Fonts/" + file_name)
-    font.save("~/Library/Fonts")
+    font.save(os.path.join(ROOT_DIR, '~/Library/Fonts'))
 
 print("🚀 [bold green]Installed FONTS[/bold green]")
 # Other stuff
