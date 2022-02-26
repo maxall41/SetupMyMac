@@ -24,6 +24,10 @@ if is_tool("brew") == False:
 
 os.system("brew tap homebrew/cask")
 
+# Install XXH
+
+os.system("brew install xxh")
+
 # Install zoom
 
 os.system("brew install --cask zoom")
