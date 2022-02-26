@@ -6,6 +6,11 @@ import subprocess
 import bootstrap
 import utils
 
+
+# Check if hyperlinks are supported and cache that for future use
+
+cached_hyperlink_support = utils.check_if_hyperlinks_supported()
+
 # Run pre bootstrap setup code
 
 bootstrap.pre_bootstrap()
@@ -14,7 +19,8 @@ bootstrap.pre_bootstrap()
 
 if utils.is_tool("brew") == False:
     print("[bold red]Please install [link=https://brew.sh]Homebrew[/link] then run this script again[/bold red] 🍺")
-    print("Link: https://brew.sh")
+    if cached_hyperlink_support == False:
+        print("Link: https://brew.sh")
     exit()
 
 # Run bootstrap
