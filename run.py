@@ -6,6 +6,13 @@ import subprocess
 import bootstrap
 import utils
 
+# Check if Homebrew is installed
+
+if utils.is_tool("brew") == False:
+    print("[bold red]Please install [link=https://brew.sh]Homebrew[/link] then run this script again[/bold red] 🍺")
+    print("Link: https://brew.sh")
+    exit()
+
 # Bootstrap
 
 bootstrap.run()
@@ -13,13 +20,6 @@ bootstrap.run()
 # Import stuff after bootstrap
 
 from rich import print
-
-# Check if Homebrew is installed
-
-if utils.is_tool("brew") == False:
-    print("[bold red]Please install [link=https://brew.sh]Homebrew[/link] then run this script again[/bold red] 🍺")
-    print("Link: https://brew.sh")
-    exit()
 
 # Make sure cask is installed
 
