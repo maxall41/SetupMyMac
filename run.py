@@ -18,6 +18,7 @@ from rich import print
 
 if utils.is_tool("brew") == False:
     print("[bold red]Please install [link=https://brew.sh]Homebrew[/link] then run this script again[/bold red] 🍺")
+    print("Link: https://brew.sh")
     exit()
 
 # Make sure cask is installed
@@ -87,10 +88,6 @@ os.system("brew install --cask pock")
 # Install ISTAT-MENUS
 
 os.system("brew install --cask istat-menus")
-
-# Install NODE
-
-os.system("brew install node")
 
 # Install dash
 
