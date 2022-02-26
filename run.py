@@ -122,12 +122,12 @@ print("🚀 [bold green]Installed DOTFILES[/bold green]")
 # Install FONTS
     
 source_dir = './Fonts'
+target_dir = '~/Library/Fonts'
     
 file_names = os.listdir(source_dir)
     
 for file_name in file_names:
-    font = TTFont("./Fonts/" + file_name)
-    font.save(os.path.join(ROOT_DIR, '~/Library/Fonts'))
+    shutil.move(os.path.join(source_dir, file_name), target_dir)
 
 print("🚀 [bold green]Installed FONTS[/bold green]")
 # Other stuff
