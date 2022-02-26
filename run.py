@@ -14,12 +14,10 @@ bootstrap.run()
 
 from rich import print
 
-# Install HOMEBREW
-
-os.system("/bin/bash -c '$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)'")
+# Check if Homebrew is installed
 
 if utils.is_tool("brew") == False:
-    print("[bold red]Please add Homebrew to your path and then run this script again[/bold red] 🍺")
+    print("[bold red]Please install [link=https://brew.sh]Homebrew[/link] then run this script again[/bold red] 🍺")
     exit()
 
 # Make sure cask is installed
