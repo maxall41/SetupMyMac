@@ -21,10 +21,6 @@ if utils.is_tool("brew") == False:
 
 bootstrap.bootstrap()
 
-# Check if hyperlinks are supported and cache that for future use
-
-cached_hyperlink_support = utils.check_if_hyperlinks_supported()
-
 # Import stuff after bootstrap
 
 from rich import print
