@@ -2,6 +2,7 @@
 
 import os
 import shutil
+import subprocess
 
 # Functions
 
@@ -11,6 +12,17 @@ def is_tool(name):
     from distutils.spawn import find_executable
 
     return find_executable(name) is not None
+
+# Install command line tools (If not installed)
+
+check = subprocess.run(['xcode-select -p'], stdout=subprocess.PIPE)
+check_result = check.stdout
+
+if "unable to get active developer directory" in check_result:
+    print("Xcode devtools are not installed follow the prompts then rerun this command to continue")
+    os.system("xcode-select --install")
+    exit()
+
 # Install HOMEBREW
 
 os.system("/bin/bash -c '$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)'")
@@ -85,10 +97,6 @@ os.system("brew install --cask istat-menus")
 # Install NODE
 
 os.system("brew install node")
-
-# Install command line tools
-
-os.system("xcode-select --install")
 
 # Install dash
 
