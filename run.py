@@ -61,6 +61,10 @@ os.system("brew install bat")
 
 os.system("brew install --cask iterm2")
 
+# Install Mosh
+
+os.system("brew install mosh")
+
 # Install OH-MY-ZSH
 
 os.system("sh -c '$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)'")
