@@ -1,3 +1,9 @@
+alias ...='cd ../..'
+alias ls='exa'
+alias cat='bat'
+function $ {
+	$1
+}
 alias nano='micro'
 alias ssh='xxh'
 alias c='clear'
@@ -18,11 +24,4 @@ function cf {
 }
 alias g="git"
 alias ..='cd ..'
-alias ...='cd ../..'
-alias ls='exa'
-alias top='btm'
-alias stats='btm'
-alias cat='bat'
-function $ {
-	$1
-}
+alias reload='source ~/.zshrc'
