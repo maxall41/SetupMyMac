@@ -94,6 +94,10 @@ os.system("brew install --cask boop")
 
 os.system("brew install --cask termius")
 
+# Install STEAM
+
+os.system("brew install --cask steam")
+
 # Install Balena
 
 os.system("brew install --cask balenaetcher")
