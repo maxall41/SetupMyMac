@@ -21,3 +21,6 @@ alias ..='cd ..'
 alias ...='cd ../..'
 alias ls='exa'
 alias cat='bat'
+function $ {
+	$1
+}
