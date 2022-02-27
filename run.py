@@ -165,6 +165,13 @@ os.system("brew install --cask microsoft-teams")
 
 os.system("brew install --cask gitkraken")
 
+# Install Yarn
+
+os.system("npm install --global yarn")
+
+# Install MORO
+
+os.system("yarn global add moro")
 
 # Extra
 
