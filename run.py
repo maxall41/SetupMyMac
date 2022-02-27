@@ -24,11 +24,14 @@ bootstrap.bootstrap()
 # Import stuff after bootstrap
 
 from rich import print
-from fontTools.ttLib import TTFont
 
 # Make sure cask is installed
 
 os.system("brew tap homebrew/cask")
+
+# Install Poetry
+
+os.system("curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python -")
 
 # Install Oh My ZSH
 
