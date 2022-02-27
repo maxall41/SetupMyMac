@@ -25,3 +25,5 @@ function cf {
 alias g="git"
 alias ..='cd ..'
 alias reload='source ~/.zshrc'
+alias stats="btm"
+alias top="btm"
