@@ -173,6 +173,8 @@ target_dir = '../../.oh-my-zsh/custom/aliases.zsh'
 
 shutil.copy(source_file, target_file)
 
+print("🚀 [bold green]Installed Aliases[/bold green]")
+
 # Install DOT-FILES
     
 source_dir = './DotFiles'
