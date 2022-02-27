@@ -20,6 +20,8 @@ alias g="git"
 alias ..='cd ..'
 alias ...='cd ../..'
 alias ls='exa'
+alias top='btm'
+alias stats='btm'
 alias cat='bat'
 function $ {
 	$1
