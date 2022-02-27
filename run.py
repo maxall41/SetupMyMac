@@ -77,6 +77,10 @@ os.system("brew install --cask rider")
 
 os.system("brew install --cask brave-browser")
 
+# Install BOTTOm
+
+os.system("brew install bottom")
+
 # Install UNITY-HUB
 
 os.system("brew install --cask unity-hub")
