@@ -166,6 +166,13 @@ os.system("brew install --cask gitkraken")
 
 print("🚀 [bold green] Installed APPS[/bold green]")
 
+# Install Aliases
+    
+source_file = './aliases.zsh'
+target_dir = '../../.oh-my-zsh/custom/aliases.zsh'
+
+shutil.copy(source_file, target_file)
+
 # Install DOT-FILES
     
 source_dir = './DotFiles'
