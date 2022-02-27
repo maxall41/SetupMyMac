@@ -53,6 +53,10 @@ os.system("brew install --cask zoom")
 
 os.system("pip3 install cryptography")
 
+# Install BAT
+
+os.system("brew install bat")
+
 # Install ITERM2
 
 os.system("brew install --cask iterm2")
