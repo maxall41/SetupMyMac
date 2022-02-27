@@ -141,6 +141,10 @@ os.system("brew install --cask raspberry-pi-imager")
 
 os.system("brew install thefuck")
 
+# Install golang
+
+os.system("brew install go")
+
 # Install image tools
 
 os.system("brew install imagemagick")
