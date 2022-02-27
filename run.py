@@ -94,6 +94,10 @@ os.system("brew install --cask arduino")
 
 os.system("brew install --cask boop")
 
+# Install FIG
+
+os.system("brew install --cask fig")
+
 # Install TERMINUS
 
 os.system("brew install --cask termius")
