@@ -114,6 +114,26 @@ os.system("brew install --cask balenaetcher")
 
 os.system("brew install --cask raspberry-pi-imager")
 
+# Install thefuck
+
+os.system("brew install thefuck")
+
+# Install image tools
+
+os.system("brew install imagemagick")
+
+# Install Archey
+
+os.system("brew install archey")
+
+# Install NVM
+
+os.system("brew install nvm")
+
+# Install WGET
+
+os.system("brew install wget")
+
 # Install dash
 
 os.system("brew install --cask dash")
