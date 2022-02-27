@@ -5,7 +5,6 @@ function $ {
 	$1
 }
 alias nano='micro'
-alias ssh='xxh'
 alias c='clear'
 function up {
        if [[ "$#" < 1 ]] ; then
