@@ -82,6 +82,10 @@ os.system("brew install --cask figma")
 
 os.system("brew install --cask postman")
 
+# Install GeforceNow
+
+os.system("brew install --cask nvidia-geforce-now")
+
 # Install ARDUINO
 
 os.system("brew install --cask arduino")
