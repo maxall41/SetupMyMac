@@ -85,6 +85,10 @@ os.system("brew install --cask figma")
 
 os.system("brew install --cask postman")
 
+# Install MICRO
+
+os.system("brew install micro")
+
 # Install GeforceNow
 
 os.system("brew install --cask nvidia-geforce-now")
@@ -112,6 +116,10 @@ os.system("brew install --cask steam")
 # Install Balena
 
 os.system("brew install --cask balenaetcher")
+
+# Install EXA
+
+os.system("brew install exa")
 
 # Install raspberry pi imager
 
