@@ -2,7 +2,7 @@
 
 ## Instructions
 
-## One click install
+### One command install
 ```
 curl -sSL setup.maxc.codes | bash
 ```
