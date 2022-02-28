@@ -61,6 +61,10 @@ os.system("brew install --cask autodesk-fusion360")
 
 os.system("pip3 install cryptography")
 
+# Install GIMP
+
+os.system("brew install --cask gimp")
+
 # Install BAT
 
 os.system("brew install bat")
