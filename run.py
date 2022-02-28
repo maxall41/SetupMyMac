@@ -53,6 +53,10 @@ os.system("brew install xxh")
 
 os.system("brew install --cask zoom")
 
+# Install Fusion360
+
+os.system("brew install --cask autodesk-fusion360")
+
 # Install crypto
 
 os.system("pip3 install cryptography")
