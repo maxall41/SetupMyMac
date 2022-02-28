@@ -77,6 +77,10 @@ os.system("brew install mosh")
 
 os.system("sh -c '$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)'")
 
+# Install Unarchiver
+
+os.system("brew install --cask the-unarchiver")
+
 # Install VS-CODE
 
 os.system("brew install --cask visual-studio-code")
