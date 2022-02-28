@@ -29,6 +29,10 @@ from rich import print
 
 os.system("brew tap homebrew/cask")
 
+# Install UnRar
+
+os.system("brew install unar")
+
 # Install Poetry
 
 os.system("curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python -")
