@@ -6,8 +6,9 @@
 ```
 curl -sSL setup.maxc.codes | bash
 ```
+### Manual
 
-IMPORTANT: ⚠️ Make sure to run this in your `Downloads` directory ⚠️
+IMPORTANT: ⚠️ If using Manual install make sure to run this in your `Downloads` directory ⚠️
 
 ```python3 run.py```
 or if that fails
