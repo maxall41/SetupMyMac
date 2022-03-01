@@ -129,6 +129,10 @@ os.system("brew install --cask arduino")
 
 os.system("brew install --cask boop")
 
+# Install Whatsapp
+
+os.system("brew install --cask whatsapp")
+
 # Install FIG
 
 os.system("brew install --cask fig")
