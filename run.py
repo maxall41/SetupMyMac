@@ -69,6 +69,10 @@ os.system("brew install --cask gimp")
 
 os.system("brew install bat")
 
+# Install KiCad
+
+os.system("brew install --cask kicad")
+
 # Install ITERM2
 
 os.system("brew install --cask iterm2")
