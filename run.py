@@ -81,6 +81,8 @@ os.system("brew install --cask kicad")
 
 os.system("brew install --cask iterm2")
 
+os.system("cp ./com.googlecode.iterm2.plist ~/Library/Preferences")
+
 # Install Mosh
 
 os.system("brew install mosh")
