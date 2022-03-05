@@ -6,6 +6,64 @@ import subprocess
 import bootstrap
 import utils
 
+# Modules
+
+def nas_module():
+    try:
+        confirm = Prompt.ask("[bold green]Would you like to configure a NAS? Note: This is required for downloading custom apps. y/n:[/bold green]")
+        if lower(confirm) == "y":
+            ip = Prompt.ask("IP: ")
+            username = Prompt.ask("Username: ")
+            password = Prompt.ask("Password: ")
+            pool = Prompt.ask("Pool name (default: Main):",default="Main")
+            os.system("open 'smb://" + username + ":" + password + "@" + ip + "/" + pool + "/" + username + "/'")
+            copy_path = "../../../Volumes/" + username + "/Utils/apps"
+            print("C " + copy_path)
+
+            target_dir = './'
+
+            file_names = os.listdir(copy_path)
+            for file_name in file_names:
+                shutil.copy(os.path.join(copy_path, file_name), target_dir)
+                if ".dmg" in file_name:
+                    os.system("hdiutil attach " + file_name)
+                    app_path = "../../../Volumes/" + file_name.split(" ")[0] + "/" + file_name.split(" ")[0] + ".app"
+                    os.system("cp -r " + app_path + " ../Applications/" + file_name.split(" ")[0])
+                else:
+                    print("[bold yellow]Not installing " + file_name + " because it has an unsupported file extension. The supported file extensions are:\n.dmg[/bold yellow]")
+        else:
+            print("[bold yellow]Not configuring NAS[/bold yellow]")
+    except:
+        print("[bold red]Failed to setup NAS...[/bold red]")
+def dot_files():
+    try:
+        confirm = Prompt.ask("[bold green]Would you like to install apps? y/n:[/bold green]")
+        if lower(confirm) == "y":
+            source_dir = './DotFiles'
+            target_dir = '../../'
+            file_names = os.listdir(source_dir)
+            for file_name in file_names:
+                shutil.copy(os.path.join(source_dir, file_name), target_dir)
+            print("🚀 [bold green]Installed DOTFILES[/bold green]")
+        else:
+            print("[bold yellow]Not installing Dotfiles[/bold yellow]")
+    except:
+        print("😥 [bold red]Failed to install DOTFILES[/bold red]")
+def aliases():
+    try:
+        confirm = Prompt.ask("[bold green]Would you like to install apps? y/n:[/bold green]")
+        if lower(confirm) == "y":
+            source_file = './aliases.zsh'
+            target_dir = '../../.oh-my-zsh/custom/aliases.zsh'
+
+            shutil.copy(source_file, target_file)
+
+            print("🚀 [bold green]Installed Aliases[/bold green]")
+        else:
+            print("[bold yellow]Not installing Aliases[/bold yellow]")
+    except:
+        print("😥 [bold red]Failed to install Aliases[/bold red]")
+
 # Run pre bootstrap setup code
 
 bootstrap.pre_bootstrap()
@@ -24,10 +82,15 @@ bootstrap.bootstrap()
 # Import stuff after bootstrap
 
 from rich import print
+from rich.prompt import Prompt
 
 # Show hidden files
 
 os.system("defaults write com.apple.Finder AppleShowAllFiles true")
+
+# Restart finder
+
+os.system("killall Finder") 
 
 # Make sure cask is installed
 
@@ -217,9 +280,17 @@ os.system("brew install --cask gitkraken")
 
 os.system("npm install --global yarn")
 
+# Install Roy
+
+os.system("hdiutil attach downloaded_roy_install.dmg")
+
 # Install MORO
 
 os.system("yarn global add moro")
+
+# NAS Stuff
+
+nas_module()
 
 # Extra
 
@@ -227,24 +298,11 @@ print("🚀 [bold green] Installed APPS[/bold green]")
 
 # Install Aliases
     
-source_file = './aliases.zsh'
-target_dir = '../../.oh-my-zsh/custom/aliases.zsh'
-
-shutil.copy(source_file, target_file)
-
-print("🚀 [bold green]Installed Aliases[/bold green]")
+aliases()
 
 # Install DOT-FILES
     
-source_dir = './DotFiles'
-target_dir = '../../'
-    
-file_names = os.listdir(source_dir)
-    
-for file_name in file_names:
-    shutil.copy(os.path.join(source_dir, file_name), target_dir)
-
-print("🚀 [bold green]Installed DOTFILES[/bold green]")
+dot_files
 
 # Install FONTS
     
