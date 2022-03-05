@@ -123,6 +123,16 @@ os.system("brew install --cask figma")
 
 os.system("brew install --cask postman")
 
+# Install MAS
+
+os.system("brew install mas")
+
+# Use MAS to install apps
+
+os.system("mas install 441258766") # Install Magnet
+
+os.system("mas install 993487541") # Install Carrot Weather
+
 # Install MICRO
 
 os.system("brew install micro")
