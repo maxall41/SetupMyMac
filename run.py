@@ -63,6 +63,23 @@ def aliases():
             print("[bold yellow]Not installing Aliases[/bold yellow]")
     except:
         print("😥 [bold red]Failed to install Aliases[/bold red]")
+def font():
+    try:
+        confirm = Prompt.ask("[bold green]Would you like to install apps? y/n:[/bold green]")
+        if lower(confirm) == "y":
+            source_dir = './Fonts'
+            target_dir = '../../Library/Fonts'
+
+            file_names = os.listdir(source_dir)
+
+            for file_name in file_names:
+                shutil.copy(os.path.join(source_dir, file_name), target_dir)
+
+            print("🚀 [bold green]Installed FONTS[/bold green]")
+        else:
+            print("[bold yellow]Not installing Fonts[/bold yellow]")
+    except:
+        print("😥 [bold red]Failed to install Fonts[/bold red]")
 
 # Run pre bootstrap setup code
 
@@ -302,19 +319,11 @@ aliases()
 
 # Install DOT-FILES
     
-dot_files
+dot_files()
 
 # Install FONTS
     
-source_dir = './Fonts'
-target_dir = '../../Library/Fonts'
-    
-file_names = os.listdir(source_dir)
-    
-for file_name in file_names:
-    shutil.copy(os.path.join(source_dir, file_name), target_dir)
-
-print("🚀 [bold green]Installed FONTS[/bold green]")
+font()
 
 # Other stuff
 print("[bold purple]--------------- DONE ---------------[/bold purple]")
