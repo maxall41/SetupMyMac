@@ -10,7 +10,7 @@ import utils
 
 def nas_module():
     try:
-        confirm = Prompt.ask("[bold green]Would you like to configure a NAS? Note: This is required for downloading custom apps. y/n:[/bold green]")
+        confirm = Prompt.ask("[bold green]Would you like to install custom apps? (This requires a NAS with your custom apps) y/n:[/bold green]")
         if lower(confirm) == "y":
             ip = Prompt.ask("IP: ")
             username = Prompt.ask("Username: ")
@@ -31,6 +31,7 @@ def nas_module():
                     os.system("cp -r " + app_path + " ../Applications/" + file_name.split(" ")[0])
                 else:
                     print("[bold yellow]Not installing " + file_name + " because it has an unsupported file extension. The supported file extensions are:\n.dmg[/bold yellow]")
+            print("🚀 [bold green] Installed APPS[/bold green]")        
         else:
             print("[bold yellow]Not configuring NAS[/bold yellow]")
     except:
@@ -311,7 +312,7 @@ nas_module()
 
 # Extra
 
-print("🚀 [bold green] Installed APPS[/bold green]")
+print("🚀 [bold green] Installed Homebrew Formulas[/bold green]")
 
 # Install Aliases
     
