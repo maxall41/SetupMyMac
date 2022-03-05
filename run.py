@@ -25,6 +25,10 @@ bootstrap.bootstrap()
 
 from rich import print
 
+# Show hidden files
+
+os.system("defaults write com.apple.Finder AppleShowAllFiles true")
+
 # Make sure cask is installed
 
 os.system("brew tap homebrew/cask")
