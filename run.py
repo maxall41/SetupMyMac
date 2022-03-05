@@ -38,7 +38,7 @@ def nas_module():
         print("[bold red]Failed to setup NAS...[/bold red]")
 def dot_files():
     try:
-        confirm = Prompt.ask("[bold green]Would you like to install apps? y/n:[/bold green]")
+        confirm = Prompt.ask("[bold green]Would you like to install dot files? y/n:[/bold green]")
         if lower(confirm) == "y":
             source_dir = './DotFiles'
             target_dir = '../../'
@@ -66,7 +66,7 @@ def aliases():
         print("😥 [bold red]Failed to install Aliases[/bold red]")
 def font():
     try:
-        confirm = Prompt.ask("[bold green]Would you like to install apps? y/n:[/bold green]")
+        confirm = Prompt.ask("[bold green]Would you like to install fonts? y/n:[/bold green]")
         if lower(confirm) == "y":
             source_dir = './Fonts'
             target_dir = '../../Library/Fonts'
@@ -81,6 +81,15 @@ def font():
             print("[bold yellow]Not installing Fonts[/bold yellow]")
     except:
         print("😥 [bold red]Failed to install Fonts[/bold red]")
+def xcode_install():
+    try:
+        confirm = Prompt.ask("[bold green]Would you like to install Xcode (This will take a while)? y/n:[/bold green]")
+        if lower(confirm) == "y":
+            os.system("mas install 497799835")
+        else:
+            print("[bold yellow]Not installing Xcode[/bold yellow]")
+    except:
+        print("😥 [bold red]Failed to install Xcode[/bold red]")
 
 # Run pre bootstrap setup code
 
@@ -325,6 +334,10 @@ dot_files()
 # Install FONTS
     
 font()
+
+# Install XCode
+
+xcode_install()
 
 # Other stuff
 print("[bold purple]--------------- DONE ---------------[/bold purple]")
