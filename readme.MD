@@ -1,5 +1,5 @@
 # Welcome
-⚠️ Deprecated use Soft serve serve at `git.local` ⚠️
+⚠️ Deprecated use Soft serve service at `git.local` ⚠️
 ## Configuring Custom app NAS
 
 To use custom apps inside of your nas create a folder path called `Utils/apps` then inside of that folder place your `.dmg` files for your apps.
