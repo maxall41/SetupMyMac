@@ -1,0 +1,85 @@
+{
+  "lastUpgradeScriptRun": "v7.5.0",
+  "appId": "4a6a4ab7a98d0fbb27c9f258345216005505e431",
+  "lastVersion": "7.7.0",
+  "lastReleaseNotesDisplayed": "7.7.0",
+  "registration": {
+    "email": "maxall4@protonmail.com",
+    "status": "activated",
+    "loginType": "github",
+    "date": "2021-05-30T02:34:02.302Z",
+    "EULA": {
+      "version": "7.5.0",
+      "status": "agree_verified"
+    }
+  },
+  "userId": "ff9549a4-9ced-41c1-be42-b7330582b1f4",
+  "licensedFeatures": [
+    "individual"
+  ],
+  "userFeatures": [
+    {
+      "name": "gitkraken"
+    },
+    {
+      "name": "glo"
+    },
+    {
+      "name": "timelines"
+    }
+  ],
+  "hasSeenNewUserOnboarding": true,
+  "fuzzyFinderMetadata": {
+    "itemMetadata": {
+      "OPEN_REPO": {
+        "openRepo-/Users/maxcampbell/Documents/Arduino/Prometheus": {
+          "id": "openRepo-/Users/maxcampbell/Documents/Arduino/Prometheus",
+          "timestamps": [
+            1622342100995
+          ],
+          "total": 1
+        },
+        "openRepo-/Users/maxcampbell/Desktop/VHS Hero git": {
+          "id": "openRepo-/Users/maxcampbell/Desktop/VHS Hero git",
+          "timestamps": [
+            1624906740360,
+            1625847181587
+          ],
+          "total": 2
+        },
+        "openRepo-/Users/maxcampbell/Downloads/test": {
+          "id": "openRepo-/Users/maxcampbell/Downloads/test",
+          "timestamps": [
+            1625508701187
+          ],
+          "total": 1
+        },
+        "openRepo-/Users/maxcampbell/Desktop/portfolio-site-v2": {
+          "id": "openRepo-/Users/maxcampbell/Desktop/portfolio-site-v2",
+          "timestamps": [
+            1626928475375
+          ],
+          "total": 1
+        }
+      }
+    }
+  },
+  "windowSettings": {
+    "x": 78,
+    "y": 25,
+    "width": 1251,
+    "height": 788,
+    "fullScreen": false,
+    "maximized": false
+  },
+  "ui": {
+    "wideLayout": false
+  },
+  "sslWhitelist": [],
+  "commits": {
+    "maxCommitsInGraph": 2000
+  },
+  "notification": {
+    "toastrLocationClassname": "toast-bottom-left"
+  }
+}

@@ -1,0 +1,797 @@
+[2021-05-30T02:33:49.195Z] Detecting Git and Git LFS: started
+[2021-05-30T02:33:50.498Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"NEW"},{"id":"8f6220cd-8be0-4dba-b4f1-b072e55fd7fd","type":"RELEASE_NOTES"}],"selectedTabId":"9974f240-66d2-4433-a1ae-ac733f4644d3"}: started.
+[2021-05-30T02:33:50.504Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"NEW"},{"id":"8f6220cd-8be0-4dba-b4f1-b072e55fd7fd","type":"RELEASE_NOTES"}],"selectedTabId":"9974f240-66d2-4433-a1ae-ac733f4644d3"}: finished. gk-log://duration?t=6
+[2021-05-30T02:33:52.072Z] Detected Git: 2.30.1
+[2021-05-30T02:33:52.074Z] Detected Git LFS: 2.13.3
+[2021-05-30T02:33:52.076Z] Detecting Git and Git LFS: finished gk-log://duration?t=2881
+[2021-05-30T02:33:52.400Z] Set profile setting ["externalEditor"] to "Visual Studio Code": started.
+[2021-05-30T02:33:52.439Z] Set profile setting ["externalEditor"] to "Visual Studio Code": finished. gk-log://duration?t=39
+[2021-05-30T02:34:02.154Z] Verify SSH key for GitHub: started.
+[2021-05-30T02:34:02.413Z] Verify SSH key for GitHub: finished. gk-log://duration?t=259
+[2021-05-30T02:34:20.701Z] Add user profile: started.
+[2021-05-30T02:34:20.755Z] Set profile setting ["gpg","gpgProgram"] to null: started.
+[2021-05-30T02:34:20.772Z] Set profile setting ["gpg","gpgProgram"] to null: finished. gk-log://duration?t=17
+[2021-05-30T02:34:20.774Z] Set profile setting ["gpg","userSigningKey"] to null: started.
+[2021-05-30T02:34:20.775Z] Set profile setting ["gpg","userSigningKey"] to null: finished. gk-log://duration?t=1
+[2021-05-30T02:34:20.776Z] Set profile setting ["gpg","commitGpgSign"] to null: started.
+[2021-05-30T02:34:20.778Z] Set profile setting ["gpg","commitGpgSign"] to null: finished. gk-log://duration?t=2
+[2021-05-30T02:34:20.779Z] Set profile setting ["gpg","tagForceSignAnnotated"] to null: started.
+[2021-05-30T02:34:20.782Z] Set profile setting ["gpg","tagForceSignAnnotated"] to null: finished. gk-log://duration?t=3
+[2021-05-30T02:34:20.788Z] Add user profile: finished. gk-log://duration?t=87
+[2021-05-30T02:34:53.092Z] Create repository maxall41/Prometheus on GitHub: started.
+[2021-05-30T02:34:53.100Z] Set profile setting ["repoInit","lastRepoInitPath"] to "/Users/maxcampbell/Documents/Arduino": started.
+[2021-05-30T02:34:53.101Z] Set profile setting ["repoInit","lastRepoInitPath"] to "/Users/maxcampbell/Documents/Arduino": finished. gk-log://duration?t=1
+[2021-05-30T02:34:53.119Z] Set profile setting "hostingServiceFrecencyMetadata['github']" to {"id":"github","timestamps":[1622342093115],"total":1}: started.
+[2021-05-30T02:34:53.130Z] Set profile setting "hostingServiceFrecencyMetadata['github']" to {"id":"github","timestamps":[1622342093115],"total":1}: finished. gk-log://duration?t=11
+[2021-05-30T02:34:54.761Z] Create repository maxall41/Prometheus on GitHub: finished. gk-log://duration?t=1669
+[2021-05-30T02:34:54.804Z] Clone repository https://github.com/maxall41/Prometheus.git into /Users/maxcampbell/Documents/Arduino/Prometheus: started.
+[2021-05-30T02:34:55.415Z] Clone repository https://github.com/maxall41/Prometheus.git into /Users/maxcampbell/Documents/Arduino/Prometheus: finished. gk-log://duration?t=611
+[2021-05-30T02:34:55.419Z] Create initial commit on /Users/maxcampbell/Documents/Arduino/Prometheus: started.
+[2021-05-30T02:34:55.458Z] Create initial commit on /Users/maxcampbell/Documents/Arduino/Prometheus: finished.
+[2021-05-30T02:34:55.462Z] Set upstream for /Users/maxcampbell/Documents/Arduino/Prometheus and push initial commit: started.
+[2021-05-30T02:34:55.670Z] Open repository /Users/maxcampbell/Documents/Arduino/Prometheus/: started.
+[2021-05-30T02:34:57.736Z] Open repository: finished. gk-log://duration?t=2066
+[2021-05-30T02:34:58.050Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"8f6220cd-8be0-4dba-b4f1-b072e55fd7fd","type":"RELEASE_NOTES"}],"selectedTabId":"9974f240-66d2-4433-a1ae-ac733f4644d3"}: started.
+[2021-05-30T02:34:58.053Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"8f6220cd-8be0-4dba-b4f1-b072e55fd7fd","type":"RELEASE_NOTES"}],"selectedTabId":"9974f240-66d2-4433-a1ae-ac733f4644d3"}: finished. gk-log://duration?t=3
+[2021-05-30T02:34:58.578Z] Set upstream for main: started.
+[2021-05-30T02:34:58.768Z] Set upstream for main: finished. gk-log://duration?t=190
+[2021-05-30T02:34:58.787Z] Push main: started.
+[2021-05-30T02:35:00.985Z] Push main: finished. gk-log://duration?t=2198
+[2021-05-30T02:35:01.032Z] Set upstream for /Users/maxcampbell/Documents/Arduino/Prometheus and push initial commit: finished.
+[2021-05-31T15:59:43.240Z] Detecting Git and Git LFS: started
+[2021-05-31T15:59:47.524Z] Detected Git: 2.31.1
+[2021-05-31T15:59:47.566Z] Detected Git LFS: 2.13.3
+[2021-05-31T15:59:47.570Z] Detecting Git and Git LFS: finished gk-log://duration?t=4330
+[2021-05-31T15:59:49.265Z] Open repository /Users/maxcampbell/Documents/Arduino/Prometheus/: started.
+[2021-05-31T15:59:54.687Z] Open repository: finished. gk-log://duration?t=5422
+[2021-05-31T15:59:57.078Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"8f6220cd-8be0-4dba-b4f1-b072e55fd7fd","type":"RELEASE_NOTES"}],"selectedTabId":"9974f240-66d2-4433-a1ae-ac733f4644d3"}: started.
+[2021-05-31T15:59:57.090Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"8f6220cd-8be0-4dba-b4f1-b072e55fd7fd","type":"RELEASE_NOTES"}],"selectedTabId":"9974f240-66d2-4433-a1ae-ac733f4644d3"}: finished. gk-log://duration?t=12
+[2021-05-31T15:59:57.448Z] Verify SSH key for GitHub: started.
+[2021-05-31T15:59:59.819Z] Verify SSH key for GitHub: finished. gk-log://duration?t=2371
+[2021-05-31T16:00:18.624Z] Send usage data to Axosoft: started.
+[2021-05-31T16:00:19.264Z] Send usage data to Axosoft: API returned 400
+[2021-05-31T16:00:19.269Z] Send usage data to Axosoft: finished with errors. gk-log://duration?t=645
+[2021-05-31T18:01:56.473Z] Detecting Git and Git LFS: started
+[2021-05-31T18:01:59.963Z] Detected Git: 2.31.1
+[2021-05-31T18:01:59.966Z] Detected Git LFS: 2.13.3
+[2021-05-31T18:01:59.967Z] Detecting Git and Git LFS: finished gk-log://duration?t=3494
+[2021-05-31T18:02:01.929Z] Open repository /Users/maxcampbell/Documents/Arduino/Prometheus/: started.
+[2021-05-31T18:02:04.213Z] Open repository: finished. gk-log://duration?t=2284
+[2021-05-31T18:02:04.658Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"8f6220cd-8be0-4dba-b4f1-b072e55fd7fd","type":"RELEASE_NOTES"}],"selectedTabId":"9974f240-66d2-4433-a1ae-ac733f4644d3"}: started.
+[2021-05-31T18:02:04.662Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"8f6220cd-8be0-4dba-b4f1-b072e55fd7fd","type":"RELEASE_NOTES"}],"selectedTabId":"9974f240-66d2-4433-a1ae-ac733f4644d3"}: finished. gk-log://duration?t=4
+[2021-05-31T18:02:04.707Z] Verify SSH key for GitHub: started.
+[2021-05-31T18:02:04.960Z] Verify SSH key for GitHub: finished. gk-log://duration?t=253
+[2021-06-02T16:21:30.377Z] Send usage data to Axosoft: started.
+[2021-06-02T16:21:30.561Z] Send usage data to Axosoft: API returned 400
+[2021-06-02T16:21:30.567Z] Send usage data to Axosoft: finished with errors. gk-log://duration?t=189
+[2021-06-03T04:46:08.935Z] Detecting Git and Git LFS: started
+[2021-06-03T04:46:16.600Z] Detected Git: 2.31.1
+[2021-06-03T04:46:16.685Z] Detected Git LFS: 2.13.3
+[2021-06-03T04:46:16.690Z] Detecting Git and Git LFS: finished gk-log://duration?t=7755
+[2021-06-03T04:46:20.195Z] Open repository /Users/maxcampbell/Documents/Arduino/Prometheus/: started.
+[2021-06-03T04:46:25.430Z] Verify SSH key for GitHub: started.
+[2021-06-03T04:46:25.909Z] Open repository: finished. gk-log://duration?t=5714
+[2021-06-03T04:46:28.641Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"8f6220cd-8be0-4dba-b4f1-b072e55fd7fd","type":"RELEASE_NOTES"}],"selectedTabId":"9974f240-66d2-4433-a1ae-ac733f4644d3"}: started.
+[2021-06-03T04:46:28.670Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"8f6220cd-8be0-4dba-b4f1-b072e55fd7fd","type":"RELEASE_NOTES"}],"selectedTabId":"9974f240-66d2-4433-a1ae-ac733f4644d3"}: finished. gk-log://duration?t=29
+[2021-06-03T04:46:28.790Z] Verify SSH key for GitHub: finished. gk-log://duration?t=3360
+[2021-06-28T18:58:21.571Z] Detecting Git and Git LFS: started
+[2021-06-28T18:58:23.763Z] Detected Git: 2.31.1
+[2021-06-28T18:58:23.769Z] Detected Git LFS: 2.13.3
+[2021-06-28T18:58:24.484Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"8f6220cd-8be0-4dba-b4f1-b072e55fd7fd","type":"RELEASE_NOTES"}],"selectedTabId":"8f6220cd-8be0-4dba-b4f1-b072e55fd7fd"}: started.
+[2021-06-28T18:58:24.510Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"8f6220cd-8be0-4dba-b4f1-b072e55fd7fd","type":"RELEASE_NOTES"}],"selectedTabId":"8f6220cd-8be0-4dba-b4f1-b072e55fd7fd"}: finished. gk-log://duration?t=26
+[2021-06-28T18:58:28.481Z] Detecting Git and Git LFS: finished gk-log://duration?t=6910
+[2021-06-28T18:58:30.303Z] Verify SSH key for GitHub: started.
+[2021-06-28T18:58:30.527Z] Verify SSH key for GitHub: finished. gk-log://duration?t=224
+[2021-06-28T18:58:31.838Z] Open repository /Users/maxcampbell/Documents/Arduino/Prometheus/: started.
+[2021-06-28T18:58:33.910Z] Open repository: finished. gk-log://duration?t=2072
+[2021-06-28T18:58:34.106Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"}],"selectedTabId":"9974f240-66d2-4433-a1ae-ac733f4644d3"}: started.
+[2021-06-28T18:58:34.108Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"}],"selectedTabId":"9974f240-66d2-4433-a1ae-ac733f4644d3"}: finished. gk-log://duration?t=2
+[2021-06-28T18:58:36.414Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"a60ba339-51aa-431f-86d0-3f39a8655c66","type":"NEW"}],"selectedTabId":"a60ba339-51aa-431f-86d0-3f39a8655c66"}: started.
+[2021-06-28T18:58:36.418Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"a60ba339-51aa-431f-86d0-3f39a8655c66","type":"NEW"}],"selectedTabId":"a60ba339-51aa-431f-86d0-3f39a8655c66"}: finished. gk-log://duration?t=4
+[2021-06-28T18:58:48.729Z] Send usage data to Axosoft: started.
+[2021-06-28T18:58:48.842Z] Send usage data to Axosoft: bad request
+[2021-06-28T18:58:48.850Z] Send usage data to Axosoft: finished with errors. gk-log://duration?t=121
+[2021-06-28T18:58:54.213Z] Create repository maxall41/VHS Hero git on GitHub: started.
+[2021-06-28T18:58:54.219Z] Set profile setting ["repoInit","lastRepoInitPath"] to "/Users/maxcampbell/Desktop": started.
+[2021-06-28T18:58:54.221Z] Set profile setting ["repoInit","lastRepoInitPath"] to "/Users/maxcampbell/Desktop": finished. gk-log://duration?t=2
+[2021-06-28T18:58:54.247Z] Set profile setting "hostingServiceFrecencyMetadata['github']" to {"id":"github","timestamps":[1622342093115,1624906734245],"total":2}: started.
+[2021-06-28T18:58:54.260Z] Set profile setting "hostingServiceFrecencyMetadata['github']" to {"id":"github","timestamps":[1622342093115,1624906734245],"total":2}: finished. gk-log://duration?t=13
+[2021-06-28T18:58:55.787Z] Create repository maxall41/VHS Hero git on GitHub: finished. gk-log://duration?t=1574
+[2021-06-28T18:58:55.808Z] Clone repository https://github.com/maxall41/VHS-Hero-git.git into /Users/maxcampbell/Desktop/VHS Hero git: started.
+[2021-06-28T18:58:56.230Z] Clone repository https://github.com/maxall41/VHS-Hero-git.git into /Users/maxcampbell/Desktop/VHS Hero git: finished. gk-log://duration?t=422
+[2021-06-28T18:58:56.244Z] Create initial commit on /Users/maxcampbell/Desktop/VHS Hero git: started.
+[2021-06-28T18:58:56.273Z] Create initial commit on /Users/maxcampbell/Desktop/VHS Hero git: finished.
+[2021-06-28T18:58:56.275Z] Set upstream for /Users/maxcampbell/Desktop/VHS Hero git and push initial commit: started.
+[2021-06-28T18:58:56.310Z] Open repository /Users/maxcampbell/Desktop/VHS Hero git/: started.
+[2021-06-28T18:58:57.599Z] Open repository: finished. gk-log://duration?t=1289
+[2021-06-28T18:58:57.637Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"a60ba339-51aa-431f-86d0-3f39a8655c66","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"a60ba339-51aa-431f-86d0-3f39a8655c66"}: started.
+[2021-06-28T18:58:57.640Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"a60ba339-51aa-431f-86d0-3f39a8655c66","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"a60ba339-51aa-431f-86d0-3f39a8655c66"}: finished. gk-log://duration?t=3
+[2021-06-28T18:58:57.778Z] Set upstream for main: started.
+[2021-06-28T18:58:57.894Z] Set upstream for main: finished. gk-log://duration?t=116
+[2021-06-28T18:58:57.900Z] Push main: started.
+[2021-06-28T18:59:00.339Z] Push main: finished. gk-log://duration?t=2439
+[2021-06-28T18:59:00.387Z] Set upstream for /Users/maxcampbell/Desktop/VHS Hero git and push initial commit: finished.
+[2021-06-29T18:58:49.959Z] Send usage data to Axosoft: started.
+[2021-06-29T18:58:50.374Z] Send usage data to Axosoft: bad request
+[2021-06-29T18:58:50.442Z] Send usage data to Axosoft: finished with errors. gk-log://duration?t=482
+[2021-06-30T18:50:29.599Z] Detecting Git and Git LFS: started
+[2021-06-30T18:50:32.450Z] Detected Git: 2.31.1
+[2021-06-30T18:50:32.455Z] Detected Git LFS: 2.13.3
+[2021-06-30T18:50:32.895Z] Open repository /Users/maxcampbell/Desktop/VHS Hero git/: started.
+[2021-06-30T18:50:34.606Z] Detecting Git and Git LFS: finished gk-log://duration?t=5007
+[2021-06-30T18:50:36.918Z] Verify SSH key for GitHub: started.
+[2021-06-30T18:50:37.014Z] Open repository: finished. gk-log://duration?t=4119
+[2021-06-30T18:50:37.405Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"a60ba339-51aa-431f-86d0-3f39a8655c66","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"a60ba339-51aa-431f-86d0-3f39a8655c66"}: started.
+[2021-06-30T18:50:37.409Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"a60ba339-51aa-431f-86d0-3f39a8655c66","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"a60ba339-51aa-431f-86d0-3f39a8655c66"}: finished. gk-log://duration?t=4
+[2021-06-30T18:50:37.573Z] Verify SSH key for GitHub: finished. gk-log://duration?t=655
+[2021-06-30T18:58:50.259Z] Send usage data to Axosoft: started.
+[2021-06-30T18:58:50.625Z] Send usage data to Axosoft: bad request
+[2021-06-30T18:58:50.646Z] Send usage data to Axosoft: finished with errors. gk-log://duration?t=386
+[2021-06-30T21:42:58.135Z] Detecting Git and Git LFS: started
+[2021-06-30T21:43:01.179Z] Detected Git: 2.31.1
+[2021-06-30T21:43:01.197Z] Detected Git LFS: 2.13.3
+[2021-06-30T21:43:01.753Z] Open repository /Users/maxcampbell/Desktop/VHS Hero git/: started.
+[2021-06-30T21:43:03.595Z] Detecting Git and Git LFS: finished gk-log://duration?t=5460
+[2021-06-30T21:43:05.712Z] Open repository: finished. gk-log://duration?t=3959
+[2021-06-30T21:43:06.086Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"a60ba339-51aa-431f-86d0-3f39a8655c66","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"a60ba339-51aa-431f-86d0-3f39a8655c66"}: started.
+[2021-06-30T21:43:06.091Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"a60ba339-51aa-431f-86d0-3f39a8655c66","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"a60ba339-51aa-431f-86d0-3f39a8655c66"}: finished. gk-log://duration?t=5
+[2021-06-30T21:43:06.238Z] Verify SSH key for GitHub: started.
+[2021-06-30T21:43:06.500Z] Verify SSH key for GitHub: finished. gk-log://duration?t=262
+[2021-07-01T18:58:51.722Z] Send usage data to Axosoft: started.
+[2021-07-01T18:58:52.100Z] Send usage data to Axosoft: bad request
+[2021-07-01T18:58:52.138Z] Send usage data to Axosoft: finished with errors. gk-log://duration?t=416
+[2021-07-03T23:43:15.566Z] Detecting Git and Git LFS: started
+[2021-07-03T23:43:20.628Z] Detected Git: 2.31.1
+[2021-07-03T23:43:20.639Z] Detected Git LFS: 2.13.3
+[2021-07-03T23:43:21.068Z] Open repository /Users/maxcampbell/Desktop/VHS Hero git/: started.
+[2021-07-03T23:43:22.111Z] Detecting Git and Git LFS: finished gk-log://duration?t=6545
+[2021-07-03T23:43:24.495Z] Verify SSH key for GitHub: started.
+[2021-07-03T23:43:24.822Z] Open repository: finished. gk-log://duration?t=3754
+[2021-07-03T23:43:25.513Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"a60ba339-51aa-431f-86d0-3f39a8655c66","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"a60ba339-51aa-431f-86d0-3f39a8655c66"}: started.
+[2021-07-03T23:43:25.529Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"a60ba339-51aa-431f-86d0-3f39a8655c66","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"a60ba339-51aa-431f-86d0-3f39a8655c66"}: finished. gk-log://duration?t=16
+[2021-07-03T23:43:25.754Z] Verify SSH key for GitHub: finished. gk-log://duration?t=1259
+[2021-07-03T23:43:42.262Z] Send usage data to Axosoft: started.
+[2021-07-03T23:43:42.382Z] Send usage data to Axosoft: bad request
+[2021-07-03T23:43:42.399Z] Send usage data to Axosoft: finished with errors. gk-log://duration?t=137
+[2021-07-05T00:03:00.630Z] Send usage data to Axosoft: started.
+[2021-07-05T00:03:01.110Z] Send usage data to Axosoft: bad request
+[2021-07-05T00:03:01.256Z] Send usage data to Axosoft: finished with errors. gk-log://duration?t=624
+[2021-07-05T18:11:11.538Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"a60ba339-51aa-431f-86d0-3f39a8655c66","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"}],"selectedTabId":"e23e2fa6-1126-46b7-9951-b8330cb98914"}: started.
+[2021-07-05T18:11:11.614Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"a60ba339-51aa-431f-86d0-3f39a8655c66","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"}],"selectedTabId":"e23e2fa6-1126-46b7-9951-b8330cb98914"}: finished. gk-log://duration?t=76
+[2021-07-05T18:11:41.461Z] Open repository /Users/maxcampbell/Downloads/test/: started.
+[2021-07-05T18:11:41.485Z] Open repository /Users/maxcampbell/Downloads/test/: could not find repository from '/Users/maxcampbell/Downloads/test'
+[2021-07-05T18:11:41.488Z] Open repository: finished with errors. gk-log://duration?t=27
+[2021-07-05T18:11:41.658Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"a60ba339-51aa-431f-86d0-3f39a8655c66","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"}],"selectedTabId":"e23e2fa6-1126-46b7-9951-b8330cb98914"}: started.
+[2021-07-05T18:11:41.660Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"a60ba339-51aa-431f-86d0-3f39a8655c66","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"}],"selectedTabId":"e23e2fa6-1126-46b7-9951-b8330cb98914"}: finished. gk-log://duration?t=2
+[2021-07-05T19:06:03.966Z] Open repository /Users/maxcampbell/Desktop/VHS Hero git/: started.
+[2021-07-05T19:06:05.862Z] Open repository: finished. gk-log://duration?t=1896
+[2021-07-05T19:06:05.881Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"a60ba339-51aa-431f-86d0-3f39a8655c66","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"}],"selectedTabId":"a60ba339-51aa-431f-86d0-3f39a8655c66"}: started.
+[2021-07-05T19:06:05.913Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"a60ba339-51aa-431f-86d0-3f39a8655c66","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"}],"selectedTabId":"a60ba339-51aa-431f-86d0-3f39a8655c66"}: finished. gk-log://duration?t=32
+[2021-07-05T22:57:41.067Z] Detecting Git and Git LFS: started
+[2021-07-05T22:57:43.994Z] Detected Git: 2.31.1
+[2021-07-05T22:57:43.999Z] Detected Git LFS: 2.13.3
+[2021-07-05T22:57:44.430Z] Open repository /Users/maxcampbell/Desktop/VHS Hero git/: started.
+[2021-07-05T22:57:45.237Z] Detecting Git and Git LFS: finished gk-log://duration?t=4170
+[2021-07-05T22:57:48.069Z] Verify SSH key for GitHub: started.
+[2021-07-05T22:57:48.210Z] Open repository: finished. gk-log://duration?t=3779
+[2021-07-05T22:57:48.689Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"a60ba339-51aa-431f-86d0-3f39a8655c66","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"}],"selectedTabId":"a60ba339-51aa-431f-86d0-3f39a8655c66"}: started.
+[2021-07-05T22:57:48.693Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"a60ba339-51aa-431f-86d0-3f39a8655c66","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"}],"selectedTabId":"a60ba339-51aa-431f-86d0-3f39a8655c66"}: finished. gk-log://duration?t=3
+[2021-07-05T22:57:48.952Z] Verify SSH key for GitHub: finished. gk-log://duration?t=883
+[2021-07-06T00:03:01.233Z] Send usage data to Axosoft: started.
+[2021-07-06T00:03:01.591Z] Send usage data to Axosoft: bad request
+[2021-07-06T00:03:01.626Z] Send usage data to Axosoft: finished with errors. gk-log://duration?t=393
+[2021-07-06T01:22:21.415Z] Detecting Git and Git LFS: started
+[2021-07-06T01:22:26.730Z] Detected Git: 2.31.1
+[2021-07-06T01:22:26.797Z] Detected Git LFS: 2.13.3
+[2021-07-06T01:22:28.476Z] Open repository /Users/maxcampbell/Desktop/VHS Hero git/: started.
+[2021-07-06T01:22:30.121Z] Detecting Git and Git LFS: finished gk-log://duration?t=8706
+[2021-07-06T01:22:33.524Z] Open repository: finished. gk-log://duration?t=5048
+[2021-07-06T01:22:38.679Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"a60ba339-51aa-431f-86d0-3f39a8655c66","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"}],"selectedTabId":"a60ba339-51aa-431f-86d0-3f39a8655c66"}: started.
+[2021-07-06T01:22:38.686Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"a60ba339-51aa-431f-86d0-3f39a8655c66","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"}],"selectedTabId":"a60ba339-51aa-431f-86d0-3f39a8655c66"}: finished. gk-log://duration?t=7
+[2021-07-06T01:22:39.505Z] Verify SSH key for GitHub: started.
+[2021-07-06T01:22:40.225Z] Verify SSH key for GitHub: finished. gk-log://duration?t=720
+[2021-07-06T16:31:09.283Z] Detecting Git and Git LFS: started
+[2021-07-06T16:31:12.011Z] Detected Git: 2.31.1
+[2021-07-06T16:31:12.027Z] Detected Git LFS: 2.13.3
+[2021-07-06T16:31:12.393Z] Open repository /Users/maxcampbell/Desktop/VHS Hero git/: started.
+[2021-07-06T16:31:13.162Z] Detecting Git and Git LFS: finished gk-log://duration?t=3879
+[2021-07-06T16:31:15.037Z] Open repository: finished. gk-log://duration?t=2644
+[2021-07-06T16:31:15.531Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"a60ba339-51aa-431f-86d0-3f39a8655c66","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"}],"selectedTabId":"a60ba339-51aa-431f-86d0-3f39a8655c66"}: started.
+[2021-07-06T16:31:15.535Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"a60ba339-51aa-431f-86d0-3f39a8655c66","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"}],"selectedTabId":"a60ba339-51aa-431f-86d0-3f39a8655c66"}: finished. gk-log://duration?t=4
+[2021-07-06T16:31:15.645Z] Verify SSH key for GitHub: started.
+[2021-07-06T16:31:15.983Z] Verify SSH key for GitHub: finished. gk-log://duration?t=338
+[2021-07-06T17:04:58.513Z] Detecting Git and Git LFS: started
+[2021-07-06T17:05:09.930Z] Open repository /Users/maxcampbell/Desktop/VHS Hero git/: started.
+[2021-07-06T17:05:10.856Z] Detected Git: 2.31.1
+[2021-07-06T17:05:10.869Z] Detected Git LFS: 2.13.3
+[2021-07-06T17:05:12.340Z] Detecting Git and Git LFS: finished gk-log://duration?t=13827
+[2021-07-06T17:05:15.964Z] Open repository: finished. gk-log://duration?t=6034
+[2021-07-06T17:05:18.998Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"a60ba339-51aa-431f-86d0-3f39a8655c66","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"}],"selectedTabId":"a60ba339-51aa-431f-86d0-3f39a8655c66"}: started.
+[2021-07-06T17:05:19.006Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"a60ba339-51aa-431f-86d0-3f39a8655c66","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"}],"selectedTabId":"a60ba339-51aa-431f-86d0-3f39a8655c66"}: finished. gk-log://duration?t=8
+[2021-07-06T17:05:19.234Z] Verify SSH key for GitHub: started.
+[2021-07-06T17:05:19.710Z] Verify SSH key for GitHub: finished. gk-log://duration?t=476
+[2021-07-06T18:43:40.499Z] Open repository /Users/maxcampbell/Documents/Arduino/Prometheus/: started.
+[2021-07-06T18:43:42.455Z] Open repository: finished. gk-log://duration?t=1956
+[2021-07-06T18:43:42.532Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"a60ba339-51aa-431f-86d0-3f39a8655c66","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"}],"selectedTabId":"9974f240-66d2-4433-a1ae-ac733f4644d3"}: started.
+[2021-07-06T18:43:42.536Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"a60ba339-51aa-431f-86d0-3f39a8655c66","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"}],"selectedTabId":"9974f240-66d2-4433-a1ae-ac733f4644d3"}: finished. gk-log://duration?t=4
+[2021-07-06T18:43:43.423Z] Open repository /Users/maxcampbell/Desktop/VHS Hero git/: started.
+[2021-07-06T18:43:44.050Z] Open repository: finished. gk-log://duration?t=627
+[2021-07-06T18:43:44.056Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"a60ba339-51aa-431f-86d0-3f39a8655c66","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"}],"selectedTabId":"a60ba339-51aa-431f-86d0-3f39a8655c66"}: started.
+[2021-07-06T18:43:44.059Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"a60ba339-51aa-431f-86d0-3f39a8655c66","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"}],"selectedTabId":"a60ba339-51aa-431f-86d0-3f39a8655c66"}: finished. gk-log://duration?t=3
+[2021-07-06T18:43:44.235Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"a60ba339-51aa-431f-86d0-3f39a8655c66","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"}],"selectedTabId":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1"}: started.
+[2021-07-06T18:43:44.241Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"a60ba339-51aa-431f-86d0-3f39a8655c66","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"}],"selectedTabId":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1"}: finished. gk-log://duration?t=6
+[2021-07-06T18:43:47.970Z] Open repository /Users/maxcampbell/Desktop/VHS Hero git/: started.
+[2021-07-06T18:43:48.223Z] Open repository: finished. gk-log://duration?t=253
+[2021-07-06T18:43:48.227Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"a60ba339-51aa-431f-86d0-3f39a8655c66","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"}],"selectedTabId":"a60ba339-51aa-431f-86d0-3f39a8655c66"}: started.
+[2021-07-06T18:43:48.230Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"a60ba339-51aa-431f-86d0-3f39a8655c66","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"}],"selectedTabId":"a60ba339-51aa-431f-86d0-3f39a8655c66"}: finished. gk-log://duration?t=3
+[2021-07-07T00:03:02.563Z] Send usage data to Axosoft: started.
+[2021-07-07T00:03:02.936Z] Send usage data to Axosoft: bad request
+[2021-07-07T00:03:02.973Z] Send usage data to Axosoft: finished with errors. gk-log://duration?t=409
+[2021-07-07T02:58:24.174Z] Detecting Git and Git LFS: started
+[2021-07-07T02:58:33.568Z] Open repository /Users/maxcampbell/Desktop/VHS Hero git/: started.
+[2021-07-07T02:58:36.593Z] Detected Git: 2.31.1
+[2021-07-07T02:58:36.604Z] Detected Git LFS: 2.13.3
+[2021-07-07T02:58:39.789Z] Detecting Git and Git LFS: finished gk-log://duration?t=15615
+[2021-07-07T02:58:47.181Z] Verify SSH key for GitHub: started.
+[2021-07-07T02:58:48.058Z] Open repository: finished. gk-log://duration?t=14490
+[2021-07-07T02:58:49.500Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"a60ba339-51aa-431f-86d0-3f39a8655c66","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"}],"selectedTabId":"a60ba339-51aa-431f-86d0-3f39a8655c66"}: started.
+[2021-07-07T02:58:49.513Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"a60ba339-51aa-431f-86d0-3f39a8655c66","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"}],"selectedTabId":"a60ba339-51aa-431f-86d0-3f39a8655c66"}: finished. gk-log://duration?t=12
+[2021-07-07T02:58:50.009Z] Verify SSH key for GitHub: finished. gk-log://duration?t=2828
+[2021-07-08T00:03:03.638Z] Send usage data to Axosoft: started.
+[2021-07-08T00:03:04.024Z] Send usage data to Axosoft: bad request
+[2021-07-08T00:03:04.066Z] Send usage data to Axosoft: finished with errors. gk-log://duration?t=427
+[2021-07-08T00:35:38.262Z] Detecting Git and Git LFS: started
+[2021-07-08T00:35:44.754Z] Detected Git: 2.31.1
+[2021-07-08T00:35:44.762Z] Detected Git LFS: 2.13.3
+[2021-07-08T00:35:45.956Z] Open repository /Users/maxcampbell/Desktop/VHS Hero git/: started.
+[2021-07-08T00:35:49.412Z] Detecting Git and Git LFS: finished gk-log://duration?t=11150
+[2021-07-08T00:35:52.779Z] Verify SSH key for GitHub: started.
+[2021-07-08T00:35:53.622Z] Verify SSH key for GitHub: finished. gk-log://duration?t=843
+[2021-07-08T00:35:54.062Z] Open repository: finished. gk-log://duration?t=8106
+[2021-07-08T00:35:55.781Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"a60ba339-51aa-431f-86d0-3f39a8655c66","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"}],"selectedTabId":"a60ba339-51aa-431f-86d0-3f39a8655c66"}: started.
+[2021-07-08T00:35:55.854Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"a60ba339-51aa-431f-86d0-3f39a8655c66","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"}],"selectedTabId":"a60ba339-51aa-431f-86d0-3f39a8655c66"}: finished. gk-log://duration?t=73
+[2021-07-08T18:43:29.194Z] Detecting Git and Git LFS: started
+[2021-07-08T18:43:32.006Z] Detected Git: 2.31.1
+[2021-07-08T18:43:32.032Z] Detected Git LFS: 2.13.3
+[2021-07-08T18:43:32.447Z] Open repository /Users/maxcampbell/Desktop/VHS Hero git/: started.
+[2021-07-08T18:43:33.197Z] Detecting Git and Git LFS: finished gk-log://duration?t=4003
+[2021-07-08T18:43:35.837Z] Verify SSH key for GitHub: started.
+[2021-07-08T18:43:35.906Z] Open repository: finished. gk-log://duration?t=3459
+[2021-07-08T18:43:36.512Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"a60ba339-51aa-431f-86d0-3f39a8655c66","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"}],"selectedTabId":"a60ba339-51aa-431f-86d0-3f39a8655c66"}: started.
+[2021-07-08T18:43:36.516Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"a60ba339-51aa-431f-86d0-3f39a8655c66","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"}],"selectedTabId":"a60ba339-51aa-431f-86d0-3f39a8655c66"}: finished. gk-log://duration?t=4
+[2021-07-08T18:43:36.962Z] Verify SSH key for GitHub: finished. gk-log://duration?t=1125
+[2021-07-09T00:03:09.785Z] Send usage data to Axosoft: started.
+[2021-07-09T00:03:10.365Z] Send usage data to Axosoft: bad request
+[2021-07-09T00:03:10.430Z] Send usage data to Axosoft: finished with errors. gk-log://duration?t=644
+[2021-07-09T01:54:37.869Z] Detecting Git and Git LFS: started
+[2021-07-09T01:54:39.410Z] Detected Git: 2.31.1
+[2021-07-09T01:54:39.416Z] Detected Git LFS: 2.13.3
+[2021-07-09T01:54:40.824Z] Detecting Git and Git LFS: finished gk-log://duration?t=2955
+[2021-07-09T01:54:41.190Z] Open repository /Users/maxcampbell/Desktop/VHS Hero git/: started.
+[2021-07-09T01:54:44.169Z] Verify SSH key for GitHub: started.
+[2021-07-09T01:54:44.236Z] Open repository: finished. gk-log://duration?t=3046
+[2021-07-09T01:54:45.072Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"a60ba339-51aa-431f-86d0-3f39a8655c66","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"}],"selectedTabId":"a60ba339-51aa-431f-86d0-3f39a8655c66"}: started.
+[2021-07-09T01:54:45.079Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"a60ba339-51aa-431f-86d0-3f39a8655c66","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"}],"selectedTabId":"a60ba339-51aa-431f-86d0-3f39a8655c66"}: finished. gk-log://duration?t=7
+[2021-07-09T01:54:45.532Z] Verify SSH key for GitHub: finished. gk-log://duration?t=1363
+[2021-07-09T05:20:44.965Z] Detecting Git and Git LFS: started
+[2021-07-09T05:20:47.197Z] Detected Git: 2.31.1
+[2021-07-09T05:20:47.202Z] Detected Git LFS: 2.13.3
+[2021-07-09T05:20:47.665Z] Open repository /Users/maxcampbell/Desktop/VHS Hero git/: started.
+[2021-07-09T05:20:48.656Z] Detecting Git and Git LFS: finished gk-log://duration?t=3691
+[2021-07-09T05:20:50.996Z] Verify SSH key for GitHub: started.
+[2021-07-09T05:20:51.062Z] Open repository: finished. gk-log://duration?t=3397
+[2021-07-09T05:20:51.652Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"a60ba339-51aa-431f-86d0-3f39a8655c66","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"}],"selectedTabId":"a60ba339-51aa-431f-86d0-3f39a8655c66"}: started.
+[2021-07-09T05:20:51.665Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"a60ba339-51aa-431f-86d0-3f39a8655c66","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"}],"selectedTabId":"a60ba339-51aa-431f-86d0-3f39a8655c66"}: finished. gk-log://duration?t=13
+[2021-07-09T05:20:52.085Z] Verify SSH key for GitHub: finished. gk-log://duration?t=1089
+[2021-07-09T16:10:14.066Z] Detecting Git and Git LFS: started
+[2021-07-09T16:10:17.252Z] Detected Git: 2.31.1
+[2021-07-09T16:10:17.257Z] Detected Git LFS: 2.13.3
+[2021-07-09T16:10:17.666Z] Open repository /Users/maxcampbell/Desktop/VHS Hero git/: started.
+[2021-07-09T16:10:18.370Z] Detecting Git and Git LFS: finished gk-log://duration?t=4304
+[2021-07-09T16:10:20.313Z] Open repository: finished. gk-log://duration?t=2647
+[2021-07-09T16:10:20.696Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"a60ba339-51aa-431f-86d0-3f39a8655c66","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"}],"selectedTabId":"a60ba339-51aa-431f-86d0-3f39a8655c66"}: started.
+[2021-07-09T16:10:20.701Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"a60ba339-51aa-431f-86d0-3f39a8655c66","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"}],"selectedTabId":"a60ba339-51aa-431f-86d0-3f39a8655c66"}: finished. gk-log://duration?t=5
+[2021-07-09T16:10:20.902Z] Verify SSH key for GitHub: started.
+[2021-07-09T16:10:21.380Z] Verify SSH key for GitHub: finished. gk-log://duration?t=478
+[2021-07-09T16:12:53.119Z] Open repository /Users/maxcampbell/Documents/Arduino/Prometheus/: started.
+[2021-07-09T16:12:54.959Z] Open repository: finished. gk-log://duration?t=1840
+[2021-07-09T16:12:55.067Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"}],"selectedTabId":"9974f240-66d2-4433-a1ae-ac733f4644d3"}: started.
+[2021-07-09T16:12:55.071Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"}],"selectedTabId":"9974f240-66d2-4433-a1ae-ac733f4644d3"}: finished. gk-log://duration?t=4
+[2021-07-09T16:12:57.281Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"NEW"}],"selectedTabId":"1fcda378-287b-4bd8-9212-5d1ada52a2e9"}: started.
+[2021-07-09T16:12:57.285Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"NEW"}],"selectedTabId":"1fcda378-287b-4bd8-9212-5d1ada52a2e9"}: finished. gk-log://duration?t=4
+[2021-07-09T16:13:01.639Z] Open repository /Users/maxcampbell/Desktop/VHS Hero git/: started.
+[2021-07-09T16:13:02.170Z] Open repository: finished. gk-log://duration?t=530
+[2021-07-09T16:13:02.183Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"1fcda378-287b-4bd8-9212-5d1ada52a2e9"}: started.
+[2021-07-09T16:13:02.187Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"1fcda378-287b-4bd8-9212-5d1ada52a2e9"}: finished. gk-log://duration?t=4
+[2021-07-09T16:25:54.133Z] Detecting Git and Git LFS: started
+[2021-07-09T16:25:54.142Z] Detecting Git and Git LFS: cancelled (dependencies already checked)
+[2021-07-09T16:25:57.153Z] Open repository /Users/maxcampbell/Desktop/VHS Hero git/: started.
+[2021-07-09T16:26:00.773Z] Verify SSH key for GitHub: started.
+[2021-07-09T16:26:01.059Z] Open repository: finished. gk-log://duration?t=3906
+[2021-07-09T16:26:01.475Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"1fcda378-287b-4bd8-9212-5d1ada52a2e9"}: started.
+[2021-07-09T16:26:01.478Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"1fcda378-287b-4bd8-9212-5d1ada52a2e9"}: finished. gk-log://duration?t=3
+[2021-07-09T16:26:01.783Z] Verify SSH key for GitHub: finished. gk-log://duration?t=1010
+[2021-07-09T16:27:57.158Z] Detecting Git and Git LFS: started
+[2021-07-09T16:27:57.162Z] Detecting Git and Git LFS: cancelled (dependencies already checked)
+[2021-07-09T16:27:59.941Z] Open repository /Users/maxcampbell/Desktop/VHS Hero git/: started.
+[2021-07-09T16:28:03.144Z] Verify SSH key for GitHub: started.
+[2021-07-09T16:28:03.452Z] Open repository: finished. gk-log://duration?t=3510
+[2021-07-09T16:28:03.838Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"1fcda378-287b-4bd8-9212-5d1ada52a2e9"}: started.
+[2021-07-09T16:28:03.841Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"1fcda378-287b-4bd8-9212-5d1ada52a2e9"}: finished. gk-log://duration?t=3
+[2021-07-09T16:28:04.092Z] Verify SSH key for GitHub: finished. gk-log://duration?t=948
+[2021-07-09T16:28:36.522Z] Detecting Git and Git LFS: started
+[2021-07-09T16:28:36.525Z] Detecting Git and Git LFS: cancelled (dependencies already checked)
+[2021-07-09T16:28:39.196Z] Open repository /Users/maxcampbell/Desktop/VHS Hero git/: started.
+[2021-07-09T16:28:42.974Z] Verify SSH key for GitHub: started.
+[2021-07-09T16:28:43.084Z] Open repository: finished. gk-log://duration?t=3888
+[2021-07-09T16:28:43.445Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"1fcda378-287b-4bd8-9212-5d1ada52a2e9"}: started.
+[2021-07-09T16:28:43.453Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"1fcda378-287b-4bd8-9212-5d1ada52a2e9"}: finished. gk-log://duration?t=8
+[2021-07-09T16:28:43.662Z] Verify SSH key for GitHub: finished. gk-log://duration?t=688
+[2021-07-09T16:30:44.108Z] Detecting Git and Git LFS: started
+[2021-07-09T16:30:44.112Z] Detecting Git and Git LFS: cancelled (dependencies already checked)
+[2021-07-09T16:30:46.708Z] Open repository /Users/maxcampbell/Desktop/VHS Hero git/: started.
+[2021-07-09T16:30:49.476Z] Verify SSH key for GitHub: started.
+[2021-07-09T16:30:49.760Z] Open repository: finished. gk-log://duration?t=3052
+[2021-07-09T16:30:50.149Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"1fcda378-287b-4bd8-9212-5d1ada52a2e9"}: started.
+[2021-07-09T16:30:50.155Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"1fcda378-287b-4bd8-9212-5d1ada52a2e9"}: finished. gk-log://duration?t=6
+[2021-07-09T16:30:50.407Z] Verify SSH key for GitHub: finished. gk-log://duration?t=931
+[2021-07-09T16:31:15.595Z] Detecting Git and Git LFS: started
+[2021-07-09T16:31:15.598Z] Detecting Git and Git LFS: cancelled (dependencies already checked)
+[2021-07-09T16:31:18.234Z] Open repository /Users/maxcampbell/Desktop/VHS Hero git/: started.
+[2021-07-09T16:31:21.509Z] Verify SSH key for GitHub: started.
+[2021-07-09T16:31:21.610Z] Open repository: finished. gk-log://duration?t=3376
+[2021-07-09T16:31:22.008Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"1fcda378-287b-4bd8-9212-5d1ada52a2e9"}: started.
+[2021-07-09T16:31:22.012Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"1fcda378-287b-4bd8-9212-5d1ada52a2e9"}: finished. gk-log://duration?t=4
+[2021-07-09T16:31:22.230Z] Verify SSH key for GitHub: finished. gk-log://duration?t=721
+[2021-07-09T18:42:07.058Z] Detecting Git and Git LFS: started
+[2021-07-09T18:42:09.599Z] Open repository /Users/maxcampbell/Desktop/VHS Hero git/: started.
+[2021-07-09T18:42:10.171Z] Detected Git: 2.31.1
+[2021-07-09T18:42:10.174Z] Detected Git LFS: 2.13.3
+[2021-07-09T18:42:10.937Z] Detecting Git and Git LFS: finished gk-log://duration?t=3879
+[2021-07-09T18:42:13.585Z] Verify SSH key for GitHub: started.
+[2021-07-09T18:42:13.815Z] Open repository: finished. gk-log://duration?t=4216
+[2021-07-09T18:42:14.299Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"1fcda378-287b-4bd8-9212-5d1ada52a2e9"}: started.
+[2021-07-09T18:42:14.304Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"1fcda378-287b-4bd8-9212-5d1ada52a2e9"}: finished. gk-log://duration?t=5
+[2021-07-09T18:42:14.523Z] Verify SSH key for GitHub: finished. gk-log://duration?t=938
+[2021-07-09T20:14:50.104Z] Detecting Git and Git LFS: started
+[2021-07-09T20:14:50.116Z] Detecting Git and Git LFS: cancelled (dependencies already checked)
+[2021-07-09T20:14:52.910Z] Open repository /Users/maxcampbell/Desktop/VHS Hero git/: started.
+[2021-07-09T20:14:56.781Z] Verify SSH key for GitHub: started.
+[2021-07-09T20:14:57.055Z] Open repository: finished. gk-log://duration?t=4145
+[2021-07-09T20:14:57.513Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"1fcda378-287b-4bd8-9212-5d1ada52a2e9"}: started.
+[2021-07-09T20:14:57.517Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"1fcda378-287b-4bd8-9212-5d1ada52a2e9"}: finished. gk-log://duration?t=4
+[2021-07-09T20:14:57.789Z] Verify SSH key for GitHub: finished. gk-log://duration?t=1008
+[2021-07-09T20:15:25.938Z] Set profile setting ["layout","DetailPanel","height"] to 640: started.
+[2021-07-09T20:15:25.948Z] Set profile setting ["layout","DetailPanel","height"] to 640: finished. gk-log://duration?t=10
+[2021-07-09T20:15:26.049Z] Set profile setting ["layout","DetailPanel","height"] to 640: started.
+[2021-07-09T20:15:26.053Z] Set profile setting ["layout","DetailPanel","height"] to 640: finished. gk-log://duration?t=4
+[2021-07-09T20:15:43.176Z] Set profile setting ["layout","DetailPanel","height"] to 637: started.
+[2021-07-09T20:15:43.185Z] Set profile setting ["layout","DetailPanel","height"] to 637: finished. gk-log://duration?t=9
+[2021-07-09T20:15:43.209Z] Set profile setting ["layout","DetailPanel","height"] to 584: started.
+[2021-07-09T20:15:43.211Z] Set profile setting ["layout","DetailPanel","height"] to 584: finished. gk-log://duration?t=2
+[2021-07-09T20:15:43.241Z] Set profile setting ["layout","DetailPanel","height"] to 513: started.
+[2021-07-09T20:15:43.245Z] Set profile setting ["layout","DetailPanel","height"] to 513: finished. gk-log://duration?t=4
+[2021-07-09T20:15:43.275Z] Set profile setting ["layout","DetailPanel","height"] to 456: started.
+[2021-07-09T20:15:43.280Z] Set profile setting ["layout","DetailPanel","height"] to 456: finished. gk-log://duration?t=5
+[2021-07-09T20:15:43.310Z] Set profile setting ["layout","DetailPanel","height"] to 410: started.
+[2021-07-09T20:15:43.315Z] Set profile setting ["layout","DetailPanel","height"] to 410: finished. gk-log://duration?t=5
+[2021-07-09T20:15:43.342Z] Set profile setting ["layout","DetailPanel","height"] to 396: started.
+[2021-07-09T20:15:43.346Z] Set profile setting ["layout","DetailPanel","height"] to 396: finished. gk-log://duration?t=4
+[2021-07-09T20:15:44.385Z] Set profile setting ["layout","DetailPanel","height"] to 396: started.
+[2021-07-09T20:15:44.391Z] Set profile setting ["layout","DetailPanel","height"] to 396: finished. gk-log://duration?t=6
+[2021-07-10T00:03:12.572Z] Send usage data to Axosoft: started.
+[2021-07-10T00:03:12.920Z] Send usage data to Axosoft: bad request
+[2021-07-10T00:03:12.953Z] Send usage data to Axosoft: finished with errors. gk-log://duration?t=381
+[2021-07-10T02:06:19.350Z] Detecting Git and Git LFS: started
+[2021-07-10T02:06:22.089Z] Detected Git: 2.31.1
+[2021-07-10T02:06:22.095Z] Detected Git LFS: 2.13.3
+[2021-07-10T02:06:22.486Z] Open repository /Users/maxcampbell/Desktop/VHS Hero git/: started.
+[2021-07-10T02:06:23.425Z] Detecting Git and Git LFS: finished gk-log://duration?t=4075
+[2021-07-10T02:06:25.696Z] Verify SSH key for GitHub: started.
+[2021-07-10T02:06:25.957Z] Open repository: finished. gk-log://duration?t=3471
+[2021-07-10T02:06:26.371Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"1fcda378-287b-4bd8-9212-5d1ada52a2e9"}: started.
+[2021-07-10T02:06:26.374Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"1fcda378-287b-4bd8-9212-5d1ada52a2e9"}: finished. gk-log://duration?t=3
+[2021-07-10T02:06:26.593Z] Verify SSH key for GitHub: finished. gk-log://duration?t=897
+[2021-07-10T02:06:43.951Z] Set profile setting ["layout","DetailPanel","height"] to 650: started.
+[2021-07-10T02:06:43.954Z] Set profile setting ["layout","DetailPanel","height"] to 650: finished. gk-log://duration?t=3
+[2021-07-10T02:06:44.510Z] Set profile setting ["layout","DetailPanel","height"] to 650: started.
+[2021-07-10T02:06:44.524Z] Set profile setting ["layout","DetailPanel","height"] to 650: finished. gk-log://duration?t=14
+[2021-07-10T02:06:58.057Z] Set profile setting ["layout","DetailPanel","height"] to 647: started.
+[2021-07-10T02:06:58.060Z] Set profile setting ["layout","DetailPanel","height"] to 647: finished. gk-log://duration?t=3
+[2021-07-10T02:06:58.072Z] Set profile setting ["layout","DetailPanel","height"] to 628: started.
+[2021-07-10T02:06:58.074Z] Set profile setting ["layout","DetailPanel","height"] to 628: finished. gk-log://duration?t=2
+[2021-07-10T02:06:58.104Z] Set profile setting ["layout","DetailPanel","height"] to 580: started.
+[2021-07-10T02:06:58.107Z] Set profile setting ["layout","DetailPanel","height"] to 580: finished. gk-log://duration?t=3
+[2021-07-10T02:06:58.124Z] Set profile setting ["layout","DetailPanel","height"] to 567: started.
+[2021-07-10T02:06:58.130Z] Set profile setting ["layout","DetailPanel","height"] to 567: finished. gk-log://duration?t=6
+[2021-07-10T02:06:58.143Z] Set profile setting ["layout","DetailPanel","height"] to 531: started.
+[2021-07-10T02:06:58.151Z] Set profile setting ["layout","DetailPanel","height"] to 531: finished. gk-log://duration?t=8
+[2021-07-10T02:06:58.184Z] Set profile setting ["layout","DetailPanel","height"] to 492: started.
+[2021-07-10T02:06:58.193Z] Set profile setting ["layout","DetailPanel","height"] to 492: finished. gk-log://duration?t=9
+[2021-07-10T02:06:58.210Z] Set profile setting ["layout","DetailPanel","height"] to 471: started.
+[2021-07-10T02:06:58.212Z] Set profile setting ["layout","DetailPanel","height"] to 471: finished. gk-log://duration?t=2
+[2021-07-10T02:06:58.228Z] Set profile setting ["layout","DetailPanel","height"] to 453: started.
+[2021-07-10T02:06:58.234Z] Set profile setting ["layout","DetailPanel","height"] to 453: finished. gk-log://duration?t=6
+[2021-07-10T02:06:58.240Z] Set profile setting ["layout","DetailPanel","height"] to 448: started.
+[2021-07-10T02:06:58.247Z] Set profile setting ["layout","DetailPanel","height"] to 448: finished. gk-log://duration?t=7
+[2021-07-10T02:06:58.309Z] Set profile setting ["layout","DetailPanel","height"] to 399: started.
+[2021-07-10T02:06:58.321Z] Set profile setting ["layout","DetailPanel","height"] to 399: finished. gk-log://duration?t=12
+[2021-07-10T02:06:58.360Z] Set profile setting ["layout","DetailPanel","height"] to 396: started.
+[2021-07-10T02:06:58.371Z] Set profile setting ["layout","DetailPanel","height"] to 396: finished. gk-log://duration?t=11
+[2021-07-10T02:06:58.699Z] Set profile setting ["layout","DetailPanel","height"] to 396: started.
+[2021-07-10T02:06:58.712Z] Set profile setting ["layout","DetailPanel","height"] to 396: finished. gk-log://duration?t=13
+[2021-07-10T02:25:48.532Z] Detecting Git and Git LFS: started
+[2021-07-10T02:25:48.539Z] Detecting Git and Git LFS: cancelled (dependencies already checked)
+[2021-07-10T02:25:51.588Z] Open repository /Users/maxcampbell/Desktop/VHS Hero git/: started.
+[2021-07-10T02:25:55.743Z] Verify SSH key for GitHub: started.
+[2021-07-10T02:25:56.000Z] Open repository: finished. gk-log://duration?t=4412
+[2021-07-10T02:25:56.344Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"1fcda378-287b-4bd8-9212-5d1ada52a2e9"}: started.
+[2021-07-10T02:25:56.347Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"1fcda378-287b-4bd8-9212-5d1ada52a2e9"}: finished. gk-log://duration?t=3
+[2021-07-10T02:25:56.702Z] Verify SSH key for GitHub: finished. gk-log://duration?t=959
+[2021-07-10T02:28:53.877Z] Set profile setting ["layout","DetailPanel","height"] to 461: started.
+[2021-07-10T02:28:53.880Z] Set profile setting ["layout","DetailPanel","height"] to 461: finished. gk-log://duration?t=3
+[2021-07-10T02:28:53.927Z] Set profile setting ["layout","DetailPanel","height"] to 537: started.
+[2021-07-10T02:28:53.937Z] Set profile setting ["layout","DetailPanel","height"] to 537: finished. gk-log://duration?t=10
+[2021-07-10T02:28:53.964Z] Set profile setting ["layout","DetailPanel","height"] to 572: started.
+[2021-07-10T02:28:53.974Z] Set profile setting ["layout","DetailPanel","height"] to 572: finished. gk-log://duration?t=10
+[2021-07-10T02:28:54.007Z] Set profile setting ["layout","DetailPanel","height"] to 593: started.
+[2021-07-10T02:28:54.015Z] Set profile setting ["layout","DetailPanel","height"] to 593: finished. gk-log://duration?t=7
+[2021-07-10T02:28:54.037Z] Set profile setting ["layout","DetailPanel","height"] to 600: started.
+[2021-07-10T02:28:54.042Z] Set profile setting ["layout","DetailPanel","height"] to 600: finished. gk-log://duration?t=5
+[2021-07-10T02:28:54.056Z] Set profile setting ["layout","DetailPanel","height"] to 602: started.
+[2021-07-10T02:28:54.060Z] Set profile setting ["layout","DetailPanel","height"] to 602: finished. gk-log://duration?t=4
+[2021-07-10T02:28:54.460Z] Set profile setting ["layout","DetailPanel","height"] to 603: started.
+[2021-07-10T02:28:54.464Z] Set profile setting ["layout","DetailPanel","height"] to 603: finished. gk-log://duration?t=4
+[2021-07-10T02:28:54.495Z] Set profile setting ["layout","DetailPanel","height"] to 604: started.
+[2021-07-10T02:28:54.500Z] Set profile setting ["layout","DetailPanel","height"] to 604: finished. gk-log://duration?t=5
+[2021-07-10T02:28:54.543Z] Set profile setting ["layout","DetailPanel","height"] to 604: started.
+[2021-07-10T02:28:54.546Z] Set profile setting ["layout","DetailPanel","height"] to 604: finished. gk-log://duration?t=3
+[2021-07-10T02:29:03.259Z] Set profile setting ["layout","DetailPanel","height"] to 603: started.
+[2021-07-10T02:29:03.267Z] Set profile setting ["layout","DetailPanel","height"] to 603: finished. gk-log://duration?t=8
+[2021-07-10T02:29:03.443Z] Set profile setting ["layout","DetailPanel","height"] to 602: started.
+[2021-07-10T02:29:03.447Z] Set profile setting ["layout","DetailPanel","height"] to 602: finished. gk-log://duration?t=4
+[2021-07-10T02:29:03.461Z] Set profile setting ["layout","DetailPanel","height"] to 597: started.
+[2021-07-10T02:29:03.468Z] Set profile setting ["layout","DetailPanel","height"] to 597: finished. gk-log://duration?t=7
+[2021-07-10T02:29:03.487Z] Set profile setting ["layout","DetailPanel","height"] to 577: started.
+[2021-07-10T02:29:03.493Z] Set profile setting ["layout","DetailPanel","height"] to 577: finished. gk-log://duration?t=6
+[2021-07-10T02:29:03.510Z] Set profile setting ["layout","DetailPanel","height"] to 555: started.
+[2021-07-10T02:29:03.514Z] Set profile setting ["layout","DetailPanel","height"] to 555: finished. gk-log://duration?t=4
+[2021-07-10T02:29:03.538Z] Set profile setting ["layout","DetailPanel","height"] to 522: started.
+[2021-07-10T02:29:03.541Z] Set profile setting ["layout","DetailPanel","height"] to 522: finished. gk-log://duration?t=3
+[2021-07-10T02:29:03.560Z] Set profile setting ["layout","DetailPanel","height"] to 485: started.
+[2021-07-10T02:29:03.563Z] Set profile setting ["layout","DetailPanel","height"] to 485: finished. gk-log://duration?t=3
+[2021-07-10T02:29:03.591Z] Set profile setting ["layout","DetailPanel","height"] to 427: started.
+[2021-07-10T02:29:03.594Z] Set profile setting ["layout","DetailPanel","height"] to 427: finished. gk-log://duration?t=3
+[2021-07-10T02:29:03.624Z] Set profile setting ["layout","DetailPanel","height"] to 396: started.
+[2021-07-10T02:29:03.627Z] Set profile setting ["layout","DetailPanel","height"] to 396: finished. gk-log://duration?t=3
+[2021-07-10T02:29:04.149Z] Set profile setting ["layout","DetailPanel","height"] to 396: started.
+[2021-07-10T02:29:04.155Z] Set profile setting ["layout","DetailPanel","height"] to 396: finished. gk-log://duration?t=6
+[2021-07-10T02:30:45.108Z] Set profile setting ["layout","DetailPanel","height"] to 397: started.
+[2021-07-10T02:30:45.117Z] Set profile setting ["layout","DetailPanel","height"] to 397: finished. gk-log://duration?t=9
+[2021-07-10T02:30:45.183Z] Set profile setting ["layout","DetailPanel","height"] to 407: started.
+[2021-07-10T02:30:45.187Z] Set profile setting ["layout","DetailPanel","height"] to 407: finished. gk-log://duration?t=4
+[2021-07-10T02:30:45.218Z] Set profile setting ["layout","DetailPanel","height"] to 409: started.
+[2021-07-10T02:30:45.221Z] Set profile setting ["layout","DetailPanel","height"] to 409: finished. gk-log://duration?t=3
+[2021-07-10T02:30:45.250Z] Set profile setting ["layout","DetailPanel","height"] to 415: started.
+[2021-07-10T02:30:45.253Z] Set profile setting ["layout","DetailPanel","height"] to 415: finished. gk-log://duration?t=3
+[2021-07-10T02:30:45.283Z] Set profile setting ["layout","DetailPanel","height"] to 424: started.
+[2021-07-10T02:30:45.286Z] Set profile setting ["layout","DetailPanel","height"] to 424: finished. gk-log://duration?t=3
+[2021-07-10T02:30:45.324Z] Set profile setting ["layout","DetailPanel","height"] to 425: started.
+[2021-07-10T02:30:45.327Z] Set profile setting ["layout","DetailPanel","height"] to 425: finished. gk-log://duration?t=3
+[2021-07-10T02:30:45.473Z] Set profile setting ["layout","DetailPanel","height"] to 426: started.
+[2021-07-10T02:30:45.476Z] Set profile setting ["layout","DetailPanel","height"] to 426: finished. gk-log://duration?t=3
+[2021-07-10T02:30:45.507Z] Set profile setting ["layout","DetailPanel","height"] to 431: started.
+[2021-07-10T02:30:45.511Z] Set profile setting ["layout","DetailPanel","height"] to 431: finished. gk-log://duration?t=4
+[2021-07-10T02:30:45.527Z] Set profile setting ["layout","DetailPanel","height"] to 433: started.
+[2021-07-10T02:30:45.538Z] Set profile setting ["layout","DetailPanel","height"] to 433: finished. gk-log://duration?t=11
+[2021-07-10T02:30:45.886Z] Set profile setting ["layout","DetailPanel","height"] to 434: started.
+[2021-07-10T02:30:45.892Z] Set profile setting ["layout","DetailPanel","height"] to 434: finished. gk-log://duration?t=6
+[2021-07-10T02:30:46.499Z] Set profile setting ["layout","DetailPanel","height"] to 433: started.
+[2021-07-10T02:30:46.506Z] Set profile setting ["layout","DetailPanel","height"] to 433: finished. gk-log://duration?t=7
+[2021-07-10T02:30:46.683Z] Set profile setting ["layout","DetailPanel","height"] to 438: started.
+[2021-07-10T02:30:46.686Z] Set profile setting ["layout","DetailPanel","height"] to 438: finished. gk-log://duration?t=3
+[2021-07-10T02:30:46.708Z] Set profile setting ["layout","DetailPanel","height"] to 474: started.
+[2021-07-10T02:30:46.712Z] Set profile setting ["layout","DetailPanel","height"] to 474: finished. gk-log://duration?t=4
+[2021-07-10T02:30:46.735Z] Set profile setting ["layout","DetailPanel","height"] to 503: started.
+[2021-07-10T02:30:46.738Z] Set profile setting ["layout","DetailPanel","height"] to 503: finished. gk-log://duration?t=3
+[2021-07-10T02:30:46.761Z] Set profile setting ["layout","DetailPanel","height"] to 526: started.
+[2021-07-10T02:30:46.764Z] Set profile setting ["layout","DetailPanel","height"] to 526: finished. gk-log://duration?t=3
+[2021-07-10T02:30:46.792Z] Set profile setting ["layout","DetailPanel","height"] to 537: started.
+[2021-07-10T02:30:46.797Z] Set profile setting ["layout","DetailPanel","height"] to 537: finished. gk-log://duration?t=5
+[2021-07-10T02:30:46.809Z] Set profile setting ["layout","DetailPanel","height"] to 555: started.
+[2021-07-10T02:30:46.815Z] Set profile setting ["layout","DetailPanel","height"] to 555: finished. gk-log://duration?t=6
+[2021-07-10T02:30:46.836Z] Set profile setting ["layout","DetailPanel","height"] to 560: started.
+[2021-07-10T02:30:46.843Z] Set profile setting ["layout","DetailPanel","height"] to 560: finished. gk-log://duration?t=7
+[2021-07-10T02:30:46.858Z] Set profile setting ["layout","DetailPanel","height"] to 566: started.
+[2021-07-10T02:30:46.864Z] Set profile setting ["layout","DetailPanel","height"] to 566: finished. gk-log://duration?t=6
+[2021-07-10T02:30:46.875Z] Set profile setting ["layout","DetailPanel","height"] to 567: started.
+[2021-07-10T02:30:46.880Z] Set profile setting ["layout","DetailPanel","height"] to 567: finished. gk-log://duration?t=4
+[2021-07-10T02:30:46.920Z] Set profile setting ["layout","DetailPanel","height"] to 580: started.
+[2021-07-10T02:30:46.923Z] Set profile setting ["layout","DetailPanel","height"] to 580: finished. gk-log://duration?t=3
+[2021-07-10T02:30:46.981Z] Set profile setting ["layout","DetailPanel","height"] to 585: started.
+[2021-07-10T02:30:46.984Z] Set profile setting ["layout","DetailPanel","height"] to 585: finished. gk-log://duration?t=3
+[2021-07-10T02:30:47.104Z] Set profile setting ["layout","DetailPanel","height"] to 589: started.
+[2021-07-10T02:30:47.107Z] Set profile setting ["layout","DetailPanel","height"] to 589: finished. gk-log://duration?t=3
+[2021-07-10T02:30:47.161Z] Set profile setting ["layout","DetailPanel","height"] to 604: started.
+[2021-07-10T02:30:47.163Z] Set profile setting ["layout","DetailPanel","height"] to 604: finished. gk-log://duration?t=2
+[2021-07-10T02:30:47.188Z] Set profile setting ["layout","DetailPanel","height"] to 608: started.
+[2021-07-10T02:30:47.190Z] Set profile setting ["layout","DetailPanel","height"] to 608: finished. gk-log://duration?t=2
+[2021-07-10T02:30:47.216Z] Set profile setting ["layout","DetailPanel","height"] to 609: started.
+[2021-07-10T02:30:47.218Z] Set profile setting ["layout","DetailPanel","height"] to 609: finished. gk-log://duration?t=2
+[2021-07-10T02:30:47.244Z] Set profile setting ["layout","DetailPanel","height"] to 610: started.
+[2021-07-10T02:30:47.247Z] Set profile setting ["layout","DetailPanel","height"] to 610: finished. gk-log://duration?t=3
+[2021-07-10T02:30:47.274Z] Set profile setting ["layout","DetailPanel","height"] to 615: started.
+[2021-07-10T02:30:47.276Z] Set profile setting ["layout","DetailPanel","height"] to 615: finished. gk-log://duration?t=2
+[2021-07-10T02:30:47.302Z] Set profile setting ["layout","DetailPanel","height"] to 634: started.
+[2021-07-10T02:30:47.304Z] Set profile setting ["layout","DetailPanel","height"] to 634: finished. gk-log://duration?t=2
+[2021-07-10T02:30:47.329Z] Set profile setting ["layout","DetailPanel","height"] to 650: started.
+[2021-07-10T02:30:47.336Z] Set profile setting ["layout","DetailPanel","height"] to 650: finished. gk-log://duration?t=7
+[2021-07-10T02:30:47.867Z] Set profile setting ["layout","DetailPanel","height"] to 643: started.
+[2021-07-10T02:30:47.872Z] Set profile setting ["layout","DetailPanel","height"] to 643: finished. gk-log://duration?t=5
+[2021-07-10T02:30:47.926Z] Set profile setting ["layout","DetailPanel","height"] to 552: started.
+[2021-07-10T02:30:47.932Z] Set profile setting ["layout","DetailPanel","height"] to 552: finished. gk-log://duration?t=6
+[2021-07-10T02:30:47.974Z] Set profile setting ["layout","DetailPanel","height"] to 526: started.
+[2021-07-10T02:30:47.976Z] Set profile setting ["layout","DetailPanel","height"] to 526: finished. gk-log://duration?t=2
+[2021-07-10T02:30:48.015Z] Set profile setting ["layout","DetailPanel","height"] to 518: started.
+[2021-07-10T02:30:48.018Z] Set profile setting ["layout","DetailPanel","height"] to 518: finished. gk-log://duration?t=3
+[2021-07-10T02:30:48.032Z] Set profile setting ["layout","DetailPanel","height"] to 517: started.
+[2021-07-10T02:30:48.036Z] Set profile setting ["layout","DetailPanel","height"] to 517: finished. gk-log://duration?t=4
+[2021-07-10T02:30:48.051Z] Set profile setting ["layout","DetailPanel","height"] to 510: started.
+[2021-07-10T02:30:48.058Z] Set profile setting ["layout","DetailPanel","height"] to 510: finished. gk-log://duration?t=7
+[2021-07-10T02:30:48.087Z] Set profile setting ["layout","DetailPanel","height"] to 490: started.
+[2021-07-10T02:30:48.090Z] Set profile setting ["layout","DetailPanel","height"] to 490: finished. gk-log://duration?t=3
+[2021-07-10T02:30:48.138Z] Set profile setting ["layout","DetailPanel","height"] to 449: started.
+[2021-07-10T02:30:48.140Z] Set profile setting ["layout","DetailPanel","height"] to 449: finished. gk-log://duration?t=2
+[2021-07-10T02:30:48.173Z] Set profile setting ["layout","DetailPanel","height"] to 421: started.
+[2021-07-10T02:30:48.176Z] Set profile setting ["layout","DetailPanel","height"] to 421: finished. gk-log://duration?t=3
+[2021-07-10T02:30:48.206Z] Set profile setting ["layout","DetailPanel","height"] to 398: started.
+[2021-07-10T02:30:48.208Z] Set profile setting ["layout","DetailPanel","height"] to 398: finished. gk-log://duration?t=2
+[2021-07-10T02:30:48.232Z] Set profile setting ["layout","DetailPanel","height"] to 396: started.
+[2021-07-10T02:30:48.236Z] Set profile setting ["layout","DetailPanel","height"] to 396: finished. gk-log://duration?t=4
+[2021-07-10T02:30:48.926Z] Set profile setting ["layout","DetailPanel","height"] to 415: started.
+[2021-07-10T02:30:48.940Z] Set profile setting ["layout","DetailPanel","height"] to 415: finished. gk-log://duration?t=14
+[2021-07-10T02:30:48.957Z] Set profile setting ["layout","DetailPanel","height"] to 442: started.
+[2021-07-10T02:30:48.961Z] Set profile setting ["layout","DetailPanel","height"] to 442: finished. gk-log://duration?t=4
+[2021-07-10T02:30:48.998Z] Set profile setting ["layout","DetailPanel","height"] to 468: started.
+[2021-07-10T02:30:49.000Z] Set profile setting ["layout","DetailPanel","height"] to 468: finished. gk-log://duration?t=2
+[2021-07-10T02:30:49.019Z] Set profile setting ["layout","DetailPanel","height"] to 499: started.
+[2021-07-10T02:30:49.022Z] Set profile setting ["layout","DetailPanel","height"] to 499: finished. gk-log://duration?t=3
+[2021-07-10T02:30:49.047Z] Set profile setting ["layout","DetailPanel","height"] to 525: started.
+[2021-07-10T02:30:49.051Z] Set profile setting ["layout","DetailPanel","height"] to 525: finished. gk-log://duration?t=4
+[2021-07-10T02:30:49.076Z] Set profile setting ["layout","DetailPanel","height"] to 540: started.
+[2021-07-10T02:30:49.080Z] Set profile setting ["layout","DetailPanel","height"] to 540: finished. gk-log://duration?t=4
+[2021-07-10T02:30:49.092Z] Set profile setting ["layout","DetailPanel","height"] to 546: started.
+[2021-07-10T02:30:49.095Z] Set profile setting ["layout","DetailPanel","height"] to 546: finished. gk-log://duration?t=3
+[2021-07-10T02:30:49.111Z] Set profile setting ["layout","DetailPanel","height"] to 549: started.
+[2021-07-10T02:30:49.115Z] Set profile setting ["layout","DetailPanel","height"] to 549: finished. gk-log://duration?t=4
+[2021-07-10T02:30:49.284Z] Set profile setting ["layout","DetailPanel","height"] to 566: started.
+[2021-07-10T02:30:49.295Z] Set profile setting ["layout","DetailPanel","height"] to 566: finished. gk-log://duration?t=11
+[2021-07-10T02:30:49.347Z] Set profile setting ["layout","DetailPanel","height"] to 582: started.
+[2021-07-10T02:30:49.356Z] Set profile setting ["layout","DetailPanel","height"] to 582: finished. gk-log://duration?t=9
+[2021-07-10T02:30:49.375Z] Set profile setting ["layout","DetailPanel","height"] to 599: started.
+[2021-07-10T02:30:49.379Z] Set profile setting ["layout","DetailPanel","height"] to 599: finished. gk-log://duration?t=4
+[2021-07-10T02:30:49.410Z] Set profile setting ["layout","DetailPanel","height"] to 617: started.
+[2021-07-10T02:30:49.416Z] Set profile setting ["layout","DetailPanel","height"] to 617: finished. gk-log://duration?t=6
+[2021-07-10T02:30:49.443Z] Set profile setting ["layout","DetailPanel","height"] to 623: started.
+[2021-07-10T02:30:49.447Z] Set profile setting ["layout","DetailPanel","height"] to 623: finished. gk-log://duration?t=4
+[2021-07-10T02:30:49.471Z] Set profile setting ["layout","DetailPanel","height"] to 624: started.
+[2021-07-10T02:30:49.474Z] Set profile setting ["layout","DetailPanel","height"] to 624: finished. gk-log://duration?t=3
+[2021-07-10T02:30:49.514Z] Set profile setting ["layout","DetailPanel","height"] to 628: started.
+[2021-07-10T02:30:49.517Z] Set profile setting ["layout","DetailPanel","height"] to 628: finished. gk-log://duration?t=3
+[2021-07-10T02:30:49.541Z] Set profile setting ["layout","DetailPanel","height"] to 630: started.
+[2021-07-10T02:30:49.544Z] Set profile setting ["layout","DetailPanel","height"] to 630: finished. gk-log://duration?t=3
+[2021-07-10T02:30:49.575Z] Set profile setting ["layout","DetailPanel","height"] to 631: started.
+[2021-07-10T02:30:49.583Z] Set profile setting ["layout","DetailPanel","height"] to 631: finished. gk-log://duration?t=8
+[2021-07-10T02:30:49.599Z] Set profile setting ["layout","DetailPanel","height"] to 637: started.
+[2021-07-10T02:30:49.602Z] Set profile setting ["layout","DetailPanel","height"] to 637: finished. gk-log://duration?t=3
+[2021-07-10T02:30:49.637Z] Set profile setting ["layout","DetailPanel","height"] to 647: started.
+[2021-07-10T02:30:49.640Z] Set profile setting ["layout","DetailPanel","height"] to 647: finished. gk-log://duration?t=3
+[2021-07-10T02:30:49.670Z] Set profile setting ["layout","DetailPanel","height"] to 650: started.
+[2021-07-10T02:30:49.672Z] Set profile setting ["layout","DetailPanel","height"] to 650: finished. gk-log://duration?t=2
+[2021-07-10T02:30:49.995Z] Set profile setting ["layout","DetailPanel","height"] to 650: started.
+[2021-07-10T02:30:50.007Z] Set profile setting ["layout","DetailPanel","height"] to 650: finished. gk-log://duration?t=12
+[2021-07-10T02:30:59.409Z] Set profile setting ["layout","DetailPanel","height"] to 649: started.
+[2021-07-10T02:30:59.414Z] Set profile setting ["layout","DetailPanel","height"] to 649: finished. gk-log://duration?t=5
+[2021-07-10T02:30:59.439Z] Set profile setting ["layout","DetailPanel","height"] to 632: started.
+[2021-07-10T02:30:59.444Z] Set profile setting ["layout","DetailPanel","height"] to 632: finished. gk-log://duration?t=5
+[2021-07-10T02:30:59.484Z] Set profile setting ["layout","DetailPanel","height"] to 513: started.
+[2021-07-10T02:30:59.486Z] Set profile setting ["layout","DetailPanel","height"] to 513: finished. gk-log://duration?t=2
+[2021-07-10T02:30:59.529Z] Set profile setting ["layout","DetailPanel","height"] to 426: started.
+[2021-07-10T02:30:59.536Z] Set profile setting ["layout","DetailPanel","height"] to 426: finished. gk-log://duration?t=7
+[2021-07-10T02:30:59.619Z] Set profile setting ["layout","DetailPanel","height"] to 396: started.
+[2021-07-10T02:30:59.621Z] Set profile setting ["layout","DetailPanel","height"] to 396: finished. gk-log://duration?t=2
+[2021-07-10T02:31:00.750Z] Set profile setting ["layout","DetailPanel","height"] to 396: started.
+[2021-07-10T02:31:00.754Z] Set profile setting ["layout","DetailPanel","height"] to 396: finished. gk-log://duration?t=4
+[2021-07-10T03:42:53.030Z] Detecting Git and Git LFS: started
+[2021-07-10T03:42:55.261Z] Detected Git: 2.31.1
+[2021-07-10T03:42:55.269Z] Detected Git LFS: 2.13.3
+[2021-07-10T03:42:55.669Z] Open repository /Users/maxcampbell/Desktop/VHS Hero git/: started.
+[2021-07-10T03:42:56.382Z] Detecting Git and Git LFS: finished gk-log://duration?t=3352
+[2021-07-10T03:42:59.192Z] Open repository: finished. gk-log://duration?t=3523
+[2021-07-10T03:42:59.706Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"1fcda378-287b-4bd8-9212-5d1ada52a2e9"}: started.
+[2021-07-10T03:42:59.710Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"1fcda378-287b-4bd8-9212-5d1ada52a2e9"}: finished. gk-log://duration?t=4
+[2021-07-10T03:42:59.831Z] Verify SSH key for GitHub: started.
+[2021-07-10T03:43:00.444Z] Verify SSH key for GitHub: finished. gk-log://duration?t=613
+[2021-07-10T21:24:20.447Z] Detecting Git and Git LFS: started
+[2021-07-10T21:24:20.457Z] Detecting Git and Git LFS: cancelled (dependencies already checked)
+[2021-07-10T21:24:23.004Z] Open repository /Users/maxcampbell/Desktop/VHS Hero git/: started.
+[2021-07-10T21:24:26.412Z] Verify SSH key for GitHub: started.
+[2021-07-10T21:24:27.096Z] Open repository: finished. gk-log://duration?t=4092
+[2021-07-10T21:24:27.669Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"1fcda378-287b-4bd8-9212-5d1ada52a2e9"}: started.
+[2021-07-10T21:24:27.677Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"1fcda378-287b-4bd8-9212-5d1ada52a2e9"}: finished. gk-log://duration?t=8
+[2021-07-10T21:24:28.034Z] Verify SSH key for GitHub: finished. gk-log://duration?t=1622
+[2021-07-10T21:25:18.360Z] Detecting Git and Git LFS: started
+[2021-07-10T21:25:21.186Z] Detected Git: 2.31.1
+[2021-07-10T21:25:21.190Z] Detected Git LFS: 2.13.3
+[2021-07-10T21:25:21.574Z] Open repository /Users/maxcampbell/Desktop/VHS Hero git/: started.
+[2021-07-10T21:25:22.329Z] Detecting Git and Git LFS: finished gk-log://duration?t=3969
+[2021-07-10T21:25:24.617Z] Verify SSH key for GitHub: started.
+[2021-07-10T21:25:24.875Z] Open repository: finished. gk-log://duration?t=3301
+[2021-07-10T21:25:25.282Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"1fcda378-287b-4bd8-9212-5d1ada52a2e9"}: started.
+[2021-07-10T21:25:25.287Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"1fcda378-287b-4bd8-9212-5d1ada52a2e9"}: finished. gk-log://duration?t=5
+[2021-07-10T21:25:25.491Z] Verify SSH key for GitHub: finished. gk-log://duration?t=874
+[2021-07-10T21:33:08.029Z] Detecting Git and Git LFS: started
+[2021-07-10T21:33:08.033Z] Detecting Git and Git LFS: cancelled (dependencies already checked)
+[2021-07-10T21:33:10.751Z] Open repository /Users/maxcampbell/Desktop/VHS Hero git/: started.
+[2021-07-10T21:33:15.162Z] Verify SSH key for GitHub: started.
+[2021-07-10T21:33:15.529Z] Open repository: finished. gk-log://duration?t=4778
+[2021-07-10T21:33:16.073Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"1fcda378-287b-4bd8-9212-5d1ada52a2e9"}: started.
+[2021-07-10T21:33:16.081Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"1fcda378-287b-4bd8-9212-5d1ada52a2e9"}: finished. gk-log://duration?t=8
+[2021-07-10T21:33:16.416Z] Verify SSH key for GitHub: finished. gk-log://duration?t=1254
+[2021-07-11T04:25:25.330Z] Detecting Git and Git LFS: started
+[2021-07-11T04:25:28.192Z] Detected Git: 2.31.1
+[2021-07-11T04:25:28.199Z] Detected Git LFS: 2.13.3
+[2021-07-11T04:25:28.626Z] Open repository /Users/maxcampbell/Desktop/VHS Hero git/: started.
+[2021-07-11T04:25:30.060Z] Detecting Git and Git LFS: finished gk-log://duration?t=4730
+[2021-07-11T04:25:32.290Z] Verify SSH key for GitHub: started.
+[2021-07-11T04:25:32.343Z] Open repository: finished. gk-log://duration?t=3717
+[2021-07-11T04:25:32.751Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"1fcda378-287b-4bd8-9212-5d1ada52a2e9"}: started.
+[2021-07-11T04:25:32.754Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"1fcda378-287b-4bd8-9212-5d1ada52a2e9"}: finished. gk-log://duration?t=3
+[2021-07-11T04:25:33.128Z] Verify SSH key for GitHub: finished. gk-log://duration?t=838
+[2021-07-11T04:25:53.026Z] Send usage data to Axosoft: started.
+[2021-07-11T04:25:53.165Z] Send usage data to Axosoft: bad request
+[2021-07-11T04:25:53.174Z] Send usage data to Axosoft: finished with errors. gk-log://duration?t=148
+[2021-07-11T19:08:08.887Z] Detecting Git and Git LFS: started
+[2021-07-11T19:08:11.548Z] Detected Git: 2.31.1
+[2021-07-11T19:08:11.554Z] Detected Git LFS: 2.13.3
+[2021-07-11T19:08:11.960Z] Open repository /Users/maxcampbell/Desktop/VHS Hero git/: started.
+[2021-07-11T19:08:12.753Z] Detecting Git and Git LFS: finished gk-log://duration?t=3866
+[2021-07-11T19:08:14.897Z] Verify SSH key for GitHub: started.
+[2021-07-11T19:08:15.141Z] Open repository: finished. gk-log://duration?t=3181
+[2021-07-11T19:08:15.583Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"1fcda378-287b-4bd8-9212-5d1ada52a2e9"}: started.
+[2021-07-11T19:08:15.592Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"1fcda378-287b-4bd8-9212-5d1ada52a2e9"}: finished. gk-log://duration?t=9
+[2021-07-11T19:08:15.954Z] Verify SSH key for GitHub: finished. gk-log://duration?t=1057
+[2021-07-12T00:50:26.546Z] Set profile setting ["fileNodeList","viewMode"] to "tree_view": started.
+[2021-07-12T00:50:26.614Z] Set profile setting ["fileNodeList","viewMode"] to "tree_view": finished. gk-log://duration?t=68
+[2021-07-12T00:50:27.197Z] Set profile setting ["fileNodeList","viewMode"] to "full_path": started.
+[2021-07-12T00:50:27.207Z] Set profile setting ["fileNodeList","viewMode"] to "full_path": finished. gk-log://duration?t=10
+[2021-07-12T04:25:55.617Z] Send usage data to Axosoft: started.
+[2021-07-12T04:25:56.049Z] Send usage data to Axosoft: bad request
+[2021-07-12T04:25:56.107Z] Send usage data to Axosoft: finished with errors. gk-log://duration?t=490
+[2021-07-12T10:15:34.789Z] Detecting Git and Git LFS: started
+[2021-07-12T10:15:43.466Z] Detected Git: 2.31.1
+[2021-07-12T10:15:43.485Z] Detected Git LFS: 2.13.3
+[2021-07-12T10:15:45.142Z] Open repository /Users/maxcampbell/Desktop/VHS Hero git/: started.
+[2021-07-12T10:15:48.933Z] Detecting Git and Git LFS: finished gk-log://duration?t=14144
+[2021-07-12T10:15:54.852Z] Verify SSH key for GitHub: started.
+[2021-07-12T10:15:55.459Z] Open repository: finished. gk-log://duration?t=10317
+[2021-07-12T10:15:56.863Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"1fcda378-287b-4bd8-9212-5d1ada52a2e9"}: started.
+[2021-07-12T10:15:56.875Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"1fcda378-287b-4bd8-9212-5d1ada52a2e9"}: finished. gk-log://duration?t=12
+[2021-07-12T10:15:57.569Z] Verify SSH key for GitHub: finished. gk-log://duration?t=2717
+[2021-07-12T17:57:34.584Z] Detecting Git and Git LFS: started
+[2021-07-12T17:57:41.747Z] Detected Git: 2.31.1
+[2021-07-12T17:57:41.779Z] Detected Git LFS: 2.13.3
+[2021-07-12T17:57:43.628Z] Open repository /Users/maxcampbell/Desktop/VHS Hero git/: started.
+[2021-07-12T17:57:45.338Z] Detecting Git and Git LFS: finished gk-log://duration?t=10754
+[2021-07-12T17:57:48.998Z] Verify SSH key for GitHub: started.
+[2021-07-12T17:57:49.237Z] Open repository: finished. gk-log://duration?t=5609
+[2021-07-12T17:57:50.550Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"1fcda378-287b-4bd8-9212-5d1ada52a2e9"}: started.
+[2021-07-12T17:57:50.562Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"1fcda378-287b-4bd8-9212-5d1ada52a2e9"}: finished. gk-log://duration?t=12
+[2021-07-12T17:57:51.148Z] Verify SSH key for GitHub: finished. gk-log://duration?t=2150
+[2021-07-14T04:14:09.411Z] Detecting Git and Git LFS: started
+[2021-07-14T04:14:11.649Z] Detected Git: 2.31.1
+[2021-07-14T04:14:11.655Z] Detected Git LFS: 2.13.3
+[2021-07-14T04:14:12.174Z] Open repository /Users/maxcampbell/Desktop/VHS Hero git/: started.
+[2021-07-14T04:14:14.383Z] Detecting Git and Git LFS: finished gk-log://duration?t=4972
+[2021-07-14T04:14:16.749Z] Verify SSH key for GitHub: started.
+[2021-07-14T04:14:16.846Z] Open repository: finished. gk-log://duration?t=4672
+[2021-07-14T04:14:17.345Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"1fcda378-287b-4bd8-9212-5d1ada52a2e9"}: started.
+[2021-07-14T04:14:17.348Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"1fcda378-287b-4bd8-9212-5d1ada52a2e9"}: finished. gk-log://duration?t=3
+[2021-07-14T04:14:17.526Z] Verify SSH key for GitHub: finished. gk-log://duration?t=777
+[2021-07-14T04:14:36.900Z] Send usage data to Axosoft: started.
+[2021-07-14T04:14:37.011Z] Send usage data to Axosoft: bad request
+[2021-07-14T04:14:37.019Z] Send usage data to Axosoft: finished with errors. gk-log://duration?t=119
+[2021-07-14T04:24:29.184Z] Detecting Git and Git LFS: started
+[2021-07-14T04:24:33.765Z] Detected Git: 2.31.1
+[2021-07-14T04:24:33.771Z] Detected Git LFS: 2.13.3
+[2021-07-14T04:24:34.402Z] Open repository /Users/maxcampbell/Desktop/VHS Hero git/: started.
+[2021-07-14T04:24:37.847Z] Detecting Git and Git LFS: finished gk-log://duration?t=8663
+[2021-07-14T05:24:18.505Z] Detecting Git and Git LFS: started
+[2021-07-14T05:24:21.225Z] Detected Git: 2.31.1
+[2021-07-14T05:24:21.230Z] Detected Git LFS: 2.13.3
+[2021-07-14T05:24:21.601Z] Open repository /Users/maxcampbell/Desktop/VHS Hero git/: started.
+[2021-07-14T05:24:22.408Z] Detecting Git and Git LFS: finished gk-log://duration?t=3903
+[2021-07-14T05:24:24.725Z] Verify SSH key for GitHub: started.
+[2021-07-14T05:24:24.853Z] Open repository: finished. gk-log://duration?t=3252
+[2021-07-14T05:24:25.260Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"1fcda378-287b-4bd8-9212-5d1ada52a2e9"}: started.
+[2021-07-14T05:24:25.266Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"1fcda378-287b-4bd8-9212-5d1ada52a2e9"}: finished. gk-log://duration?t=6
+[2021-07-14T05:24:25.530Z] Verify SSH key for GitHub: finished. gk-log://duration?t=805
+[2021-07-15T03:22:35.598Z] Detecting Git and Git LFS: started
+[2021-07-15T03:22:41.196Z] Detected Git: 2.31.1
+[2021-07-15T03:22:41.203Z] Detected Git LFS: 2.13.3
+[2021-07-15T03:22:42.164Z] Open repository /Users/maxcampbell/Desktop/VHS Hero git/: started.
+[2021-07-15T03:22:42.970Z] Detecting Git and Git LFS: finished gk-log://duration?t=7371
+[2021-07-15T03:22:44.908Z] Open repository: finished. gk-log://duration?t=2744
+[2021-07-15T03:22:46.109Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"1fcda378-287b-4bd8-9212-5d1ada52a2e9"}: started.
+[2021-07-15T03:22:46.122Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"1fcda378-287b-4bd8-9212-5d1ada52a2e9"}: finished. gk-log://duration?t=13
+[2021-07-15T03:22:46.320Z] Verify SSH key for GitHub: started.
+[2021-07-15T03:22:48.263Z] Verify SSH key for GitHub: finished. gk-log://duration?t=1943
+[2021-07-15T04:14:37.177Z] Send usage data to Axosoft: started.
+[2021-07-15T04:14:37.548Z] Send usage data to Axosoft: bad request
+[2021-07-15T04:14:37.584Z] Send usage data to Axosoft: finished with errors. gk-log://duration?t=407
+[2021-07-16T04:14:38.153Z] Send usage data to Axosoft: started.
+[2021-07-16T04:14:38.502Z] Send usage data to Axosoft: bad request
+[2021-07-16T04:14:38.540Z] Send usage data to Axosoft: finished with errors. gk-log://duration?t=386
+[2021-07-17T20:43:06.540Z] Detecting Git and Git LFS: started
+[2021-07-17T20:43:09.437Z] Detected Git: 2.31.1
+[2021-07-17T20:43:09.442Z] Detected Git LFS: 2.13.3
+[2021-07-17T20:43:09.859Z] Open repository /Users/maxcampbell/Desktop/VHS Hero git/: started.
+[2021-07-17T20:43:11.059Z] Detecting Git and Git LFS: finished gk-log://duration?t=4519
+[2021-07-17T20:43:13.350Z] Verify SSH key for GitHub: started.
+[2021-07-17T20:43:13.876Z] Verify SSH key for GitHub: finished. gk-log://duration?t=526
+[2021-07-17T20:43:13.977Z] Open repository: finished. gk-log://duration?t=4118
+[2021-07-17T20:43:14.412Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"1fcda378-287b-4bd8-9212-5d1ada52a2e9"}: started.
+[2021-07-17T20:43:14.418Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"1fcda378-287b-4bd8-9212-5d1ada52a2e9"}: finished. gk-log://duration?t=6
+[2021-07-17T20:43:34.336Z] Send usage data to Axosoft: started.
+[2021-07-17T20:43:34.462Z] Send usage data to Axosoft: bad request
+[2021-07-17T20:43:34.472Z] Send usage data to Axosoft: finished with errors. gk-log://duration?t=135
+[2021-07-17T21:34:14.274Z] Detecting Git and Git LFS: started
+[2021-07-17T21:34:20.517Z] Detected Git: 2.31.1
+[2021-07-17T21:34:20.524Z] Detected Git LFS: 2.13.3
+[2021-07-17T21:34:21.931Z] Open repository /Users/maxcampbell/Desktop/VHS Hero git/: started.
+[2021-07-17T21:34:26.800Z] Detecting Git and Git LFS: finished gk-log://duration?t=12526
+[2021-07-17T21:34:30.250Z] Open repository: finished. gk-log://duration?t=8319
+[2021-07-17T21:34:31.457Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"1fcda378-287b-4bd8-9212-5d1ada52a2e9"}: started.
+[2021-07-17T21:34:31.464Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"NEW"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"1fcda378-287b-4bd8-9212-5d1ada52a2e9"}: finished. gk-log://duration?t=7
+[2021-07-17T21:34:31.587Z] Verify SSH key for GitHub: started.
+[2021-07-17T21:34:31.969Z] Verify SSH key for GitHub: finished. gk-log://duration?t=382
+[2021-07-18T20:43:35.759Z] Send usage data to Axosoft: started.
+[2021-07-18T20:43:36.206Z] Send usage data to Axosoft: bad request
+[2021-07-18T20:43:36.220Z] Send usage data to Axosoft: finished with errors. gk-log://duration?t=460
+[2021-07-19T03:55:50.992Z] Verify SSH key for GitHub: started.
+[2021-07-19T03:55:51.173Z] Verify SSH key for GitHub: finished. gk-log://duration?t=181
+[2021-07-19T03:55:54.372Z] Detecting Git and Git LFS: started
+[2021-07-19T03:55:59.050Z] Detected Git: git version 2.31.1.2.31.1
+[2021-07-19T03:55:59.057Z] Detected Git LFS: git-lfs/2.13.3 (GitHub; darwin amd64; go 1.16.2).2.13.3
+[2021-07-19T03:56:01.805Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"RELEASE_NOTES"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"e23e2fa6-1126-46b7-9951-b8330cb98914"}: started.
+[2021-07-19T03:56:01.813Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"RELEASE_NOTES"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"e23e2fa6-1126-46b7-9951-b8330cb98914"}: finished. gk-log://duration?t=8
+[2021-07-19T03:56:03.170Z] Detecting Git and Git LFS: finished gk-log://duration?t=8798
+[2021-07-19T03:57:43.496Z] Set profile setting ["organizationId"] to null: started.
+[2021-07-19T03:57:43.502Z] Set profile setting ["organizationId"] to null: finished. gk-log://duration?t=6
+[2021-07-19T03:57:45.681Z] Set profile setting ["editor","fontFamily"] to "Monaco": started.
+[2021-07-19T03:57:45.685Z] Set profile setting ["editor","fontFamily"] to "Monaco": finished. gk-log://duration?t=4
+[2021-07-19T03:58:11.428Z] Set profile setting ["ui","theme"] to "light": started.
+[2021-07-19T03:58:11.440Z] Set profile setting ["ui","theme"] to "light": finished. gk-log://duration?t=12
+[2021-07-19T03:58:13.312Z] Set profile setting ["ui","theme"] to "dark": started.
+[2021-07-19T03:58:13.322Z] Set profile setting ["ui","theme"] to "dark": finished. gk-log://duration?t=10
+[2021-07-19T03:58:33.667Z] Add user profile: started.
+[2021-07-19T03:58:33.758Z] Add user profile: finished. gk-log://duration?t=91
+[2021-07-22T04:33:43.246Z] Verify SSH key for GitHub: started.
+[2021-07-22T04:33:43.430Z] Verify SSH key for GitHub: finished. gk-log://duration?t=184
+[2021-07-22T04:33:45.479Z] Detecting Git and Git LFS: started
+[2021-07-22T04:33:48.559Z] Detected Git: git version 2.31.1.2.31.1
+[2021-07-22T04:33:48.563Z] Detected Git LFS: git-lfs/2.13.3 (GitHub; darwin amd64; go 1.16.2).2.13.3
+[2021-07-22T04:33:49.332Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"RELEASE_NOTES"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"e23e2fa6-1126-46b7-9951-b8330cb98914"}: started.
+[2021-07-22T04:33:49.373Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"RELEASE_NOTES"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"}],"selectedTabId":"e23e2fa6-1126-46b7-9951-b8330cb98914"}: finished. gk-log://duration?t=41
+[2021-07-22T04:33:50.703Z] Detecting Git and Git LFS: finished gk-log://duration?t=5224
+[2021-07-22T04:33:53.594Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"RELEASE_NOTES"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"},{"id":"5ba8331b-5e9e-4f17-acda-175a603616c9","type":"NEW"}],"selectedTabId":"5ba8331b-5e9e-4f17-acda-175a603616c9"}: started.
+[2021-07-22T04:33:53.610Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"RELEASE_NOTES"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"},{"id":"5ba8331b-5e9e-4f17-acda-175a603616c9","type":"NEW"}],"selectedTabId":"5ba8331b-5e9e-4f17-acda-175a603616c9"}: finished. gk-log://duration?t=16
+[2021-07-22T04:34:12.860Z] Send usage data to Axosoft: started.
+[2021-07-22T04:34:12.975Z] Send usage data to Axosoft: bad request
+[2021-07-22T04:34:12.986Z] Send usage data to Axosoft: finished with errors. gk-log://duration?t=126
+[2021-07-22T04:34:35.602Z] Open repository /Users/maxcampbell/Desktop/portfolio-site-v2/: started.
+[2021-07-22T04:34:37.266Z] Open repository: finished. gk-log://duration?t=1664
+[2021-07-22T04:34:37.396Z] Set profile setting ["organizationId"] to null: started.
+[2021-07-22T04:34:37.403Z] Set profile setting ["organizationId"] to null: finished. gk-log://duration?t=7
+[2021-07-22T04:34:37.479Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"RELEASE_NOTES"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"},{"id":"5ba8331b-5e9e-4f17-acda-175a603616c9","type":"REPO","repoName":"portfolio-site-v2","repoPath":"/Users/maxcampbell/Desktop/portfolio-site-v2/"}],"selectedTabId":"5ba8331b-5e9e-4f17-acda-175a603616c9"}: started.
+[2021-07-22T04:34:37.483Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"Prometheus","repoPath":"/Users/maxcampbell/Documents/Arduino/Prometheus/"},{"id":"e23e2fa6-1126-46b7-9951-b8330cb98914","type":"RELEASE_NOTES"},{"id":"9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1","type":"NEW"},{"id":"1fcda378-287b-4bd8-9212-5d1ada52a2e9","type":"REPO","repoName":"VHS Hero git","repoPath":"/Users/maxcampbell/Desktop/VHS Hero git/"},{"id":"5ba8331b-5e9e-4f17-acda-175a603616c9","type":"REPO","repoName":"portfolio-site-v2","repoPath":"/Users/maxcampbell/Desktop/portfolio-site-v2/"}],"selectedTabId":"5ba8331b-5e9e-4f17-acda-175a603616c9"}: finished. gk-log://duration?t=4

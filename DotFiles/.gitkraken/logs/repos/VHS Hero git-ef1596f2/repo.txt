@@ -1,0 +1,1815 @@
+[2021-06-28T20:00:37.144Z] Stage 21000 files for commit: started.
+[2021-06-28T20:03:45.880Z] Stage 21000 files for commit: could not find '/Users/maxcampbell/Desktop/VHS Hero git/VHS Hero/Logs/shadercompiler-UnityShaderCompiler1.log' to stat: No such file or directory
+[2021-06-28T20:03:45.912Z] Stage 21000 files for commit: finished with errors. gk-log://duration?t=188768
+[2021-06-28T20:23:53.135Z] Stage 887 files for commit: started.
+[2021-06-28T20:23:57.326Z] Stage 887 files for commit: finished. gk-log://duration?t=4191
+[2021-06-28T20:23:58.426Z] Commit: started.
+[2021-06-28T20:23:58.566Z] post-commit hook started.
+[2021-06-28T20:24:04.246Z] post-commit hook finished. gk-log://duration?t=5680 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1624911838611.761af18d&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-06-28T20:24:04.534Z] Commit: successfully created commit 3238b168314f270792e73d77beb21a1ff74877af
+[2021-06-28T20:24:04.547Z] Commit: finished gk-log://duration?t=6121
+[2021-06-28T20:24:40.466Z] Push main: started.
+[2021-06-28T20:24:40.872Z] pre-push hook started.
+[2021-06-28T20:24:46.309Z] pre-push hook finished. gk-log://duration?t=5437 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1624911880877.bfacb855&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-06-28T20:25:03.808Z] Push main: finished. gk-log://duration?t=23342
+[2021-06-28T20:46:00.684Z] Stage 96 files for commit: started.
+[2021-06-28T20:46:01.042Z] Stage 96 files for commit: finished. gk-log://duration?t=358
+[2021-06-28T20:46:02.409Z] Commit: started.
+[2021-06-28T20:46:02.793Z] post-commit hook started.
+[2021-06-28T20:46:06.988Z] post-commit hook finished. gk-log://duration?t=4195 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1624913162799.07b2fb12&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-06-28T20:46:07.220Z] Commit: successfully created commit cb8e79650d6f95c9b7689c72d734c679aa0910bd
+[2021-06-28T20:46:07.221Z] Commit: finished gk-log://duration?t=4812
+[2021-06-28T20:46:16.520Z] Push main: started.
+[2021-06-28T20:46:16.903Z] pre-push hook started.
+[2021-06-28T20:46:19.963Z] pre-push hook finished. gk-log://duration?t=3060 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1624913176912.8b6a6ed4&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-06-28T20:46:22.234Z] Push main: finished. gk-log://duration?t=5714
+[2021-06-28T21:38:15.341Z] Stage 6 files for commit: started.
+[2021-06-28T21:38:15.511Z] Stage 6 files for commit: finished. gk-log://duration?t=169
+[2021-06-28T21:38:16.622Z] Commit: started.
+[2021-06-28T21:38:17.082Z] post-commit hook started.
+[2021-06-28T21:38:20.304Z] post-commit hook finished. gk-log://duration?t=3222 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1624916297088.ff7a9170&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-06-28T21:38:20.511Z] Commit: successfully created commit c0d7b8a99261ce2c1dc6c4f245dc5c7d942d357f
+[2021-06-28T21:38:20.537Z] Commit: finished gk-log://duration?t=3915
+[2021-06-28T21:38:21.373Z] Push main: started.
+[2021-06-28T21:38:21.764Z] pre-push hook started.
+[2021-06-28T21:38:24.178Z] pre-push hook finished. gk-log://duration?t=2414 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1624916301777.e78b1f5d&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-06-28T21:38:26.782Z] Push main: finished. gk-log://duration?t=5409
+[2021-06-28T21:40:05.870Z] Stage VHS Hero/Assets/scripts/Gameplay/LevelManager.cs for commit: started.
+[2021-06-28T21:40:05.950Z] Stage VHS Hero/Assets/scripts/Gameplay/LevelManager.cs for commit: finished. gk-log://duration?t=80
+[2021-06-28T21:40:07.074Z] Commit: started.
+[2021-06-28T21:40:07.223Z] post-commit hook started.
+[2021-06-28T21:40:09.905Z] post-commit hook finished. gk-log://duration?t=2682 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1624916407235.2b3f9349&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-06-28T21:40:10.044Z] Commit: successfully created commit 179a90e12c374ce60965fdb5a19f95ce7d20661d
+[2021-06-28T21:40:10.045Z] Commit: finished gk-log://duration?t=2971
+[2021-06-28T21:57:15.904Z] Stage 4 files for commit: started.
+[2021-06-28T21:57:16.057Z] Stage 4 files for commit: finished. gk-log://duration?t=152
+[2021-06-28T21:57:17.003Z] Commit: started.
+[2021-06-28T21:57:17.172Z] post-commit hook started.
+[2021-06-28T21:57:21.826Z] post-commit hook finished. gk-log://duration?t=4654 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1624917437177.9e94849b&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-06-28T21:57:22.027Z] Commit: successfully created commit d1e2cb4a7323ad6164fb11b2b8a5e580f5936081
+[2021-06-28T21:57:22.028Z] Commit: finished gk-log://duration?t=5024
+[2021-06-28T23:05:07.910Z] Fetch remote origin: error sending data: Broken pipe
+[2021-06-29T00:44:04.340Z] Stage 152 files for commit: started.
+[2021-06-29T00:44:04.841Z] Stage 152 files for commit: finished. gk-log://duration?t=501
+[2021-06-29T00:44:18.147Z] Commit: started.
+[2021-06-29T00:44:18.340Z] post-commit hook started.
+[2021-06-29T00:44:24.759Z] post-commit hook finished. gk-log://duration?t=6419 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1624927458350.5b0fb1e4&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-06-29T00:44:24.978Z] Commit: successfully created commit 1fea5cd2e8822f9c724f1f0713a8b8c0c6ae41f0
+[2021-06-29T00:44:24.984Z] Commit: finished gk-log://duration?t=6837
+[2021-06-29T01:32:04.711Z] Stage 12 files for commit: started.
+[2021-06-29T01:32:04.901Z] Stage 12 files for commit: finished. gk-log://duration?t=190
+[2021-06-29T01:32:17.811Z] Commit: started.
+[2021-06-29T01:32:18.799Z] post-commit hook started.
+[2021-06-29T01:32:29.949Z] post-commit hook finished. gk-log://duration?t=11150 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1624930338812.e8412538&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-06-29T01:32:30.691Z] Commit: successfully created commit 8ff81146e34d57ae4a0702e40858f32e84b76eb4
+[2021-06-29T01:32:30.719Z] Commit: finished gk-log://duration?t=12908
+[2021-06-29T01:32:32.487Z] Push main: started.
+[2021-06-29T01:32:32.936Z] pre-push hook started.
+[2021-06-29T01:32:38.085Z] pre-push hook finished. gk-log://duration?t=5149 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1624930352949.69210994&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-06-29T01:32:41.552Z] Push main: finished. gk-log://duration?t=9064
+[2021-06-29T02:05:04.726Z] Stage 4 files for commit: started.
+[2021-06-29T02:05:04.858Z] Stage 4 files for commit: finished. gk-log://duration?t=132
+[2021-06-29T03:54:23.313Z] Stage 6 files for commit: started.
+[2021-06-29T03:54:23.494Z] Stage 6 files for commit: finished. gk-log://duration?t=181
+[2021-06-29T03:54:27.944Z] Commit: started.
+[2021-06-29T03:54:28.131Z] post-commit hook started.
+[2021-06-29T03:54:34.238Z] post-commit hook finished. gk-log://duration?t=6107 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1624938868140.2e7f18d3&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-06-29T03:54:34.478Z] Commit: successfully created commit dc2a5b5a4bab49f46f10fffe2ef82916e2cb9bb4
+[2021-06-29T03:54:34.480Z] Commit: finished gk-log://duration?t=6536
+[2021-06-29T03:54:37.127Z] Push main: started.
+[2021-06-29T03:54:37.530Z] pre-push hook started.
+[2021-06-29T03:54:41.696Z] pre-push hook finished. gk-log://duration?t=4166 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1624938877533.989ab098&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-06-29T03:54:44.036Z] Push main: finished. gk-log://duration?t=6908
+[2021-06-29T07:11:47.585Z] Stage 3 files for commit: started.
+[2021-06-29T07:11:47.954Z] Stage 3 files for commit: finished. gk-log://duration?t=369
+[2021-06-29T07:11:49.274Z] Commit: started.
+[2021-06-29T07:11:49.521Z] post-commit hook started.
+[2021-06-29T07:11:54.961Z] post-commit hook finished. gk-log://duration?t=5440 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1624950709528.6ed00c94&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-06-29T07:11:55.335Z] Commit: successfully created commit f77a49e214fd3a50c1b810600ca74b083c5589a8
+[2021-06-29T07:11:55.336Z] Commit: finished gk-log://duration?t=6062
+[2021-06-29T07:11:57.583Z] Push main: started.
+[2021-06-29T07:11:57.937Z] pre-push hook started.
+[2021-06-29T07:12:02.082Z] pre-push hook finished. gk-log://duration?t=4145 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1624950717940.9c314cfa&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-06-29T07:12:05.458Z] Push main: finished. gk-log://duration?t=7873
+[2021-06-29T07:13:59.592Z] Stage VHS Hero/Assets/levels/level3.prefab for commit: started.
+[2021-06-29T07:13:59.687Z] Stage VHS Hero/Assets/levels/level3.prefab for commit: finished. gk-log://duration?t=95
+[2021-06-29T07:14:00.622Z] Commit: started.
+[2021-06-29T07:14:00.766Z] post-commit hook started.
+[2021-06-29T07:14:03.227Z] post-commit hook finished. gk-log://duration?t=2461 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1624950840772.7eee9314&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-06-29T07:14:03.414Z] Commit: successfully created commit 4dcf79a249d35dc5e48ba8e1ea9f9ec9826169fd
+[2021-06-29T07:14:03.415Z] Commit: finished gk-log://duration?t=2793
+[2021-06-29T07:21:52.399Z] Stage 7 files for commit: started.
+[2021-06-29T07:21:52.592Z] Stage 7 files for commit: finished. gk-log://duration?t=193
+[2021-06-29T07:22:13.205Z] Commit: started.
+[2021-06-29T07:22:13.464Z] post-commit hook started.
+[2021-06-29T07:22:17.597Z] post-commit hook finished. gk-log://duration?t=4133 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1624951333473.9ea41c38&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-06-29T07:22:17.986Z] Commit: successfully created commit 0ff314d927e6470437d1a22977b374b8a877402d
+[2021-06-29T07:22:17.988Z] Commit: finished gk-log://duration?t=4783
+[2021-06-29T07:22:20.974Z] Push main: started.
+[2021-06-29T07:22:21.400Z] pre-push hook started.
+[2021-06-29T07:22:25.231Z] pre-push hook finished. gk-log://duration?t=3831 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1624951341411.482a588f&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-06-29T07:22:27.752Z] Push main: finished. gk-log://duration?t=6777
+[2021-06-29T07:59:27.980Z] Stage 1056 files for commit: started.
+[2021-06-29T07:59:30.299Z] Stage 1056 files for commit: finished. gk-log://duration?t=2319
+[2021-06-29T07:59:31.675Z] Commit: started.
+[2021-06-29T07:59:31.824Z] post-commit hook started.
+[2021-06-29T07:59:39.033Z] post-commit hook finished. gk-log://duration?t=7208 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1624953571840.84ad26f4&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-06-29T07:59:39.385Z] Commit: successfully created commit d94b498621be9addf6ad0b549cefa1236709d494
+[2021-06-29T07:59:39.386Z] Commit: finished gk-log://duration?t=7711
+[2021-06-29T07:59:41.124Z] Push main: started.
+[2021-06-29T07:59:41.727Z] pre-push hook started.
+[2021-06-29T07:59:45.714Z] pre-push hook finished. gk-log://duration?t=3987 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1624953581738.7bdc6e0a&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-06-29T07:59:48.129Z] Push main: finished. gk-log://duration?t=7005
+[2021-06-29T08:22:40.213Z] Stage 34 files for commit: started.
+[2021-06-29T08:22:40.471Z] Stage 34 files for commit: finished. gk-log://duration?t=258
+[2021-06-29T08:22:41.646Z] Commit: started.
+[2021-06-29T08:22:41.796Z] post-commit hook started.
+[2021-06-29T08:22:46.353Z] post-commit hook finished. gk-log://duration?t=4557 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1624954961801.3e8502f1&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-06-29T08:22:46.559Z] Commit: successfully created commit 4262702ae444e4ec3cd26b1907614e1ff426efa3
+[2021-06-29T08:22:46.560Z] Commit: finished gk-log://duration?t=4914
+[2021-06-29T08:22:48.175Z] Push main: started.
+[2021-06-29T08:22:48.608Z] pre-push hook started.
+[2021-06-29T08:22:51.661Z] pre-push hook finished. gk-log://duration?t=3053 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1624954968611.3c6cce52&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-06-29T08:22:54.011Z] Push main: finished. gk-log://duration?t=5836
+[2021-06-29T09:00:03.267Z] Push main: started.
+[2021-06-29T09:00:04.682Z] pre-push hook started.
+[2021-06-29T09:00:10.737Z] pre-push hook finished. gk-log://duration?t=6055 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1624957204690.db7a20a7&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-06-29T09:00:14.112Z] Push main: finished. gk-log://duration?t=10845
+[2021-06-30T02:49:34.225Z] Fetch remote origin: error sending data: Broken pipe
+[2021-06-30T04:21:52.066Z] Fetch remote origin: error sending data: Broken pipe
+[2021-06-30T18:50:39.553Z] Stage 45 files for commit: started.
+[2021-06-30T18:50:39.859Z] Stage 45 files for commit: finished. gk-log://duration?t=306
+[2021-06-30T18:51:04.059Z] Commit: started.
+[2021-06-30T18:51:04.251Z] post-commit hook started.
+[2021-06-30T18:51:04.848Z] post-commit hook finished. gk-log://duration?t=597 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625079064299.b60045f1&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-06-30T18:51:05.041Z] Commit: successfully created commit 782fd3321bbc34ca980600bf2e64cc9ae141b069
+[2021-06-30T18:51:05.043Z] Commit: finished gk-log://duration?t=984
+[2021-06-30T18:51:07.287Z] Push main: started.
+[2021-06-30T18:51:07.698Z] pre-push hook started.
+[2021-06-30T18:51:09.768Z] pre-push hook finished. gk-log://duration?t=2070 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625079067714.3ea9b889&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-06-30T18:51:13.015Z] Push main: finished. gk-log://duration?t=5728
+[2021-06-30T21:36:17.230Z] Stage 22 files for commit: started.
+[2021-06-30T21:36:17.410Z] Stage 22 files for commit: finished. gk-log://duration?t=180
+[2021-06-30T21:36:18.910Z] Commit: started.
+[2021-06-30T21:36:19.117Z] post-commit hook started.
+[2021-06-30T21:43:09.426Z] Push main: started.
+[2021-06-30T21:43:09.861Z] pre-push hook started.
+[2021-06-30T21:43:11.924Z] pre-push hook finished. gk-log://duration?t=2063 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625089389891.333368dd&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-06-30T21:43:14.247Z] Push main: finished. gk-log://duration?t=4821
+[2021-07-01T14:51:45.737Z] Commit: started.
+[2021-07-01T14:51:46.001Z] post-commit hook started.
+[2021-07-01T14:51:49.106Z] post-commit hook finished. gk-log://duration?t=3105 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625151106011.43ed6180&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-01T14:51:49.548Z] Commit: successfully created commit d19735444af08be220b306c56f6cb0254f252e7e
+[2021-07-01T14:51:49.550Z] Commit: finished gk-log://duration?t=3813
+[2021-07-01T14:51:52.048Z] Stage 64 files for commit: started.
+[2021-07-01T14:51:52.448Z] Stage 64 files for commit: finished. gk-log://duration?t=400
+[2021-07-01T14:51:54.816Z] Commit: started.
+[2021-07-01T14:51:54.912Z] post-commit hook started.
+[2021-07-01T14:51:55.593Z] post-commit hook finished. gk-log://duration?t=681 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625151114918.d9e8dd68&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-01T14:51:55.760Z] Commit: successfully created commit bd461e7213cda9419ccf70529ab8296549766095
+[2021-07-01T14:51:55.762Z] Commit: finished gk-log://duration?t=946
+[2021-07-01T14:51:57.438Z] Push main: started.
+[2021-07-01T14:51:57.824Z] pre-push hook started.
+[2021-07-01T14:51:59.808Z] pre-push hook finished. gk-log://duration?t=1984 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625151117832.f22c10c1&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-01T14:52:02.943Z] Push main: finished. gk-log://duration?t=5504
+[2021-07-01T18:56:00.302Z] Stage 10 files for commit: started.
+[2021-07-01T18:56:00.432Z] Stage 10 files for commit: finished. gk-log://duration?t=130
+[2021-07-01T18:56:01.783Z] Commit: started.
+[2021-07-01T18:56:01.985Z] post-commit hook started.
+[2021-07-01T18:56:04.334Z] post-commit hook finished. gk-log://duration?t=2349 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625165761991.666d7474&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-01T18:56:04.666Z] Commit: successfully created commit c860794b4960165d4dde96f6287003566d56dcc5
+[2021-07-01T18:56:04.668Z] Commit: finished gk-log://duration?t=2885
+[2021-07-01T18:56:06.063Z] Push main: started.
+[2021-07-01T18:56:06.677Z] pre-push hook started.
+[2021-07-01T18:56:08.580Z] pre-push hook finished. gk-log://duration?t=1903 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625165766686.9e8a0263&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-01T18:56:10.890Z] Push main: finished. gk-log://duration?t=4827
+[2021-07-03T23:43:55.588Z] Stage 47 files for commit: started.
+[2021-07-03T23:43:56.150Z] Stage 47 files for commit: finished. gk-log://duration?t=562
+[2021-07-03T23:44:01.441Z] Commit: started.
+[2021-07-03T23:44:01.674Z] post-commit hook started.
+[2021-07-03T23:44:02.513Z] post-commit hook finished. gk-log://duration?t=839 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625355841713.98085135&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-03T23:44:02.760Z] Commit: successfully created commit 608edc3ec8f3400c3d7f6a900885ca6c7bc12304
+[2021-07-03T23:44:02.762Z] Commit: finished gk-log://duration?t=1321
+[2021-07-03T23:44:09.731Z] Push main: started.
+[2021-07-03T23:44:10.127Z] pre-push hook started.
+[2021-07-03T23:44:12.289Z] pre-push hook finished. gk-log://duration?t=2162 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625355850132.d3882f9a&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-03T23:44:15.290Z] Pull main: started.
+[2021-07-03T23:44:15.305Z] Fetch remote origin: started
+[2021-07-03T23:44:15.745Z] Fetch remote origin: finished gk-log://duration?t=440
+[2021-07-03T23:44:15.878Z] Merge origin/main into main: started.
+[2021-07-03T23:44:15.965Z] post-merge hook started.
+[2021-07-03T23:44:16.839Z] post-merge hook finished. gk-log://duration?t=874 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-merge%2F1625355855969.954edfa8&linktext=View%20hook%20log&loglabel=Hook%3A%20post-merge
+[2021-07-03T23:44:16.850Z] Merge origin/main into main: finished. gk-log://duration?t=972
+[2021-07-03T23:44:16.880Z] Pull main: finished. gk-log://duration?t=1590
+[2021-07-03T23:44:17.301Z] pre-push hook started.
+[2021-07-03T23:44:19.083Z] pre-push hook finished. gk-log://duration?t=1782 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625355857312.9c003aa3&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-03T23:44:21.386Z] Push main: finished. gk-log://duration?t=11655
+[2021-07-04T17:07:11.491Z] Stage 20 files for commit: started.
+[2021-07-04T17:07:11.778Z] Stage 20 files for commit: finished. gk-log://duration?t=287
+[2021-07-04T17:07:14.012Z] Commit: started.
+[2021-07-04T17:07:14.155Z] post-commit hook started.
+[2021-07-04T17:07:16.734Z] post-commit hook finished. gk-log://duration?t=2579 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625418434167.2b8af882&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-04T17:07:16.924Z] Commit: successfully created commit bf6c13a92ee831de5a630cc239da69be24d17543
+[2021-07-04T17:07:16.926Z] Commit: finished gk-log://duration?t=2914
+[2021-07-04T17:07:18.521Z] Push main: started.
+[2021-07-04T17:07:18.906Z] pre-push hook started.
+[2021-07-04T17:07:20.888Z] pre-push hook finished. gk-log://duration?t=1982 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625418438912.25f137b6&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-04T17:07:23.188Z] Push main: finished. gk-log://duration?t=4667
+[2021-07-05T19:06:07.316Z] Pull main: started.
+[2021-07-05T19:06:07.323Z] Fetch remote origin: started
+[2021-07-05T19:06:07.707Z] Fetch remote origin: finished gk-log://duration?t=383
+[2021-07-05T19:06:07.774Z] Merge origin/main into main: started.
+[2021-07-05T19:06:07.854Z] post-merge hook started.
+[2021-07-05T19:06:10.977Z] post-merge hook finished. gk-log://duration?t=3123 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-merge%2F1625511967861.590c1f11&linktext=View%20hook%20log&loglabel=Hook%3A%20post-merge
+[2021-07-05T19:06:10.986Z] Merge origin/main into main: finished. gk-log://duration?t=3212
+[2021-07-05T19:06:11.064Z] Pull main: finished. gk-log://duration?t=3748
+[2021-07-05T19:15:21.108Z] Stage 8 files for commit: started.
+[2021-07-05T19:15:21.304Z] Stage 8 files for commit: finished. gk-log://duration?t=196
+[2021-07-05T19:15:22.212Z] Commit: started.
+[2021-07-05T19:15:22.349Z] post-commit hook started.
+[2021-07-05T19:15:24.347Z] post-commit hook finished. gk-log://duration?t=1998 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625512522355.83442306&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-05T19:15:24.504Z] Commit: successfully created commit db511a66b64d5fbd8f8e06fe27a46084a9a60abc
+[2021-07-05T19:15:24.505Z] Commit: finished gk-log://duration?t=2293
+[2021-07-05T19:15:27.059Z] Push main: started.
+[2021-07-05T19:15:27.424Z] pre-push hook started.
+[2021-07-05T19:15:29.364Z] pre-push hook finished. gk-log://duration?t=1940 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625512527433.0da3ec92&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-05T19:15:31.631Z] Push main: finished. gk-log://duration?t=4572
+[2021-07-05T19:34:37.174Z] Stage 4 files for commit: started.
+[2021-07-05T19:34:37.270Z] Stage 4 files for commit: finished. gk-log://duration?t=96
+[2021-07-05T19:34:38.241Z] Commit: started.
+[2021-07-05T19:34:38.341Z] post-commit hook started.
+[2021-07-05T19:34:40.037Z] post-commit hook finished. gk-log://duration?t=1696 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625513678347.f0e8ee7d&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-05T19:34:40.243Z] Commit: successfully created commit 9a5185a0a74bc41f0ced0202a3cf70777cd31d61
+[2021-07-05T19:34:40.244Z] Commit: finished gk-log://duration?t=2003
+[2021-07-05T19:34:53.237Z] Stage VHS Hero/Assets/scripts/Gameplay/Objects/Portal.cs for commit: started.
+[2021-07-05T19:34:53.295Z] Stage VHS Hero/Assets/scripts/Gameplay/Objects/Portal.cs for commit: finished. gk-log://duration?t=58
+[2021-07-05T19:34:54.134Z] Commit: started.
+[2021-07-05T19:34:54.213Z] post-commit hook started.
+[2021-07-05T19:34:55.502Z] post-commit hook finished. gk-log://duration?t=1289 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625513694217.fd33ce0c&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-05T19:34:55.656Z] Commit: successfully created commit b3775dbe48cecfe6141be9daa4272a816b4e1ce8
+[2021-07-05T19:34:55.659Z] Commit: finished gk-log://duration?t=1525
+[2021-07-05T19:34:56.957Z] Push main: started.
+[2021-07-05T19:34:57.441Z] pre-push hook started.
+[2021-07-05T19:34:59.573Z] pre-push hook finished. gk-log://duration?t=2132 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625513697445.0c2212b7&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-05T19:35:01.774Z] Push main: finished. gk-log://duration?t=4817
+[2021-07-05T20:02:07.716Z] Stage VHS Hero/Assets/Lean.meta for commit: started.
+[2021-07-05T20:02:07.947Z] Stage VHS Hero/Assets/Lean.meta for commit: finished. gk-log://duration?t=231
+[2021-07-05T20:02:09.069Z] Stage 215 files for commit: started.
+[2021-07-05T20:02:09.761Z] Stage 215 files for commit: finished. gk-log://duration?t=692
+[2021-07-05T20:02:10.221Z] Commit: started.
+[2021-07-05T20:02:10.324Z] post-commit hook started.
+[2021-07-05T20:02:12.049Z] post-commit hook finished. gk-log://duration?t=1725 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625515330330.acfae384&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-05T20:02:12.235Z] Commit: successfully created commit 743bc79130e940aae0403b05e95c9b962cc4c4cf
+[2021-07-05T20:02:12.236Z] Commit: finished gk-log://duration?t=2015
+[2021-07-05T20:02:13.800Z] Push main: started.
+[2021-07-05T20:02:14.177Z] pre-push hook started.
+[2021-07-05T20:02:16.135Z] pre-push hook finished. gk-log://duration?t=1958 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625515334187.35677180&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-05T20:02:18.715Z] Push main: finished. gk-log://duration?t=4915
+[2021-07-05T22:58:41.133Z] Stage 11 files for commit: started.
+[2021-07-05T22:58:41.362Z] Stage 11 files for commit: finished. gk-log://duration?t=229
+[2021-07-05T22:59:19.049Z] Commit: started.
+[2021-07-05T22:59:19.201Z] post-commit hook started.
+[2021-07-05T22:59:20.338Z] post-commit hook finished. gk-log://duration?t=1136 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625525959232.03f19bfb&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-05T22:59:21.047Z] Commit: successfully created commit aa5845da2c9290f10cf9189ea2ad9412f13451b7
+[2021-07-05T22:59:21.049Z] Commit: finished gk-log://duration?t=2000
+[2021-07-05T22:59:26.157Z] Push main: started.
+[2021-07-05T22:59:26.584Z] pre-push hook started.
+[2021-07-05T22:59:28.488Z] pre-push hook finished. gk-log://duration?t=1904 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625525966589.45d2a891&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-05T22:59:31.016Z] Push main: finished. gk-log://duration?t=4859
+[2021-07-06T02:22:17.838Z] Stage 23 files for commit: started.
+[2021-07-06T02:22:19.623Z] Stage 23 files for commit: finished. gk-log://duration?t=1785
+[2021-07-06T02:22:35.570Z] Commit: started.
+[2021-07-06T02:22:35.813Z] post-commit hook started.
+[2021-07-06T02:22:37.787Z] post-commit hook finished. gk-log://duration?t=1974 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625538155880.da90da66&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-06T02:22:38.497Z] Commit: successfully created commit 2eccdfaee894dc263f17d6bea2bf1dab9b77166b
+[2021-07-06T02:22:38.499Z] Commit: finished gk-log://duration?t=2929
+[2021-07-06T02:22:40.093Z] Push main: started.
+[2021-07-06T02:22:40.471Z] pre-push hook started.
+[2021-07-06T02:22:42.435Z] pre-push hook finished. gk-log://duration?t=1964 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625538160492.84b0d117&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-06T02:22:44.886Z] Push main: finished. gk-log://duration?t=4793
+[2021-07-06T16:31:21.848Z] Pull main: started.
+[2021-07-06T16:31:21.860Z] Fetch remote origin: started
+[2021-07-06T16:31:22.732Z] Fetch remote origin: finished gk-log://duration?t=872
+[2021-07-06T16:31:22.825Z] Merge origin/main into main: started.
+[2021-07-06T16:31:22.872Z] post-merge hook started.
+[2021-07-06T16:31:23.538Z] post-merge hook finished. gk-log://duration?t=666 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-merge%2F1625589082934.8abf9770&linktext=View%20hook%20log&loglabel=Hook%3A%20post-merge
+[2021-07-06T16:31:23.553Z] Merge origin/main into main: finished. gk-log://duration?t=728
+[2021-07-06T16:31:23.565Z] Pull main: finished. gk-log://duration?t=1717
+[2021-07-06T17:00:19.375Z] Stage 6 files for commit: started.
+[2021-07-06T17:00:19.795Z] Stage 6 files for commit: finished. gk-log://duration?t=420
+[2021-07-06T17:00:31.307Z] Commit: started.
+[2021-07-06T17:00:31.532Z] post-commit hook started.
+[2021-07-06T17:00:33.650Z] post-commit hook finished. gk-log://duration?t=2118 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625590831537.bba2b007&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-06T17:00:33.837Z] Commit: successfully created commit 020ba8cf8d7cd356cc4e42906f562b4b6fc002f9
+[2021-07-06T17:00:33.838Z] Commit: finished gk-log://duration?t=2531
+[2021-07-06T17:00:38.169Z] Push main: started.
+[2021-07-06T17:00:38.572Z] pre-push hook started.
+[2021-07-06T17:00:40.676Z] pre-push hook finished. gk-log://duration?t=2104 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625590838586.bb58cc44&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-06T17:00:42.940Z] Push main: finished. gk-log://duration?t=4771
+[2021-07-06T17:31:12.177Z] Push main: started.
+[2021-07-06T17:31:12.652Z] pre-push hook started.
+[2021-07-06T17:31:16.244Z] pre-push hook finished. gk-log://duration?t=3592 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625592672736.42a2d716&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-06T17:31:18.507Z] Push main: finished. gk-log://duration?t=6330
+[2021-07-06T17:31:49.005Z] Stage VHS Hero/Assets/levels/Level5.prefab for commit: started.
+[2021-07-06T17:31:49.115Z] Stage VHS Hero/Assets/levels/Level5.prefab for commit: finished. gk-log://duration?t=109
+[2021-07-06T17:31:49.988Z] Commit: started.
+[2021-07-06T17:31:50.195Z] post-commit hook started.
+[2021-07-06T17:31:51.015Z] post-commit hook finished. gk-log://duration?t=820 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625592710199.426b62f2&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-06T17:31:51.308Z] Commit: successfully created commit 507f5baad7e58bb055e3fa908077e2734eeaed2d
+[2021-07-06T17:31:51.309Z] Commit: finished gk-log://duration?t=1321
+[2021-07-06T17:31:53.529Z] Push main: started.
+[2021-07-06T17:31:53.910Z] pre-push hook started.
+[2021-07-06T17:31:55.822Z] pre-push hook finished. gk-log://duration?t=1912 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625592713916.b7f09cd4&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-06T17:31:58.393Z] Push main: finished. gk-log://duration?t=4864
+[2021-07-06T18:19:58.500Z] Stage 24 files for commit: started.
+[2021-07-06T18:19:58.764Z] Stage 24 files for commit: finished. gk-log://duration?t=264
+[2021-07-06T18:19:59.731Z] Commit: started.
+[2021-07-06T18:19:59.893Z] post-commit hook started.
+[2021-07-06T18:20:01.366Z] post-commit hook finished. gk-log://duration?t=1473 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625595599899.b3faf958&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-06T18:20:01.696Z] Commit: successfully created commit c55f2832f47fa16cb13daad331ef96d555bc6d8e
+[2021-07-06T18:20:01.698Z] Commit: finished gk-log://duration?t=1967
+[2021-07-06T18:20:04.254Z] Push main: started.
+[2021-07-06T18:20:05.056Z] pre-push hook started.
+[2021-07-06T18:20:07.208Z] pre-push hook finished. gk-log://duration?t=2152 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625595605064.29488ade&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-06T18:20:09.816Z] Push main: finished. gk-log://duration?t=5562
+[2021-07-06T18:26:06.632Z] Push main: started.
+[2021-07-06T18:26:07.051Z] pre-push hook started.
+[2021-07-06T18:26:09.793Z] pre-push hook finished. gk-log://duration?t=2742 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625595967058.7059c842&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-06T18:26:12.107Z] Push main: finished. gk-log://duration?t=5475
+[2021-07-06T18:26:16.217Z] Pull main: started.
+[2021-07-06T18:26:16.234Z] Fetch remote origin: started
+[2021-07-06T18:26:17.061Z] Fetch remote origin: finished gk-log://duration?t=827
+[2021-07-06T18:26:17.124Z] Merge origin/main into main: started.
+[2021-07-06T18:26:17.133Z] Merge origin/main into main: finished. gk-log://duration?t=9
+[2021-07-06T18:26:17.141Z] Pull main: finished. gk-log://duration?t=924
+[2021-07-06T18:42:07.344Z] Adding remote (ianx64): https://github.com/ianx64/VHS-Hero-git.git: started.
+[2021-07-06T18:42:07.454Z] Fetch remote ianx64: started
+[2021-07-06T18:42:08.316Z] Fetch remote ianx64: finished gk-log://duration?t=862
+[2021-07-06T18:42:08.622Z] Adding remote (ianx64): https://github.com/ianx64/VHS-Hero-git.git: finished. gk-log://duration?t=1278
+[2021-07-06T18:54:04.495Z] Reset (hard) refs/heads/main to c55f2832f47fa16cb13daad331ef96d555bc6d8e: started.
+[2021-07-06T18:54:04.613Z] Reset (hard) refs/heads/main to c55f2832f47fa16cb13daad331ef96d555bc6d8e: finished. gk-log://duration?t=118
+[2021-07-06T18:54:14.285Z] Revert 2eb65a73abbe65575d9c3f422f927b0b1b20e719 onto refs/heads/main: started.
+[2021-07-06T18:54:14.358Z] post-commit hook started.
+[2021-07-06T18:54:15.621Z] post-commit hook finished. gk-log://duration?t=1262 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625597654371.cc0228bb&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-06T18:54:15.720Z] Revert 2eb65a73abbe65575d9c3f422f927b0b1b20e719 onto refs/heads/main: finished. gk-log://duration?t=1435
+[2021-07-06T18:57:03.371Z] Checkout refs/heads/ianx64-main: started.
+[2021-07-06T18:57:03.501Z] post-checkout hook started.
+[2021-07-06T18:57:04.671Z] post-checkout hook finished. gk-log://duration?t=1170 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-checkout%2F1625597823506.b519cc75&linktext=View%20hook%20log&loglabel=Hook%3A%20post-checkout
+[2021-07-06T18:57:04.814Z] Checkout refs/heads/ianx64-main: finished. gk-log://duration?t=1443
+[2021-07-06T18:57:15.851Z] Revert d08445cb56449886f6dfebdc17def28aa800b451 onto refs/heads/ianx64-main: started.
+[2021-07-06T18:57:15.919Z] post-commit hook started.
+[2021-07-06T18:57:16.471Z] post-commit hook finished. gk-log://duration?t=552 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625597835925.3a64d922&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-06T18:57:16.549Z] Revert d08445cb56449886f6dfebdc17def28aa800b451 onto refs/heads/ianx64-main: finished. gk-log://duration?t=698
+[2021-07-06T18:57:50.757Z] Checkout refs/heads/main: started.
+[2021-07-06T18:57:50.853Z] post-checkout hook started.
+[2021-07-06T18:57:51.932Z] post-checkout hook finished. gk-log://duration?t=1079 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-checkout%2F1625597870862.8c51d251&linktext=View%20hook%20log&loglabel=Hook%3A%20post-checkout
+[2021-07-06T18:57:52.251Z] Checkout refs/heads/main: finished. gk-log://duration?t=1494
+[2021-07-06T18:58:02.572Z] Revert 0962c7394a4f02fe05cedd80aed888112cc302ed onto refs/heads/main: started.
+[2021-07-06T18:58:02.681Z] post-commit hook started.
+[2021-07-06T18:58:03.303Z] post-commit hook finished. gk-log://duration?t=622 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625597882685.b29caaf2&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-06T18:58:03.370Z] Revert 0962c7394a4f02fe05cedd80aed888112cc302ed onto refs/heads/main: finished. gk-log://duration?t=798
+[2021-07-06T18:58:36.907Z] Merge ianx64-main into main: started.
+[2021-07-06T18:58:36.991Z] Finish merge ianx64-main into main: started.
+[2021-07-06T18:58:37.014Z] Finish merge ianx64-main into main: finished. gk-log://duration?t=23
+[2021-07-06T18:58:37.024Z] post-merge hook started.
+[2021-07-06T18:58:37.758Z] post-merge hook finished. gk-log://duration?t=734 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-merge%2F1625597917032.405971dc&linktext=View%20hook%20log&loglabel=Hook%3A%20post-merge
+[2021-07-06T18:58:37.767Z] Merge ianx64-main into main: finished. gk-log://duration?t=860
+[2021-07-06T18:58:49.870Z] Push main: started.
+[2021-07-06T18:58:50.249Z] pre-push hook started.
+[2021-07-06T18:58:52.182Z] pre-push hook finished. gk-log://duration?t=1933 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625597930260.1d605b74&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-06T18:58:54.113Z] Pull main: started.
+[2021-07-06T18:58:54.125Z] Fetch remote origin: started
+[2021-07-06T18:58:54.538Z] Fetch remote origin: finished gk-log://duration?t=413
+[2021-07-06T18:58:54.619Z] Merge origin/main into main: started.
+[2021-07-06T18:58:54.663Z] post-merge hook started.
+[2021-07-06T18:58:55.112Z] post-merge hook finished. gk-log://duration?t=449 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-merge%2F1625597934667.58f1b469&linktext=View%20hook%20log&loglabel=Hook%3A%20post-merge
+[2021-07-06T18:58:55.123Z] Merge origin/main into main: finished. gk-log://duration?t=504
+[2021-07-06T18:58:55.128Z] Pull main: finished. gk-log://duration?t=1015
+[2021-07-06T18:58:55.507Z] pre-push hook started.
+[2021-07-06T18:58:57.262Z] pre-push hook finished. gk-log://duration?t=1755 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625597935513.b41eeb94&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-06T18:58:59.529Z] Push main: finished. gk-log://duration?t=9659
+[2021-07-06T18:59:45.510Z] Checkout refs/heads/ianx64-main: started.
+[2021-07-06T18:59:45.577Z] post-checkout hook started.
+[2021-07-06T18:59:46.313Z] post-checkout hook finished. gk-log://duration?t=736 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-checkout%2F1625597985582.53548556&linktext=View%20hook%20log&loglabel=Hook%3A%20post-checkout
+[2021-07-06T18:59:46.644Z] Checkout refs/heads/ianx64-main: finished. gk-log://duration?t=1134
+[2021-07-06T19:00:51.063Z] Merge main into ianx64-main: started.
+[2021-07-06T19:00:51.118Z] Finish merge main into ianx64-main: started.
+[2021-07-06T19:00:51.140Z] Finish merge main into ianx64-main: finished. gk-log://duration?t=22
+[2021-07-06T19:00:51.144Z] post-merge hook started.
+[2021-07-06T19:00:51.815Z] post-merge hook finished. gk-log://duration?t=671 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-merge%2F1625598051147.1d88aa85&linktext=View%20hook%20log&loglabel=Hook%3A%20post-merge
+[2021-07-06T19:00:51.835Z] Merge main into ianx64-main: finished. gk-log://duration?t=772
+[2021-07-06T19:00:59.924Z] Checkout refs/heads/main: started.
+[2021-07-06T19:00:59.995Z] post-checkout hook started.
+[2021-07-06T19:01:00.531Z] post-checkout hook finished. gk-log://duration?t=536 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-checkout%2F1625598060002.920d57c0&linktext=View%20hook%20log&loglabel=Hook%3A%20post-checkout
+[2021-07-06T19:01:00.666Z] Checkout refs/heads/main: finished. gk-log://duration?t=742
+[2021-07-06T19:01:13.406Z] Merge ianx64-main into main: started.
+[2021-07-06T19:01:13.451Z] Finish merge ianx64-main into main: started.
+[2021-07-06T19:01:13.463Z] Finish merge ianx64-main into main: finished. gk-log://duration?t=12
+[2021-07-06T19:01:13.465Z] post-merge hook started.
+[2021-07-06T19:01:13.924Z] post-merge hook finished. gk-log://duration?t=459 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-merge%2F1625598073468.bb9e1a29&linktext=View%20hook%20log&loglabel=Hook%3A%20post-merge
+[2021-07-06T19:01:13.930Z] Merge ianx64-main into main: finished. gk-log://duration?t=524
+[2021-07-06T19:01:23.891Z] Checkout refs/remotes/ianx64/main: started.
+[2021-07-06T19:01:32.238Z] Create ref refs/heads/ianx640main at ba7f9001e0dff14007d2b045d4ee51032893a31a: started.
+[2021-07-06T19:01:32.344Z] Create ref refs/heads/ianx640main at ba7f9001e0dff14007d2b045d4ee51032893a31a: finished. gk-log://duration?t=106
+[2021-07-06T19:01:32.448Z] post-checkout hook started.
+[2021-07-06T19:01:32.940Z] post-checkout hook finished. gk-log://duration?t=492 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-checkout%2F1625598092451.1c4e4f8d&linktext=View%20hook%20log&loglabel=Hook%3A%20post-checkout
+[2021-07-06T19:01:33.091Z] Checkout refs/remotes/ianx64/main: finished. gk-log://duration?t=9200
+[2021-07-06T19:03:17.012Z] Checkout refs/heads/main: started.
+[2021-07-06T19:03:17.232Z] Checkout refs/heads/main: finished. gk-log://duration?t=220
+[2021-07-06T19:03:23.691Z] Unstage 2 files: started.
+[2021-07-06T19:03:23.741Z] Unstage 2 files: finished. gk-log://duration?t=50
+[2021-07-06T19:03:23.880Z] Reset all files: started.
+[2021-07-06T19:03:24.003Z] Reset all files: finished. gk-log://duration?t=122
+[2021-07-06T19:03:24.054Z] Reset all submodules: started.
+[2021-07-06T19:03:24.070Z] Reset all submodules: finished. gk-log://duration?t=16
+[2021-07-06T19:03:33.058Z] Checkout refs/heads/main: started.
+[2021-07-06T19:03:33.140Z] post-checkout hook started.
+[2021-07-06T19:03:34.302Z] post-checkout hook finished. gk-log://duration?t=1162 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-checkout%2F1625598213145.b686ccea&linktext=View%20hook%20log&loglabel=Hook%3A%20post-checkout
+[2021-07-06T19:03:34.534Z] Checkout refs/heads/main: finished. gk-log://duration?t=1476
+[2021-07-06T19:03:46.063Z] Merge main into ianx640main: started.
+[2021-07-06T19:03:46.111Z] post-merge hook started.
+[2021-07-06T19:03:46.655Z] post-merge hook finished. gk-log://duration?t=544 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-merge%2F1625598226116.4b06e1cd&linktext=View%20hook%20log&loglabel=Hook%3A%20post-merge
+[2021-07-06T19:03:46.667Z] Merge main into ianx640main: finished. gk-log://duration?t=604
+[2021-07-06T19:03:53.878Z] Checkout refs/heads/ianx640main: started.
+[2021-07-06T19:03:53.977Z] post-checkout hook started.
+[2021-07-06T19:03:54.465Z] post-checkout hook finished. gk-log://duration?t=488 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-checkout%2F1625598233980.f5dc7899&linktext=View%20hook%20log&loglabel=Hook%3A%20post-checkout
+[2021-07-06T19:03:54.668Z] Checkout refs/heads/ianx640main: finished. gk-log://duration?t=790
+[2021-07-06T19:03:57.496Z] Merge ianx640main into main: started.
+[2021-07-06T19:03:57.537Z] post-merge hook started.
+[2021-07-06T19:03:58.011Z] post-merge hook finished. gk-log://duration?t=474 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-merge%2F1625598237541.100d497d&linktext=View%20hook%20log&loglabel=Hook%3A%20post-merge
+[2021-07-06T19:03:58.020Z] Merge ianx640main into main: finished. gk-log://duration?t=524
+[2021-07-06T19:04:03.904Z] Checkout refs/heads/main: started.
+[2021-07-06T19:04:03.969Z] post-checkout hook started.
+[2021-07-06T19:04:04.423Z] post-checkout hook finished. gk-log://duration?t=454 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-checkout%2F1625598243973.09cd6a7b&linktext=View%20hook%20log&loglabel=Hook%3A%20post-checkout
+[2021-07-06T19:04:04.597Z] Checkout refs/heads/main: finished. gk-log://duration?t=693
+[2021-07-06T19:05:37.397Z] Revert 168d0336b08082af5959af1c239f9d08f7cad01b onto refs/heads/main: started.
+[2021-07-06T19:05:37.466Z] post-commit hook started.
+[2021-07-06T19:05:38.634Z] post-commit hook finished. gk-log://duration?t=1168 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625598337477.e9ae2b46&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-06T19:05:38.694Z] Revert 168d0336b08082af5959af1c239f9d08f7cad01b onto refs/heads/main: finished. gk-log://duration?t=1297
+[2021-07-06T19:05:47.062Z] Checkout refs/heads/ianx640main: started.
+[2021-07-06T19:05:47.172Z] post-checkout hook started.
+[2021-07-06T19:05:47.778Z] post-checkout hook finished. gk-log://duration?t=606 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-checkout%2F1625598347181.95c837bc&linktext=View%20hook%20log&loglabel=Hook%3A%20post-checkout
+[2021-07-06T19:05:47.952Z] Checkout refs/heads/ianx640main: finished. gk-log://duration?t=890
+[2021-07-06T19:06:01.720Z] Checkout refs/remotes/ianx64/main: started.
+[2021-07-06T19:06:11.570Z] Create ref refs/heads/ianx64-new-test-merge-PLEASE at ba7f9001e0dff14007d2b045d4ee51032893a31a: started.
+[2021-07-06T19:06:11.679Z] Create ref refs/heads/ianx64-new-test-merge-PLEASE at ba7f9001e0dff14007d2b045d4ee51032893a31a: finished. gk-log://duration?t=109
+[2021-07-06T19:06:11.799Z] post-checkout hook started.
+[2021-07-06T19:06:12.637Z] post-checkout hook finished. gk-log://duration?t=838 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-checkout%2F1625598371806.16731c5a&linktext=View%20hook%20log&loglabel=Hook%3A%20post-checkout
+[2021-07-06T19:06:12.740Z] Checkout refs/remotes/ianx64/main: finished. gk-log://duration?t=11020
+[2021-07-06T19:06:21.088Z] Checkout refs/heads/main: started.
+[2021-07-06T19:06:21.174Z] post-checkout hook started.
+[2021-07-06T19:06:21.741Z] post-checkout hook finished. gk-log://duration?t=567 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-checkout%2F1625598381177.a35219b5&linktext=View%20hook%20log&loglabel=Hook%3A%20post-checkout
+[2021-07-06T19:06:21.941Z] Checkout refs/heads/main: finished. gk-log://duration?t=853
+[2021-07-06T19:06:31.261Z] Checkout refs/heads/ianx64-new-test-merge-PLEASE: started.
+[2021-07-06T19:06:31.387Z] post-checkout hook started.
+[2021-07-06T19:06:31.860Z] post-checkout hook finished. gk-log://duration?t=473 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-checkout%2F1625598391394.28ce0a9b&linktext=View%20hook%20log&loglabel=Hook%3A%20post-checkout
+[2021-07-06T19:06:32.036Z] Checkout refs/heads/ianx64-new-test-merge-PLEASE: finished. gk-log://duration?t=775
+[2021-07-06T19:06:39.632Z] Checkout refs/heads/main: started.
+[2021-07-06T19:06:39.698Z] post-checkout hook started.
+[2021-07-06T19:06:40.321Z] post-checkout hook finished. gk-log://duration?t=623 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-checkout%2F1625598399702.1fb622b7&linktext=View%20hook%20log&loglabel=Hook%3A%20post-checkout
+[2021-07-06T19:06:40.636Z] Checkout refs/heads/main: finished. gk-log://duration?t=1004
+[2021-07-06T19:07:16.656Z] Push main: started.
+[2021-07-06T19:07:17.041Z] pre-push hook started.
+[2021-07-06T19:07:19.360Z] pre-push hook finished. gk-log://duration?t=2319 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625598437052.d122c8ab&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-06T19:07:21.656Z] Push main: finished. gk-log://duration?t=4999
+[2021-07-06T19:07:51.259Z] Delete ref refs/heads/ianx640main at 168d0336b08082af5959af1c239f9d08f7cad01b: started.
+[2021-07-06T19:07:51.304Z] Delete ref refs/heads/ianx640main at 168d0336b08082af5959af1c239f9d08f7cad01b: finished. gk-log://duration?t=45
+[2021-07-06T19:07:56.663Z] Delete ref refs/heads/ianx64-new-test-merge-PLEASE at ba7f9001e0dff14007d2b045d4ee51032893a31a: started.
+[2021-07-06T19:07:56.720Z] Delete ref refs/heads/ianx64-new-test-merge-PLEASE at ba7f9001e0dff14007d2b045d4ee51032893a31a: finished. gk-log://duration?t=57
+[2021-07-06T19:08:01.690Z] Delete ref refs/heads/ianx64-main at ab23d15f67bb6667552fd3a0436f0aca614c8d8a: started.
+[2021-07-06T19:08:01.757Z] Delete ref refs/heads/ianx64-main at ab23d15f67bb6667552fd3a0436f0aca614c8d8a: finished. gk-log://duration?t=67
+[2021-07-06T19:08:02.729Z] Push main: started.
+[2021-07-06T19:08:03.382Z] pre-push hook started.
+[2021-07-06T19:08:05.434Z] pre-push hook finished. gk-log://duration?t=2052 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625598483391.dfbc5f7e&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-06T19:08:07.748Z] Push main: finished. gk-log://duration?t=5019
+[2021-07-06T19:08:56.424Z] Reset (hard) refs/heads/main to c55f2832f47fa16cb13daad331ef96d555bc6d8e: started.
+[2021-07-06T19:08:56.592Z] Reset (hard) refs/heads/main to c55f2832f47fa16cb13daad331ef96d555bc6d8e: finished. gk-log://duration?t=168
+[2021-07-06T19:09:25.834Z] Merge ianx64/main into main: started.
+[2021-07-06T19:09:26.088Z] Merge ianx64/main into main: There are merge conflicts that need to be resolved
+[2021-07-06T19:09:26.089Z] Merge ianx64/main into main: finished with errors. gk-log://duration?t=255
+[2021-07-06T19:09:30.050Z] Opening VHS Hero/Assets/Scenes/main.unity in built-in merge tool: started.
+[2021-07-06T19:09:30.099Z] Opening VHS Hero/Assets/Scenes/main.unity in built-in merge tool: finished. gk-log://duration?t=49
+[2021-07-06T19:10:28.639Z] Save merged VHS Hero/Assets/Scenes/main.unity: started.
+[2021-07-06T19:10:28.695Z] Save merged VHS Hero/Assets/Scenes/main.unity: finished. gk-log://duration?t=55
+[2021-07-06T19:10:28.702Z] Stage VHS Hero/Assets/Scenes/main.unity for commit: started.
+[2021-07-06T19:10:29.088Z] Stage VHS Hero/Assets/Scenes/main.unity for commit: finished. gk-log://duration?t=386
+[2021-07-06T19:10:30.858Z] Opening VHS Hero/Assets/levels/Level7.prefab in built-in merge tool: started.
+[2021-07-06T19:10:30.880Z] Opening VHS Hero/Assets/levels/Level7.prefab in built-in merge tool: finished. gk-log://duration?t=22
+[2021-07-06T19:10:42.049Z] Save merged VHS Hero/Assets/levels/Level7.prefab: started.
+[2021-07-06T19:10:42.124Z] Save merged VHS Hero/Assets/levels/Level7.prefab: finished. gk-log://duration?t=75
+[2021-07-06T19:10:42.137Z] Stage VHS Hero/Assets/levels/Level7.prefab for commit: started.
+[2021-07-06T19:10:42.328Z] Stage VHS Hero/Assets/levels/Level7.prefab for commit: finished. gk-log://duration?t=191
+[2021-07-06T19:10:43.181Z] Opening VHS Hero/Assets/scripts/Gameplay/Managers/LevelManager.cs in built-in merge tool: started.
+[2021-07-06T19:10:43.198Z] Opening VHS Hero/Assets/scripts/Gameplay/Managers/LevelManager.cs in built-in merge tool: finished. gk-log://duration?t=17
+[2021-07-06T19:13:20.172Z] Save merged VHS Hero/Assets/scripts/Gameplay/Managers/LevelManager.cs: started.
+[2021-07-06T19:13:20.193Z] Save merged VHS Hero/Assets/scripts/Gameplay/Managers/LevelManager.cs: finished. gk-log://duration?t=20
+[2021-07-06T19:13:20.203Z] Stage VHS Hero/Assets/scripts/Gameplay/Managers/LevelManager.cs for commit: started.
+[2021-07-06T19:13:20.444Z] Stage VHS Hero/Assets/scripts/Gameplay/Managers/LevelManager.cs for commit: finished. gk-log://duration?t=241
+[2021-07-06T19:13:31.300Z] Finish merge ianx64/main into main: started.
+[2021-07-06T19:13:31.336Z] post-commit hook started.
+[2021-07-06T19:13:32.411Z] post-commit hook finished. gk-log://duration?t=1075 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625598811345.44ed2912&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-06T19:13:32.463Z] Finish merge ianx64/main into main: finished. gk-log://duration?t=1163
+[2021-07-06T19:13:35.054Z] Push main: started.
+[2021-07-06T19:13:35.464Z] pre-push hook started.
+[2021-07-06T19:13:37.588Z] pre-push hook finished. gk-log://duration?t=2124 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625598815472.a725cf2a&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-06T19:13:39.442Z] Pull main: started.
+[2021-07-06T19:13:39.451Z] Fetch remote origin: started
+[2021-07-06T19:13:39.867Z] Fetch remote origin: finished gk-log://duration?t=416
+[2021-07-06T19:13:40.114Z] Merge origin/main into main: started.
+[2021-07-06T19:13:40.386Z] Merge origin/main into main: There are merge conflicts that need to be resolved
+[2021-07-06T19:13:40.387Z] Merge origin/main into main: finished with errors. gk-log://duration?t=273
+[2021-07-06T19:13:40.389Z] Pull main: merge failed
+[2021-07-06T19:13:40.390Z] Pull main: finished with errors. gk-log://duration?t=948
+[2021-07-06T19:13:40.395Z] Push main: merge failed
+[2021-07-06T19:13:40.396Z] Push main: finished with errors. gk-log://duration?t=5342
+[2021-07-06T19:13:44.916Z] Opening VHS Hero/Assets/Scenes/main.unity in built-in merge tool: started.
+[2021-07-06T19:13:44.940Z] Opening VHS Hero/Assets/Scenes/main.unity in built-in merge tool: finished. gk-log://duration?t=24
+[2021-07-06T19:13:55.655Z] Save merged VHS Hero/Assets/Scenes/main.unity: started.
+[2021-07-06T19:13:55.683Z] Save merged VHS Hero/Assets/Scenes/main.unity: finished. gk-log://duration?t=28
+[2021-07-06T19:13:55.688Z] Stage VHS Hero/Assets/Scenes/main.unity for commit: started.
+[2021-07-06T19:13:55.949Z] Stage VHS Hero/Assets/Scenes/main.unity for commit: finished. gk-log://duration?t=261
+[2021-07-06T19:13:56.761Z] Opening VHS Hero/Assets/levels/Level7.prefab in built-in merge tool: started.
+[2021-07-06T19:13:56.787Z] Opening VHS Hero/Assets/levels/Level7.prefab in built-in merge tool: finished. gk-log://duration?t=26
+[2021-07-06T19:13:56.927Z] Stage VHS Hero/Assets/levels/Level7.prefab for commit: started.
+[2021-07-06T19:13:57.035Z] Stage VHS Hero/Assets/levels/Level7.prefab for commit: finished. gk-log://duration?t=108
+[2021-07-06T19:14:02.768Z] Finish merge origin/main into main: started.
+[2021-07-06T19:14:02.807Z] post-commit hook started.
+[2021-07-06T19:14:03.392Z] post-commit hook finished. gk-log://duration?t=585 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625598842816.2e53a109&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-06T19:14:03.429Z] Finish merge origin/main into main: finished. gk-log://duration?t=661
+[2021-07-06T19:14:20.706Z] Push main: started.
+[2021-07-06T19:14:21.112Z] pre-push hook started.
+[2021-07-06T19:14:23.388Z] pre-push hook finished. gk-log://duration?t=2276 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625598861116.688cb0d8&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-06T19:14:25.819Z] Push main: finished. gk-log://duration?t=5113
+[2021-07-06T19:24:37.481Z] Stage 16 files for commit: started.
+[2021-07-06T19:24:37.696Z] Stage 16 files for commit: finished. gk-log://duration?t=215
+[2021-07-06T19:24:43.134Z] Commit: started.
+[2021-07-06T19:24:43.230Z] post-commit hook started.
+[2021-07-06T19:24:45.215Z] post-commit hook finished. gk-log://duration?t=1985 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625599483237.c9c1836c&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-06T19:24:45.372Z] Commit: successfully created commit 234931dd44201f3dbd001f9d9dba4843a0eab8bc
+[2021-07-06T19:24:45.373Z] Commit: finished gk-log://duration?t=2239
+[2021-07-06T19:24:46.462Z] Push main: started.
+[2021-07-06T19:24:46.884Z] pre-push hook started.
+[2021-07-06T19:24:48.794Z] pre-push hook finished. gk-log://duration?t=1910 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625599486893.404be7ee&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-06T19:24:51.198Z] Push main: finished. gk-log://duration?t=4736
+[2021-07-06T19:29:08.104Z] Stage 2 files for commit: started.
+[2021-07-06T19:29:08.218Z] Stage 2 files for commit: finished. gk-log://duration?t=114
+[2021-07-06T19:29:12.476Z] Unstage VHS Hero/Assets/Scripts/Misc/FollowPlayer.cs: started.
+[2021-07-06T19:29:12.606Z] Unstage VHS Hero/Assets/Scripts/Misc/FollowPlayer.cs: finished. gk-log://duration?t=130
+[2021-07-06T19:29:12.945Z] Unstage VHS Hero/Assets/Scripts/Misc/FollowPlayer.cs.meta: started.
+[2021-07-06T19:29:13.071Z] Unstage VHS Hero/Assets/Scripts/Misc/FollowPlayer.cs.meta: finished. gk-log://duration?t=126
+[2021-07-06T19:29:16.987Z] Unstage 2 files: started.
+[2021-07-06T19:29:17.019Z] Unstage 2 files: finished. gk-log://duration?t=32
+[2021-07-06T19:29:17.051Z] Reset all files: started.
+[2021-07-06T19:29:17.295Z] Reset all files: finished. gk-log://duration?t=244
+[2021-07-06T19:29:17.364Z] Reset all submodules: started.
+[2021-07-06T19:29:17.381Z] Reset all submodules: finished. gk-log://duration?t=17
+[2021-07-06T19:38:20.057Z] Stage 12 files for commit: started.
+[2021-07-06T19:38:20.186Z] Stage 12 files for commit: finished. gk-log://duration?t=129
+[2021-07-06T19:38:21.114Z] Commit: started.
+[2021-07-06T19:38:21.215Z] post-commit hook started.
+[2021-07-06T19:38:22.792Z] post-commit hook finished. gk-log://duration?t=1577 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625600301223.1d25aac4&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-06T19:38:22.989Z] Commit: successfully created commit 7dcf179af30423733f68e788ab4b3fdd272f6a28
+[2021-07-06T19:38:22.990Z] Commit: finished gk-log://duration?t=1876
+[2021-07-06T19:38:46.737Z] Stage 2 files for commit: started.
+[2021-07-06T19:38:46.813Z] Stage 2 files for commit: finished. gk-log://duration?t=76
+[2021-07-06T19:38:47.833Z] Commit: started.
+[2021-07-06T19:38:47.913Z] post-commit hook started.
+[2021-07-06T19:38:48.770Z] post-commit hook finished. gk-log://duration?t=857 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625600327919.0be24c87&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-06T19:38:48.927Z] Commit: successfully created commit 78d2c6f46e8646a000df3709f1e7284d09129db1
+[2021-07-06T19:38:48.929Z] Commit: finished gk-log://duration?t=1096
+[2021-07-06T19:38:50.315Z] Push main: started.
+[2021-07-06T19:38:50.691Z] pre-push hook started.
+[2021-07-06T19:38:52.624Z] pre-push hook finished. gk-log://duration?t=1933 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625600330698.1463786e&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-06T19:38:54.942Z] Push main: finished. gk-log://duration?t=4627
+[2021-07-06T19:40:59.271Z] Push main: started.
+[2021-07-06T19:40:59.731Z] pre-push hook started.
+[2021-07-06T19:41:03.345Z] pre-push hook finished. gk-log://duration?t=3614 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625600459739.61080094&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-06T19:41:06.148Z] Push main: finished. gk-log://duration?t=6877
+[2021-07-06T22:21:27.682Z] Stage VHS Hero/Assets/levels/Level5.prefab for commit: started.
+[2021-07-06T22:21:27.761Z] Stage VHS Hero/Assets/levels/Level5.prefab for commit: finished. gk-log://duration?t=79
+[2021-07-06T22:21:28.631Z] Commit: started.
+[2021-07-06T22:21:28.738Z] post-commit hook started.
+[2021-07-06T22:21:31.512Z] post-commit hook finished. gk-log://duration?t=2774 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625610088745.774bef11&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-06T22:21:31.685Z] Commit: successfully created commit 15e7eb0b7ec0f7c4fa4f6a35c1e87d51356f1294
+[2021-07-06T22:21:31.687Z] Commit: finished gk-log://duration?t=3055
+[2021-07-06T22:21:34.671Z] Push main: started.
+[2021-07-06T22:21:35.109Z] pre-push hook started.
+[2021-07-06T22:21:37.263Z] pre-push hook finished. gk-log://duration?t=2154 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625610095118.b3307576&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-06T22:21:39.435Z] Push main: finished. gk-log://duration?t=4764
+[2021-07-07T13:57:21.839Z] Fetch remote ianx64: error sending data: Broken pipe
+[2021-07-07T13:57:22.152Z] Fetch remote origin: error sending data: Broken pipe
+[2021-07-07T14:14:02.237Z] Stage 27 files for commit: started.
+[2021-07-07T14:14:03.216Z] Stage 27 files for commit: finished. gk-log://duration?t=979
+[2021-07-07T14:14:27.525Z] Commit: started.
+[2021-07-07T14:14:27.628Z] post-commit hook started.
+[2021-07-07T14:14:29.977Z] post-commit hook finished. gk-log://duration?t=2349 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625667267671.6d8891cb&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-07T14:14:30.606Z] Commit: successfully created commit 681be3188f3d87e782dcff568e25266c0ec50579
+[2021-07-07T14:14:30.609Z] Commit: finished gk-log://duration?t=3084
+[2021-07-07T14:14:35.741Z] Push main: started.
+[2021-07-07T14:14:36.159Z] pre-push hook started.
+[2021-07-07T14:14:38.112Z] pre-push hook finished. gk-log://duration?t=1953 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625667276169.96f01e79&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-07T14:14:43.512Z] Push main: finished. gk-log://duration?t=7771
+[2021-07-07T18:15:53.209Z] Stage 418 files for commit: started.
+[2021-07-07T18:15:54.394Z] Stage 418 files for commit: finished. gk-log://duration?t=1185
+[2021-07-07T18:16:03.979Z] Commit: started.
+[2021-07-07T18:16:04.125Z] post-commit hook started.
+[2021-07-07T18:16:06.381Z] post-commit hook finished. gk-log://duration?t=2256 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625681764129.09e074a2&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-07T18:16:06.716Z] Commit: successfully created commit 06de2e32999aec1ba1c3bbb4166df4032665683b
+[2021-07-07T18:16:06.718Z] Commit: finished gk-log://duration?t=2739
+[2021-07-07T18:16:09.703Z] Push main: started.
+[2021-07-07T18:16:10.107Z] pre-push hook started.
+[2021-07-07T18:16:12.438Z] pre-push hook finished. gk-log://duration?t=2331 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625681770120.636821c0&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-07T18:16:17.472Z] Push main: finished. gk-log://duration?t=7769
+[2021-07-07T18:26:52.061Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T18:26:52.287Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T18:50:51.639Z] Stage 25 files for commit: started.
+[2021-07-07T18:50:52.030Z] Stage 25 files for commit: finished. gk-log://duration?t=391
+[2021-07-07T18:50:52.873Z] Commit: started.
+[2021-07-07T18:50:53.029Z] post-commit hook started.
+[2021-07-07T18:50:54.798Z] post-commit hook finished. gk-log://duration?t=1769 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625683853033.53b2290c&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-07T18:50:55.118Z] Commit: successfully created commit 2a5af8f299f823cfc56b4b1b26322616705718e0
+[2021-07-07T18:50:55.121Z] Commit: finished gk-log://duration?t=2248
+[2021-07-07T18:50:56.013Z] Push main: started.
+[2021-07-07T18:50:56.411Z] pre-push hook started.
+[2021-07-07T18:50:59.472Z] pre-push hook finished. gk-log://duration?t=3061 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625683856419.18da21b7&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-07T18:51:04.290Z] Push main: finished. gk-log://duration?t=8277
+[2021-07-07T20:20:21.809Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:20:21.871Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:21:21.489Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:21:21.506Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:22:21.478Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:22:21.502Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:23:21.480Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:23:21.504Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:24:21.609Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:24:21.672Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:25:21.491Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:25:21.497Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:26:21.554Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:26:21.560Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:27:10.222Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:27:10.234Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:28:09.831Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:28:09.850Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:28:51.485Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:28:51.490Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:29:51.589Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:29:51.601Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:30:51.472Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:30:51.479Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:31:51.617Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:31:51.629Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:32:51.488Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:32:51.509Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:34:21.461Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:34:21.497Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:35:21.548Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:35:21.559Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:36:21.480Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:36:21.486Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:37:21.454Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:37:21.479Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:38:21.482Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:38:21.506Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:38:51.485Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:38:51.489Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:39:51.484Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:39:51.489Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:40:51.501Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:40:51.520Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:41:51.476Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:41:51.499Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:42:51.756Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:42:51.820Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:43:51.796Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:43:51.834Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:44:52.123Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:44:52.136Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:45:51.450Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:45:51.461Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:46:51.613Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:46:51.622Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:47:51.492Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:47:51.495Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:48:51.472Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:48:51.481Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:49:51.553Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:49:51.577Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:50:51.781Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:50:51.790Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:51:51.533Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:51:51.543Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:56:36.414Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:56:36.454Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:57:35.636Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-07T20:57:35.644Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-08T00:22:11.001Z] Stage 8 files for commit: started.
+[2021-07-08T00:22:11.479Z] Stage 8 files for commit: finished. gk-log://duration?t=478
+[2021-07-08T00:22:12.421Z] Commit: started.
+[2021-07-08T00:22:12.658Z] post-commit hook started.
+[2021-07-08T00:22:16.306Z] post-commit hook finished. gk-log://duration?t=3648 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625703732666.9b3adb9f&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-08T00:22:16.769Z] Commit: successfully created commit 43de0bbd1e5945d34389369d105dbb809c8a5396
+[2021-07-08T00:22:16.771Z] Commit: finished gk-log://duration?t=4350
+[2021-07-08T00:22:17.939Z] Push main: started.
+[2021-07-08T00:22:18.335Z] pre-push hook started.
+[2021-07-08T00:22:20.278Z] pre-push hook finished. gk-log://duration?t=1943 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625703738339.6ebb3212&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-08T00:22:22.740Z] Push main: finished. gk-log://duration?t=4801
+[2021-07-08T00:46:34.336Z] Stage 9 files for commit: started.
+[2021-07-08T00:46:34.551Z] Stage 9 files for commit: finished. gk-log://duration?t=215
+[2021-07-08T00:47:02.841Z] Commit: started.
+[2021-07-08T00:47:03.004Z] post-commit hook started.
+[2021-07-08T00:47:04.406Z] post-commit hook finished. gk-log://duration?t=1402 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625705223054.f8e18f81&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-08T00:47:04.715Z] Commit: successfully created commit 30103a0f3b4dc90c941c81641459a471b933e974
+[2021-07-08T00:47:04.717Z] Commit: finished gk-log://duration?t=1876
+[2021-07-08T00:47:06.800Z] Push main: started.
+[2021-07-08T00:47:07.218Z] pre-push hook started.
+[2021-07-08T00:47:09.221Z] pre-push hook finished. gk-log://duration?t=2003 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625705227241.0b929b74&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-08T00:47:11.484Z] Push main: finished. gk-log://duration?t=4684
+[2021-07-08T02:05:15.806Z] Stage VHS Hero/Assets/scripts/Gameplay/Player/PlayerMovement.cs for commit: started.
+[2021-07-08T02:05:15.902Z] Stage VHS Hero/Assets/scripts/Gameplay/Player/PlayerMovement.cs for commit: finished. gk-log://duration?t=96
+[2021-07-08T02:05:17.333Z] Commit: started.
+[2021-07-08T02:05:17.450Z] post-commit hook started.
+[2021-07-08T02:05:19.013Z] post-commit hook finished. gk-log://duration?t=1563 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625709917455.4388f4d1&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-08T02:05:19.160Z] Commit: successfully created commit 8f0e987a8a565f358664af60d1269bc9feb1f348
+[2021-07-08T02:05:19.161Z] Commit: finished gk-log://duration?t=1828
+[2021-07-09T01:58:22.036Z] Stage 33 files for commit: started.
+[2021-07-09T01:58:22.660Z] Stage 33 files for commit: finished. gk-log://duration?t=624
+[2021-07-09T01:59:49.952Z] Commit: started.
+[2021-07-09T01:59:50.137Z] post-commit hook started.
+[2021-07-09T01:59:51.581Z] post-commit hook finished. gk-log://duration?t=1444 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625795990191.33223e79&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-09T01:59:51.818Z] Commit: successfully created commit f9f46737223ffee0692e9ed8da24427107551f8f
+[2021-07-09T01:59:51.820Z] Commit: finished gk-log://duration?t=1868
+[2021-07-09T02:00:48.748Z] Stage VHS Hero/Assets/Scenes/main.unity for commit: started.
+[2021-07-09T02:00:48.898Z] Stage VHS Hero/Assets/Scenes/main.unity for commit: finished. gk-log://duration?t=150
+[2021-07-09T02:00:49.552Z] Commit: started.
+[2021-07-09T02:00:49.682Z] post-commit hook started.
+[2021-07-09T02:00:50.840Z] post-commit hook finished. gk-log://duration?t=1158 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625796049689.c388cb2f&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-09T02:00:51.100Z] Commit: successfully created commit c75c7fb5d4969947f18aa8474644f157ae275c51
+[2021-07-09T02:00:51.101Z] Commit: finished gk-log://duration?t=1549
+[2021-07-09T02:00:53.153Z] Push main: started.
+[2021-07-09T02:00:53.574Z] pre-push hook started.
+[2021-07-09T02:00:55.673Z] pre-push hook finished. gk-log://duration?t=2099 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625796053583.eb56b74e&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-09T02:00:58.212Z] Push main: finished. gk-log://duration?t=5059
+[2021-07-09T05:20:56.137Z] Stage 22 files for commit: started.
+[2021-07-09T05:20:56.572Z] Stage 22 files for commit: finished. gk-log://duration?t=435
+[2021-07-09T05:21:06.616Z] Commit: started.
+[2021-07-09T05:21:06.775Z] post-commit hook started.
+[2021-07-09T05:21:07.359Z] post-commit hook finished. gk-log://duration?t=584 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625808066799.ce2e5846&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-09T05:21:07.577Z] Commit: successfully created commit 20fc93ee420827aedbd846b619b6b9d35788853a
+[2021-07-09T05:21:07.579Z] Commit: finished gk-log://duration?t=963
+[2021-07-09T05:21:09.903Z] Push main: started.
+[2021-07-09T05:21:10.269Z] pre-push hook started.
+[2021-07-09T05:21:12.383Z] pre-push hook finished. gk-log://duration?t=2114 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625808070277.964cacf2&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-09T05:21:14.884Z] Push main: finished. gk-log://duration?t=4981
+[2021-07-09T16:25:13.000Z] Opening VHS Hero/Assets/levels/Level8.prefab in built-in merge tool: started.
+[2021-07-09T16:25:13.058Z] Opening VHS Hero/Assets/levels/Level8.prefab in built-in merge tool: finished. gk-log://duration?t=58
+[2021-07-09T16:25:28.983Z] Opening VHS Hero/Assets/Scenes/main.unity in built-in merge tool: started.
+[2021-07-09T16:25:29.033Z] Opening VHS Hero/Assets/Scenes/main.unity in built-in merge tool: finished. gk-log://duration?t=50
+[2021-07-09T16:26:21.164Z] Checkout refs/heads/main: started.
+[2021-07-09T16:26:21.277Z] post-checkout hook started.
+[2021-07-09T16:26:21.785Z] post-checkout hook finished. gk-log://duration?t=508 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-checkout%2F1625847981312.ffe49d06&linktext=View%20hook%20log&loglabel=Hook%3A%20post-checkout
+[2021-07-09T16:26:22.084Z] Checkout refs/heads/main: finished. gk-log://duration?t=920
+[2021-07-09T16:26:41.132Z] Delete ref refs/heads/ianx64-main at 20fc93ee420827aedbd846b619b6b9d35788853a: started.
+[2021-07-09T16:26:41.192Z] Delete ref refs/heads/ianx64-main at 20fc93ee420827aedbd846b619b6b9d35788853a: finished. gk-log://duration?t=60
+[2021-07-09T16:27:17.886Z] Opening VHS Hero/Assets/levels/Level8.prefab in built-in merge tool: started.
+[2021-07-09T16:27:17.939Z] Opening VHS Hero/Assets/levels/Level8.prefab in built-in merge tool: finished. gk-log://duration?t=53
+[2021-07-09T16:27:31.621Z] Opening VHS Hero/Assets/Scenes/main.unity in built-in merge tool: started.
+[2021-07-09T16:27:31.665Z] Opening VHS Hero/Assets/Scenes/main.unity in built-in merge tool: finished. gk-log://duration?t=43
+[2021-07-09T16:28:06.716Z] Opening VHS Hero/Assets/Scenes/main.unity in built-in merge tool: started.
+[2021-07-09T16:28:06.737Z] Opening VHS Hero/Assets/Scenes/main.unity in built-in merge tool: finished. gk-log://duration?t=21
+[2021-07-09T16:28:55.643Z] Ignore VHS Hero/Assets/Scenes/main.unity: started.
+[2021-07-09T16:28:57.883Z] Ignore VHS Hero/Assets/Scenes/main.unity: finished. gk-log://duration?t=2239
+[2021-07-09T16:29:01.857Z] Opening VHS Hero/Assets/levels/Level8.prefab in built-in merge tool: started.
+[2021-07-09T16:29:01.891Z] Opening VHS Hero/Assets/levels/Level8.prefab in built-in merge tool: finished. gk-log://duration?t=34
+[2021-07-09T16:29:39.043Z] Save merged VHS Hero/Assets/levels/Level8.prefab: started.
+[2021-07-09T16:29:39.088Z] Save merged VHS Hero/Assets/levels/Level8.prefab: finished. gk-log://duration?t=45
+[2021-07-09T16:29:39.101Z] Stage VHS Hero/Assets/levels/Level8.prefab for commit: started.
+[2021-07-09T16:29:39.422Z] Stage VHS Hero/Assets/levels/Level8.prefab for commit: finished. gk-log://duration?t=321
+[2021-07-09T16:30:20.084Z] Opening VHS Hero/Assets/Scenes/main.unity in built-in merge tool: started.
+[2021-07-09T16:30:20.117Z] Opening VHS Hero/Assets/Scenes/main.unity in built-in merge tool: finished. gk-log://duration?t=33
+[2021-07-09T16:30:37.246Z] Opening VHS Hero/Assets/Scenes/main.unity in built-in merge tool: started.
+[2021-07-09T16:30:37.277Z] Opening VHS Hero/Assets/Scenes/main.unity in built-in merge tool: finished. gk-log://duration?t=31
+[2021-07-09T16:30:54.476Z] Opening VHS Hero/Assets/Scenes/main.unity in built-in merge tool: started.
+[2021-07-09T16:30:54.560Z] Opening VHS Hero/Assets/Scenes/main.unity in built-in merge tool: finished. gk-log://duration?t=84
+[2021-07-09T16:31:33.269Z] Open VHS Hero/Assets/Scenes/main.unity in merge tool: started.
+[2021-07-09T16:31:36.955Z] Open VHS Hero/Assets/Scenes/main.unity in merge tool: The "file" argument must be of type string. Received undefined
+[2021-07-09T16:31:36.957Z] Open VHS Hero/Assets/Scenes/main.unity in merge tool: finished with errors. gk-log://duration?t=3688
+[2021-07-09T16:31:47.865Z] Stage VHS Hero/Assets/Scenes/main.unity for commit: started.
+[2021-07-09T16:31:48.347Z] Stage VHS Hero/Assets/Scenes/main.unity for commit: finished. gk-log://duration?t=482
+[2021-07-09T16:31:57.884Z] Unstage VHS Hero/Assets/Scenes/main.unity: started.
+[2021-07-09T16:31:57.982Z] Unstage VHS Hero/Assets/Scenes/main.unity: finished. gk-log://duration?t=98
+[2021-07-09T16:32:46.715Z] Finish merge main into ianx64-main: started.
+[2021-07-09T16:32:46.757Z] post-commit hook started.
+[2021-07-09T16:32:47.274Z] post-commit hook finished. gk-log://duration?t=517 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625848366785.ef7f13b7&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-09T16:32:47.354Z] Finish merge main into ianx64-main: finished. gk-log://duration?t=639
+[2021-07-09T16:32:52.487Z] Push ianx64-main: started.
+[2021-07-09T16:32:58.826Z] Push ianx64-main: cancelled. gk-log://duration?t=6339
+[2021-07-09T16:33:03.817Z] Checkout refs/heads/main: started.
+[2021-07-09T16:33:03.931Z] post-checkout hook started.
+[2021-07-09T16:33:04.402Z] post-checkout hook finished. gk-log://duration?t=471 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-checkout%2F1625848383938.04726a65&linktext=View%20hook%20log&loglabel=Hook%3A%20post-checkout
+[2021-07-09T16:33:04.720Z] Checkout refs/heads/main: finished. gk-log://duration?t=903
+[2021-07-09T16:34:47.962Z] Checkout 20fc93ee420827aedbd846b619b6b9d35788853a: started.
+[2021-07-09T16:34:48.063Z] Auto-stash uncommitted changes: started.
+[2021-07-09T16:34:48.075Z] Stage 3 files for stash: started.
+[2021-07-09T16:34:48.427Z] Stage 3 files for stash: finished. gk-log://duration?t=352
+[2021-07-09T16:34:48.719Z] Auto-stash uncommitted changes: finished. Stash sha: 80b5c34215c916f1e7c53b1d8e116f32c1d4c4ad gk-log://duration?t=656
+[2021-07-09T16:34:48.769Z] post-checkout hook started.
+[2021-07-09T16:34:49.603Z] post-checkout hook finished. gk-log://duration?t=834 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-checkout%2F1625848488774.ba8e6bef&linktext=View%20hook%20log&loglabel=Hook%3A%20post-checkout
+[2021-07-09T16:34:49.812Z] Checkout 20fc93ee420827aedbd846b619b6b9d35788853a: finished. gk-log://duration?t=1850
+[2021-07-09T16:35:11.960Z] Checkout refs/heads/ianx64-main: started.
+[2021-07-09T16:35:12.066Z] post-checkout hook started.
+[2021-07-09T16:35:12.747Z] post-checkout hook finished. gk-log://duration?t=681 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-checkout%2F1625848512074.0f224cb8&linktext=View%20hook%20log&loglabel=Hook%3A%20post-checkout
+[2021-07-09T16:35:12.917Z] Checkout refs/heads/ianx64-main: finished. gk-log://duration?t=956
+[2021-07-09T16:36:21.445Z] Checkout refs/heads/main: started.
+[2021-07-09T16:36:21.566Z] post-checkout hook started.
+[2021-07-09T16:36:22.453Z] post-checkout hook finished. gk-log://duration?t=887 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-checkout%2F1625848581573.7889ea6e&linktext=View%20hook%20log&loglabel=Hook%3A%20post-checkout
+[2021-07-09T16:36:22.694Z] Checkout refs/heads/main: finished. gk-log://duration?t=1249
+[2021-07-09T16:36:28.696Z] Revert 19a33cfe46e937b9cafa497702b5b30e2e3ca30b onto refs/heads/main: started.
+[2021-07-09T16:36:28.725Z] Auto-stash uncommitted changes: started.
+[2021-07-09T16:36:28.742Z] Stage VHS Hero/Assets/Project/External/Graphy - Ultimate Stats Monitor/Graphy_CustomizationScene.unitypackage.meta for stash: started.
+[2021-07-09T16:36:28.794Z] Stage VHS Hero/Assets/Project/External/Graphy - Ultimate Stats Monitor/Graphy_CustomizationScene.unitypackage.meta for stash: finished. gk-log://duration?t=52
+[2021-07-09T16:36:28.967Z] Auto-stash uncommitted changes: finished. Stash sha: e7b1ca43098209be70c5c746d17e774847861ca6 gk-log://duration?t=242
+[2021-07-09T16:36:29.093Z] post-commit hook started.
+[2021-07-09T16:36:29.675Z] post-commit hook finished. gk-log://duration?t=582 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625848589097.34429d0e&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-09T16:36:29.731Z] Pop most recent stash: started.
+[2021-07-09T16:36:29.798Z] Pop stash e7b1ca43098209be70c5c746d17e774847861ca6: finished with merge conflicts. Stash was not dropped. gk-log://duration?t=67
+[2021-07-09T16:36:29.898Z] Revert 19a33cfe46e937b9cafa497702b5b30e2e3ca30b onto refs/heads/main: finished. gk-log://duration?t=1201
+[2021-07-09T16:36:48.303Z] Ignore VHS Hero/Assets/Project/External/Graphy - Ultimate Stats Monitor/Graphy_CustomizationScene.unitypackage.meta: started.
+[2021-07-09T16:36:50.614Z] Ignore VHS Hero/Assets/Project/External/Graphy - Ultimate Stats Monitor/Graphy_CustomizationScene.unitypackage.meta: finished. gk-log://duration?t=2311
+[2021-07-09T16:36:53.559Z] Stage VHS Hero/Assets/Sprites/Collectable.meta for commit: started.
+[2021-07-09T16:36:53.657Z] Stage VHS Hero/Assets/Sprites/Collectable.meta for commit: finished. gk-log://duration?t=98
+[2021-07-09T16:36:53.890Z] Opening VHS Hero/Assets/Project/External/Graphy - Ultimate Stats Monitor/Graphy_CustomizationScene.unitypackage.meta in built-in merge tool: started.
+[2021-07-09T16:36:53.904Z] Opening VHS Hero/Assets/Project/External/Graphy - Ultimate Stats Monitor/Graphy_CustomizationScene.unitypackage.meta in built-in merge tool: finished. gk-log://duration?t=14
+[2021-07-09T16:36:54.166Z] Stage VHS Hero/Assets/Project/External/Graphy - Ultimate Stats Monitor/Graphy_CustomizationScene.unitypackage.meta for commit: started.
+[2021-07-09T16:36:54.251Z] Stage VHS Hero/Assets/Project/External/Graphy - Ultimate Stats Monitor/Graphy_CustomizationScene.unitypackage.meta for commit: finished. gk-log://duration?t=85
+[2021-07-09T16:37:00.875Z] Stage 3 files for commit: started.
+[2021-07-09T16:37:00.966Z] Stage 3 files for commit: finished. gk-log://duration?t=91
+[2021-07-09T16:37:01.812Z] Commit: started.
+[2021-07-09T16:37:01.888Z] post-commit hook started.
+[2021-07-09T16:37:02.679Z] post-commit hook finished. gk-log://duration?t=791 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625848621893.db048262&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-09T16:37:02.841Z] Commit: successfully created commit bae0aed69b56231c2ed32c0ac242f70eb1416888
+[2021-07-09T16:37:02.843Z] Commit: finished gk-log://duration?t=1031
+[2021-07-09T16:37:33.975Z] Checkout refs/heads/ianx64-main: started.
+[2021-07-09T16:37:34.064Z] post-checkout hook started.
+[2021-07-09T16:37:34.875Z] post-checkout hook finished. gk-log://duration?t=810 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-checkout%2F1625848654070.664aa6b7&linktext=View%20hook%20log&loglabel=Hook%3A%20post-checkout
+[2021-07-09T16:37:35.077Z] Checkout refs/heads/ianx64-main: finished. gk-log://duration?t=1102
+[2021-07-09T16:37:42.325Z] Checkout refs/heads/main: started.
+[2021-07-09T16:37:42.422Z] post-checkout hook started.
+[2021-07-09T16:37:43.045Z] post-checkout hook finished. gk-log://duration?t=623 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-checkout%2F1625848662426.3c6f4dae&linktext=View%20hook%20log&loglabel=Hook%3A%20post-checkout
+[2021-07-09T16:37:43.316Z] Checkout refs/heads/main: finished. gk-log://duration?t=991
+[2021-07-09T16:37:50.314Z] Merge main into ianx64-main: started.
+[2021-07-09T16:37:50.371Z] post-merge hook started.
+[2021-07-09T16:37:50.993Z] post-merge hook finished. gk-log://duration?t=622 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-merge%2F1625848670375.a4f17e63&linktext=View%20hook%20log&loglabel=Hook%3A%20post-merge
+[2021-07-09T16:37:51.008Z] Merge main into ianx64-main: finished. gk-log://duration?t=694
+[2021-07-09T16:37:58.600Z] Stage 2 files for commit: started.
+[2021-07-09T16:37:58.700Z] Stage 2 files for commit: finished. gk-log://duration?t=100
+[2021-07-09T16:38:02.607Z] Commit: started.
+[2021-07-09T16:38:02.676Z] post-commit hook started.
+[2021-07-09T16:38:03.350Z] post-commit hook finished. gk-log://duration?t=674 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625848682682.19cab3a7&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-09T16:38:03.579Z] Commit: successfully created commit 47d547f05ca023d989b6e7f09aa3751e6a803a14
+[2021-07-09T16:38:03.581Z] Commit: finished gk-log://duration?t=973
+[2021-07-09T16:38:42.541Z] Checkout refs/heads/ianx64-main: started.
+[2021-07-09T16:38:42.643Z] post-checkout hook started.
+[2021-07-09T16:38:43.445Z] post-checkout hook finished. gk-log://duration?t=802 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-checkout%2F1625848722650.0a07f916&linktext=View%20hook%20log&loglabel=Hook%3A%20post-checkout
+[2021-07-09T16:38:43.627Z] Checkout refs/heads/ianx64-main: finished. gk-log://duration?t=1086
+[2021-07-09T16:39:12.476Z] Checkout refs/heads/main: started.
+[2021-07-09T16:39:12.578Z] Checkout refs/heads/main: finished. gk-log://duration?t=102
+[2021-07-09T16:39:18.779Z] Stage 2 files for commit: started.
+[2021-07-09T16:39:18.842Z] Stage 2 files for commit: finished. gk-log://duration?t=63
+[2021-07-09T16:39:19.745Z] Commit: started.
+[2021-07-09T16:39:19.856Z] post-commit hook started.
+[2021-07-09T16:39:20.663Z] post-commit hook finished. gk-log://duration?t=807 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625848759860.cdbb80b5&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-09T16:39:20.842Z] Commit: successfully created commit dd028bfb789549128c148fd4f025aeeed52fea43
+[2021-07-09T16:39:20.844Z] Commit: finished gk-log://duration?t=1098
+[2021-07-09T16:39:22.937Z] Checkout refs/heads/main: started.
+[2021-07-09T16:39:23.005Z] post-checkout hook started.
+[2021-07-09T16:39:23.630Z] post-checkout hook finished. gk-log://duration?t=625 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-checkout%2F1625848763008.c95adabc&linktext=View%20hook%20log&loglabel=Hook%3A%20post-checkout
+[2021-07-09T16:39:23.894Z] Checkout refs/heads/main: finished. gk-log://duration?t=957
+[2021-07-09T16:39:27.598Z] Delete ref refs/heads/ianx64-main at dd028bfb789549128c148fd4f025aeeed52fea43: started.
+[2021-07-09T16:39:27.664Z] Delete ref refs/heads/ianx64-main at dd028bfb789549128c148fd4f025aeeed52fea43: finished. gk-log://duration?t=66
+[2021-07-09T16:39:41.305Z] Checkout refs/remotes/ianx64/main: started.
+[2021-07-09T16:39:46.961Z] Create ref refs/heads/ianx64-main at 2cbbea67b17272747710d1d02b38164179cdc31f: started.
+[2021-07-09T16:39:47.054Z] Create ref refs/heads/ianx64-main at 2cbbea67b17272747710d1d02b38164179cdc31f: finished. gk-log://duration?t=93
+[2021-07-09T16:39:47.154Z] post-checkout hook started.
+[2021-07-09T16:39:48.003Z] post-checkout hook finished. gk-log://duration?t=849 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-checkout%2F1625848787160.84cac0ee&linktext=View%20hook%20log&loglabel=Hook%3A%20post-checkout
+[2021-07-09T16:39:48.207Z] Checkout refs/remotes/ianx64/main: finished. gk-log://duration?t=6902
+[2021-07-09T16:45:33.718Z] Checkout refs/heads/main: started.
+[2021-07-09T16:45:33.832Z] Checkout refs/heads/main: finished. gk-log://duration?t=114
+[2021-07-09T16:45:38.870Z] Stage VHS Hero/Assets/Project/External/Graphy - Ultimate Stats Monitor/Graphy_CustomizationScene.unitypackage.meta for commit: started.
+[2021-07-09T16:45:38.954Z] Stage VHS Hero/Assets/Project/External/Graphy - Ultimate Stats Monitor/Graphy_CustomizationScene.unitypackage.meta for commit: finished. gk-log://duration?t=84
+[2021-07-09T16:45:39.660Z] Commit: started.
+[2021-07-09T16:45:39.740Z] post-commit hook started.
+[2021-07-09T16:45:40.611Z] post-commit hook finished. gk-log://duration?t=871 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625849139745.97ee7bee&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-09T16:45:40.788Z] Commit: successfully created commit 8de6573a10a4a2d14a9fe79a0c02f575d2394e1f
+[2021-07-09T16:45:40.790Z] Commit: finished gk-log://duration?t=1130
+[2021-07-09T16:45:42.640Z] Checkout refs/heads/main: started.
+[2021-07-09T16:45:42.726Z] post-checkout hook started.
+[2021-07-09T16:45:43.315Z] post-checkout hook finished. gk-log://duration?t=589 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-checkout%2F1625849142730.d9c818c2&linktext=View%20hook%20log&loglabel=Hook%3A%20post-checkout
+[2021-07-09T16:45:43.611Z] Checkout refs/heads/main: finished. gk-log://duration?t=971
+[2021-07-09T16:45:47.688Z] Delete ref refs/heads/ianx64-main at 8de6573a10a4a2d14a9fe79a0c02f575d2394e1f: started.
+[2021-07-09T16:45:47.746Z] Delete ref refs/heads/ianx64-main at 8de6573a10a4a2d14a9fe79a0c02f575d2394e1f: finished. gk-log://duration?t=58
+[2021-07-09T16:57:21.207Z] Stage VHS Hero/Assets/Scenes/main.unity for commit: started.
+[2021-07-09T16:57:21.429Z] Stage VHS Hero/Assets/Scenes/main.unity for commit: finished. gk-log://duration?t=222
+[2021-07-09T16:57:22.166Z] Commit: started.
+[2021-07-09T16:57:22.245Z] post-commit hook started.
+[2021-07-09T16:57:23.331Z] post-commit hook finished. gk-log://duration?t=1086 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625849842249.ce6d4ba4&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-09T16:57:23.477Z] Commit: successfully created commit 10efb41ed68ef653fac0ae13180ae6cbbe2c4fbd
+[2021-07-09T16:57:23.479Z] Commit: finished gk-log://duration?t=1313
+[2021-07-09T16:57:25.856Z] Push main: started.
+[2021-07-09T16:57:26.261Z] pre-push hook started.
+[2021-07-09T16:57:28.231Z] pre-push hook finished. gk-log://duration?t=1970 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625849846267.395a2b3a&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-09T16:57:30.733Z] Push main: finished. gk-log://duration?t=4877
+[2021-07-09T18:42:22.381Z] Stage 8 files for commit: started.
+[2021-07-09T18:42:22.630Z] Stage 8 files for commit: finished. gk-log://duration?t=249
+[2021-07-09T18:42:23.646Z] Commit: started.
+[2021-07-09T18:42:23.730Z] post-commit hook started.
+[2021-07-09T18:42:24.547Z] post-commit hook finished. gk-log://duration?t=817 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625856143760.6aa81eb7&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-09T18:42:24.756Z] Commit: successfully created commit ee86b45b108ce6428b67632c0484700066cb8006
+[2021-07-09T18:42:24.758Z] Commit: finished gk-log://duration?t=1112
+[2021-07-09T18:42:26.279Z] Push main: started.
+[2021-07-09T18:42:26.635Z] pre-push hook started.
+[2021-07-09T18:42:28.781Z] pre-push hook finished. gk-log://duration?t=2146 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625856146643.e883db94&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-09T18:42:31.277Z] Push main: finished. gk-log://duration?t=4998
+[2021-07-09T20:11:06.383Z] Opening VHS Hero/Assets/levels/Level8.prefab in built-in merge tool: started.
+[2021-07-09T20:11:06.476Z] Opening VHS Hero/Assets/levels/Level8.prefab in built-in merge tool: finished. gk-log://duration?t=93
+[2021-07-09T20:11:21.892Z] Opening VHS Hero/Assets/scripts/Gameplay/Player/PlayerMovement.cs in built-in merge tool: started.
+[2021-07-09T20:11:21.937Z] Opening VHS Hero/Assets/scripts/Gameplay/Player/PlayerMovement.cs in built-in merge tool: finished. gk-log://duration?t=44
+[2021-07-09T20:11:35.967Z] Save merged VHS Hero/Assets/scripts/Gameplay/Player/PlayerMovement.cs: started.
+[2021-07-09T20:11:36.047Z] Save merged VHS Hero/Assets/scripts/Gameplay/Player/PlayerMovement.cs: finished. gk-log://duration?t=79
+[2021-07-09T20:11:36.050Z] Stage VHS Hero/Assets/scripts/Gameplay/Player/PlayerMovement.cs for commit: started.
+[2021-07-09T20:11:36.219Z] Stage VHS Hero/Assets/scripts/Gameplay/Player/PlayerMovement.cs for commit: finished. gk-log://duration?t=169
+[2021-07-09T20:11:38.005Z] Opening VHS Hero/Assets/scripts/Gameplay/Player/ClimbCheck.cs in built-in merge tool: started.
+[2021-07-09T20:11:38.035Z] Opening VHS Hero/Assets/scripts/Gameplay/Player/ClimbCheck.cs in built-in merge tool: finished. gk-log://duration?t=30
+[2021-07-09T20:13:07.586Z] Save merged VHS Hero/Assets/scripts/Gameplay/Player/ClimbCheck.cs: started.
+[2021-07-09T20:13:07.621Z] Save merged VHS Hero/Assets/scripts/Gameplay/Player/ClimbCheck.cs: finished. gk-log://duration?t=35
+[2021-07-09T20:13:07.633Z] Stage VHS Hero/Assets/scripts/Gameplay/Player/ClimbCheck.cs for commit: started.
+[2021-07-09T20:13:07.875Z] Stage VHS Hero/Assets/scripts/Gameplay/Player/ClimbCheck.cs for commit: finished. gk-log://duration?t=242
+[2021-07-09T20:13:10.009Z] Opening VHS Hero/Assets/levels/Level8.prefab in built-in merge tool: started.
+[2021-07-09T20:13:10.078Z] Opening VHS Hero/Assets/levels/Level8.prefab in built-in merge tool: finished. gk-log://duration?t=69
+[2021-07-09T20:13:23.297Z] Opening VHS Hero/Assets/levels/Level8.prefab in built-in merge tool: started.
+[2021-07-09T20:13:23.340Z] Opening VHS Hero/Assets/levels/Level8.prefab in built-in merge tool: finished. gk-log://duration?t=43
+[2021-07-09T20:14:22.668Z] Save merged VHS Hero/Assets/levels/Level8.prefab: started.
+[2021-07-09T20:14:22.746Z] Save merged VHS Hero/Assets/levels/Level8.prefab: finished. gk-log://duration?t=78
+[2021-07-09T20:14:22.800Z] Stage VHS Hero/Assets/levels/Level8.prefab for commit: started.
+[2021-07-09T20:14:22.972Z] Stage VHS Hero/Assets/levels/Level8.prefab for commit: finished. gk-log://duration?t=172
+[2021-07-09T20:14:24.259Z] Opening VHS Hero/Assets/Scenes/main.unity in built-in merge tool: started.
+[2021-07-09T20:14:24.309Z] Opening VHS Hero/Assets/Scenes/main.unity in built-in merge tool: finished. gk-log://duration?t=50
+[2021-07-09T20:15:07.896Z] Stage VHS Hero/Assets/Scenes/main.unity for commit: started.
+[2021-07-09T20:15:08.420Z] Stage VHS Hero/Assets/Scenes/main.unity for commit: finished. gk-log://duration?t=524
+[2021-07-09T20:15:30.048Z] Unstage VHS Hero/Assets/Scenes/main.unity: started.
+[2021-07-09T20:15:30.186Z] Unstage VHS Hero/Assets/Scenes/main.unity: finished. gk-log://duration?t=138
+[2021-07-09T20:15:40.800Z] Finish merge main into ianx64-main: started.
+[2021-07-09T20:15:40.841Z] post-commit hook started.
+[2021-07-09T20:15:41.387Z] post-commit hook finished. gk-log://duration?t=546 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625861740867.02d9ea55&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-09T20:15:41.468Z] Finish merge main into ianx64-main: finished. gk-log://duration?t=668
+[2021-07-09T20:17:31.959Z] Revert c2f84b2e37acd5209f9e71f5091e1566563b38fa onto refs/heads/main: started.
+[2021-07-09T20:17:32.028Z] Auto-stash uncommitted changes: started.
+[2021-07-09T20:17:32.045Z] Stage VHS Hero/Assets/Scenes/main.unity for stash: started.
+[2021-07-09T20:17:32.593Z] Stage VHS Hero/Assets/Scenes/main.unity for stash: finished. gk-log://duration?t=547
+[2021-07-09T20:17:32.900Z] Auto-stash uncommitted changes: finished. Stash sha: 3486f9592c9bc8899017d81c9705c6f2c26d4504 gk-log://duration?t=872
+[2021-07-09T20:17:32.951Z] post-commit hook started.
+[2021-07-09T20:17:34.359Z] post-commit hook finished. gk-log://duration?t=1408 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625861852956.e01d7051&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-09T20:17:34.447Z] Pop most recent stash: started.
+[2021-07-09T20:17:34.675Z] Pop stash 3486f9592c9bc8899017d81c9705c6f2c26d4504: finished. gk-log://duration?t=228
+[2021-07-09T20:17:34.840Z] Revert c2f84b2e37acd5209f9e71f5091e1566563b38fa onto refs/heads/main: finished. gk-log://duration?t=2881
+[2021-07-09T20:18:10.981Z] Stage VHS Hero/Assets/Scenes/main.unity for commit: started.
+[2021-07-09T20:18:11.472Z] Stage VHS Hero/Assets/Scenes/main.unity for commit: finished. gk-log://duration?t=491
+[2021-07-09T20:18:11.897Z] Commit: started.
+[2021-07-09T20:18:11.983Z] post-commit hook started.
+[2021-07-09T20:18:13.212Z] post-commit hook finished. gk-log://duration?t=1228 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625861891991.7d7a5645&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-09T20:18:13.570Z] Commit: successfully created commit a484e2506a8981a1494f2fcfabf21ea104734e7c
+[2021-07-09T20:18:13.575Z] Commit: finished gk-log://duration?t=1678
+[2021-07-09T20:18:35.414Z] Revert c2f84b2e37acd5209f9e71f5091e1566563b38fa onto refs/heads/main: started.
+[2021-07-09T20:18:35.479Z] post-commit hook started.
+[2021-07-09T20:18:36.204Z] post-commit hook finished. gk-log://duration?t=725 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625861915483.b8e294b2&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-09T20:18:36.260Z] Revert c2f84b2e37acd5209f9e71f5091e1566563b38fa onto refs/heads/main: finished. gk-log://duration?t=846
+[2021-07-09T20:18:50.790Z] Checkout ee86b45b108ce6428b67632c0484700066cb8006: started.
+[2021-07-09T20:18:50.918Z] post-checkout hook started.
+[2021-07-09T20:18:52.169Z] post-checkout hook finished. gk-log://duration?t=1250 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-checkout%2F1625861930925.17ffcdfa&linktext=View%20hook%20log&loglabel=Hook%3A%20post-checkout
+[2021-07-09T20:18:52.536Z] Checkout ee86b45b108ce6428b67632c0484700066cb8006: finished. gk-log://duration?t=1746
+[2021-07-09T20:19:13.888Z] Revert bc3028ea6d803699725b3d3208b76c44d45a0344 onto HEAD: started.
+[2021-07-09T20:19:13.965Z] post-commit hook started.
+[2021-07-09T20:19:14.497Z] post-commit hook finished. gk-log://duration?t=532 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625861953969.833cedfc&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-09T20:19:14.548Z] Revert bc3028ea6d803699725b3d3208b76c44d45a0344 onto HEAD: finished. gk-log://duration?t=659
+[2021-07-10T02:06:38.174Z] Checkout refs/heads/main: started.
+[2021-07-10T02:06:38.316Z] Checkout refs/heads/main: finished. gk-log://duration?t=142
+[2021-07-10T02:06:52.956Z] Stash uncommitted changes: started.
+[2021-07-10T02:06:53.007Z] Stage 37 files for stash: started.
+[2021-07-10T02:06:54.360Z] Stage 37 files for stash: finished. gk-log://duration?t=1353
+[2021-07-10T02:06:55.058Z] Stash uncommitted changes: finished. Stash sha: c06e4012742f835f1c269fcf52895533de83abfc gk-log://duration?t=2102
+[2021-07-10T02:07:03.421Z] Checkout refs/heads/main: started.
+[2021-07-10T02:07:03.635Z] post-checkout hook started.
+[2021-07-10T02:07:04.330Z] post-checkout hook finished. gk-log://duration?t=695 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-checkout%2F1625882823662.913d1f2d&linktext=View%20hook%20log&loglabel=Hook%3A%20post-checkout
+[2021-07-10T02:07:04.562Z] Checkout refs/heads/main: finished. gk-log://duration?t=1141
+[2021-07-10T02:07:26.552Z] Apply stash f1f170b61c1e141086a8c973be391cedf1484696: started.
+[2021-07-10T02:07:27.624Z] Apply stash c06e4012742f835f1c269fcf52895533de83abfc: finished with merge conflicts. gk-log://duration?t=1072
+[2021-07-10T02:07:37.653Z] Opening VHS Hero/Assets/Scenes/main.unity in built-in merge tool: started.
+[2021-07-10T02:07:37.691Z] Opening VHS Hero/Assets/Scenes/main.unity in built-in merge tool: finished. gk-log://duration?t=38
+[2021-07-10T02:07:50.265Z] Save merged VHS Hero/Assets/Scenes/main.unity: started.
+[2021-07-10T02:07:54.419Z] Save merged VHS Hero/Assets/Scenes/main.unity: cancelled. gk-log://duration?t=4154
+[2021-07-10T02:07:55.771Z] Save merged VHS Hero/Assets/Scenes/main.unity: started.
+[2021-07-10T02:07:56.316Z] Save merged VHS Hero/Assets/Scenes/main.unity: finished. gk-log://duration?t=545
+[2021-07-10T02:07:56.337Z] Stage VHS Hero/Assets/Scenes/main.unity for commit: started.
+[2021-07-10T02:07:57.492Z] Stage VHS Hero/Assets/Scenes/main.unity for commit: finished. gk-log://duration?t=1155
+[2021-07-10T02:08:03.744Z] Commit: started.
+[2021-07-10T02:08:03.844Z] post-commit hook started.
+[2021-07-10T02:08:13.025Z] post-commit hook finished. gk-log://duration?t=9181 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625882883862.e770a08f&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-10T02:08:13.491Z] Commit: successfully created commit 2b1065f6efdf721d6c91d69720f18277b9575d8b
+[2021-07-10T02:08:13.498Z] Commit: finished gk-log://duration?t=9754
+[2021-07-10T02:08:21.527Z] Push main: started.
+[2021-07-10T02:08:21.979Z] pre-push hook started.
+[2021-07-10T02:08:34.824Z] pre-push hook finished. gk-log://duration?t=12845 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625882901994.03112c5c&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-10T02:08:43.994Z] Push main: finished. gk-log://duration?t=22467
+[2021-07-10T02:10:13.921Z] Push main: started.
+[2021-07-10T02:10:14.323Z] pre-push hook started.
+[2021-07-10T02:10:20.694Z] pre-push hook finished. gk-log://duration?t=6371 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625883014336.c6139a7b&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-10T02:10:22.859Z] Push main: finished. gk-log://duration?t=8938
+[2021-07-10T02:25:07.301Z] Apply stash f1f170b61c1e141086a8c973be391cedf1484696: started.
+[2021-07-10T02:25:10.243Z] Apply stash c06e4012742f835f1c269fcf52895533de83abfc: finished with merge conflicts. gk-log://duration?t=2942
+[2021-07-10T02:25:12.803Z] Opening VHS Hero/Assets/Scenes/main.unity in built-in merge tool: started.
+[2021-07-10T02:25:12.890Z] Opening VHS Hero/Assets/Scenes/main.unity in built-in merge tool: finished. gk-log://duration?t=87
+[2021-07-10T02:26:20.277Z] Amend commit 2b1065f6efdf721d6c91d69720f18277b9575d8b: started.
+[2021-07-10T02:26:20.300Z] Amend commit 2b1065f6efdf721d6c91d69720f18277b9575d8b: Unknown failure..
+[2021-07-10T02:26:20.304Z] Amend commit 2b1065f6efdf721d6c91d69720f18277b9575d8b: finished with errors.
+[2021-07-10T02:26:21.215Z] Amend commit 2b1065f6efdf721d6c91d69720f18277b9575d8b: started.
+[2021-07-10T02:26:21.237Z] Amend commit 2b1065f6efdf721d6c91d69720f18277b9575d8b: Unknown failure..
+[2021-07-10T02:26:21.242Z] Amend commit 2b1065f6efdf721d6c91d69720f18277b9575d8b: finished with errors.
+[2021-07-10T02:26:21.443Z] Amend commit 2b1065f6efdf721d6c91d69720f18277b9575d8b: started.
+[2021-07-10T02:26:21.471Z] Amend commit 2b1065f6efdf721d6c91d69720f18277b9575d8b: Unknown failure..
+[2021-07-10T02:26:21.473Z] Amend commit 2b1065f6efdf721d6c91d69720f18277b9575d8b: finished with errors.
+[2021-07-10T02:26:28.942Z] Stage 4 files for commit: started.
+[2021-07-10T02:26:29.312Z] Stage 4 files for commit: finished. gk-log://duration?t=370
+[2021-07-10T02:26:32.629Z] Unstage VHS Hero/Assets/Scenes/main.unity: started.
+[2021-07-10T02:26:32.721Z] Unstage VHS Hero/Assets/Scenes/main.unity: finished. gk-log://duration?t=92
+[2021-07-10T02:26:38.837Z] Commit: started.
+[2021-07-10T02:26:38.930Z] post-commit hook started.
+[2021-07-10T02:26:39.653Z] post-commit hook finished. gk-log://duration?t=723 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625883998955.78790669&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-10T02:26:39.894Z] Commit: successfully created commit d7600c328d3dc6934d53610ab5930002231d111e
+[2021-07-10T02:26:39.896Z] Commit: finished gk-log://duration?t=1059
+[2021-07-10T02:27:10.352Z] Reset (mixed) refs/heads/main to 104bc7a74f88ca047d3438911669a79b8f7e4adf: started.
+[2021-07-10T02:27:10.428Z] Reset (mixed) refs/heads/main to 104bc7a74f88ca047d3438911669a79b8f7e4adf: finished. gk-log://duration?t=76
+[2021-07-10T02:27:45.506Z] Checkout 8ecc24527a98df12100661da40e8e621a478ea51: started.
+[2021-07-10T02:27:45.610Z] Auto-stash uncommitted changes: started.
+[2021-07-10T02:27:45.636Z] Stage 39 files for stash: started.
+[2021-07-10T02:27:46.808Z] Stage 39 files for stash: finished. gk-log://duration?t=1172
+[2021-07-10T02:27:47.623Z] Auto-stash uncommitted changes: finished. Stash sha: 396d67828f97b64a072c07ebcee2668efa5e6e94 gk-log://duration?t=2013
+[2021-07-10T02:27:47.766Z] post-checkout hook started.
+[2021-07-10T02:27:48.295Z] post-checkout hook finished. gk-log://duration?t=529 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-checkout%2F1625884067772.2bfa5a8b&linktext=View%20hook%20log&loglabel=Hook%3A%20post-checkout
+[2021-07-10T02:27:48.743Z] Checkout 8ecc24527a98df12100661da40e8e621a478ea51: finished. gk-log://duration?t=3237
+[2021-07-10T02:28:24.093Z] Apply stash f1f170b61c1e141086a8c973be391cedf1484696: started.
+[2021-07-10T02:28:24.590Z] Apply stash c06e4012742f835f1c269fcf52895533de83abfc: finished. gk-log://duration?t=497
+[2021-07-10T02:29:10.954Z] Checkout 2b1065f6efdf721d6c91d69720f18277b9575d8b: started.
+[2021-07-10T02:29:11.079Z] Auto-stash uncommitted changes: started.
+[2021-07-10T02:29:11.101Z] Stage 43 files for stash: started.
+[2021-07-10T02:29:11.704Z] Stage 43 files for stash: finished. gk-log://duration?t=603
+[2021-07-10T02:29:12.444Z] Auto-stash uncommitted changes: finished. Stash sha: 1b5a79e58120784f973f2e77adf6ea26164eead3 gk-log://duration?t=1365
+[2021-07-10T02:29:12.612Z] post-checkout hook started.
+[2021-07-10T02:29:13.689Z] post-checkout hook finished. gk-log://duration?t=1077 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-checkout%2F1625884152617.a29ce132&linktext=View%20hook%20log&loglabel=Hook%3A%20post-checkout
+[2021-07-10T02:29:14.057Z] Checkout 2b1065f6efdf721d6c91d69720f18277b9575d8b: finished. gk-log://duration?t=3103
+[2021-07-10T02:30:11.861Z] Checkout 8ecc24527a98df12100661da40e8e621a478ea51: started.
+[2021-07-10T02:30:12.168Z] post-checkout hook started.
+[2021-07-10T02:30:12.875Z] post-checkout hook finished. gk-log://duration?t=707 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-checkout%2F1625884212172.d4f9c4dd&linktext=View%20hook%20log&loglabel=Hook%3A%20post-checkout
+[2021-07-10T02:30:13.207Z] Checkout 8ecc24527a98df12100661da40e8e621a478ea51: finished. gk-log://duration?t=1346
+[2021-07-10T02:30:33.377Z] Apply stash f1f170b61c1e141086a8c973be391cedf1484696: started.
+[2021-07-10T02:30:33.882Z] Apply stash c06e4012742f835f1c269fcf52895533de83abfc: finished. gk-log://duration?t=505
+[2021-07-10T02:30:51.899Z] Stage 43 files for commit: started.
+[2021-07-10T02:30:52.545Z] Stage 43 files for commit: finished. gk-log://duration?t=646
+[2021-07-10T02:30:55.887Z] Commit: started.
+[2021-07-10T02:30:56.020Z] post-commit hook started.
+[2021-07-10T02:30:57.037Z] post-commit hook finished. gk-log://duration?t=1017 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625884256025.23c22116&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-10T02:30:57.215Z] Commit: successfully created commit b51f77b6d4f632e85e75e46a844f95159a5a2d5c
+[2021-07-10T02:30:57.216Z] Commit: finished gk-log://duration?t=1329
+[2021-07-10T02:31:09.329Z] Stash uncommitted changes: started.
+[2021-07-10T02:31:09.394Z] Stage undefined for stash: started.
+[2021-07-10T02:31:09.487Z] Stage undefined for stash: finished. gk-log://duration?t=93
+[2021-07-10T02:31:09.541Z] Stash uncommitted changes: cannot stash changes - there is nothing to stash.
+[2021-07-10T02:31:09.542Z] Stash uncommitted changes: finished with errors. gk-log://duration?t=213
+[2021-07-10T02:33:11.747Z] Create ref refs/heads/new-main at b51f77b6d4f632e85e75e46a844f95159a5a2d5c: started.
+[2021-07-10T02:33:11.845Z] Checkout refs/heads/new-main: started.
+[2021-07-10T02:33:11.958Z] post-checkout hook started.
+[2021-07-10T02:33:13.265Z] post-checkout hook finished. gk-log://duration?t=1307 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-checkout%2F1625884391963.0a28766d&linktext=View%20hook%20log&loglabel=Hook%3A%20post-checkout
+[2021-07-10T02:33:13.540Z] Checkout refs/heads/new-main: finished. gk-log://duration?t=1695
+[2021-07-10T02:33:13.560Z] Create ref refs/heads/new-main at b51f77b6d4f632e85e75e46a844f95159a5a2d5c: finished. gk-log://duration?t=1813
+[2021-07-10T02:33:16.914Z] Push new-main: started.
+[2021-07-10T02:33:19.294Z] Set upstream for new-main: started.
+[2021-07-10T02:33:19.491Z] Set upstream for new-main: finished. gk-log://duration?t=197
+[2021-07-10T02:33:19.885Z] pre-push hook started.
+[2021-07-10T02:33:21.967Z] pre-push hook finished. gk-log://duration?t=2081 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625884399893.75770d5c&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-10T02:33:30.883Z] Push new-main: finished. gk-log://duration?t=13969
+[2021-07-10T03:43:10.149Z] Stage VHS Hero/Assets/scripts/Gameplay/Player/ClimbCheck.cs for commit: started.
+[2021-07-10T03:43:10.360Z] Stage VHS Hero/Assets/scripts/Gameplay/Player/ClimbCheck.cs for commit: finished. gk-log://duration?t=211
+[2021-07-10T03:43:14.881Z] Commit: started.
+[2021-07-10T03:43:15.000Z] post-commit hook started.
+[2021-07-10T03:43:16.047Z] post-commit hook finished. gk-log://duration?t=1047 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625888595029.5528e934&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-10T03:43:16.248Z] Commit: successfully created commit 56f86180df61159d360e1a32bfa725dcf85adb1a
+[2021-07-10T03:43:16.250Z] Commit: finished gk-log://duration?t=1369
+[2021-07-10T03:43:17.148Z] Push new-main: started.
+[2021-07-10T03:43:17.590Z] pre-push hook started.
+[2021-07-10T03:43:19.456Z] pre-push hook finished. gk-log://duration?t=1866 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625888597611.bcac7c32&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-10T03:43:21.759Z] Push new-main: finished. gk-log://duration?t=4611
+[2021-07-10T04:27:43.182Z] Push new-main: started.
+[2021-07-10T04:27:43.619Z] pre-push hook started.
+[2021-07-10T04:27:46.918Z] pre-push hook finished. gk-log://duration?t=3299 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625891263634.655cb691&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-10T04:27:49.028Z] Push new-main: finished. gk-log://duration?t=5846
+[2021-07-10T07:19:29.174Z] Stage 30 files for commit: started.
+[2021-07-10T07:19:29.581Z] Stage 30 files for commit: finished. gk-log://duration?t=407
+[2021-07-10T07:19:30.969Z] Commit: started.
+[2021-07-10T07:19:31.221Z] post-commit hook started.
+[2021-07-10T07:19:33.805Z] post-commit hook finished. gk-log://duration?t=2584 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625901571227.9bb9b7fc&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-10T07:19:34.008Z] Commit: successfully created commit fb8ab250fb75e2756689269f3b5c5107da73febe
+[2021-07-10T07:19:34.014Z] Commit: finished gk-log://duration?t=3045
+[2021-07-10T07:19:35.752Z] Push new-main: started.
+[2021-07-10T07:19:36.139Z] pre-push hook started.
+[2021-07-10T07:19:38.051Z] pre-push hook finished. gk-log://duration?t=1912 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625901576147.48530852&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-10T07:19:40.581Z] Push new-main: finished. gk-log://duration?t=4829
+[2021-07-10T07:55:27.573Z] Stage 17 files for commit: started.
+[2021-07-10T07:55:27.909Z] Stage 17 files for commit: finished. gk-log://duration?t=336
+[2021-07-10T07:55:28.235Z] Commit: started.
+[2021-07-10T07:55:28.368Z] post-commit hook started.
+[2021-07-10T07:55:30.216Z] post-commit hook finished. gk-log://duration?t=1848 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625903728378.40c4b234&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-10T07:55:30.552Z] Commit: successfully created commit 36ff2b6dae96c6a13c06e60f0f16fe5a3feacd91
+[2021-07-10T07:55:30.554Z] Commit: finished gk-log://duration?t=2319
+[2021-07-10T07:55:31.616Z] Push new-main: started.
+[2021-07-10T07:55:32.018Z] pre-push hook started.
+[2021-07-10T07:55:34.221Z] pre-push hook finished. gk-log://duration?t=2203 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625903732028.f96ddc70&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-10T07:55:36.743Z] Push new-main: finished. gk-log://duration?t=5127
+[2021-07-10T08:22:11.710Z] Stage 11 files for commit: started.
+[2021-07-10T08:22:12.017Z] Stage 11 files for commit: finished. gk-log://duration?t=307
+[2021-07-10T08:22:12.839Z] Commit: started.
+[2021-07-10T08:22:12.985Z] post-commit hook started.
+[2021-07-10T08:22:14.506Z] post-commit hook finished. gk-log://duration?t=1521 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625905332992.ad909916&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-10T08:22:14.706Z] Commit: successfully created commit fe67214b1206beb531cf4bf41983e5aaa3c04a96
+[2021-07-10T08:22:14.709Z] Commit: finished gk-log://duration?t=1870
+[2021-07-10T08:22:16.357Z] Push new-main: started.
+[2021-07-10T08:22:16.753Z] pre-push hook started.
+[2021-07-10T08:22:18.775Z] pre-push hook finished. gk-log://duration?t=2022 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625905336765.49301273&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-10T08:22:21.152Z] Push new-main: finished. gk-log://duration?t=4795
+[2021-07-10T18:17:39.306Z] Fetch remote origin: error sending data: Broken pipe
+[2021-07-10T18:17:39.355Z] Fetch remote ianx64: error sending data: Broken pipe
+[2021-07-10T21:22:39.691Z] Stage 15 files for commit: started.
+[2021-07-10T21:22:40.694Z] Stage 15 files for commit: finished. gk-log://duration?t=1003
+[2021-07-10T21:22:41.738Z] Commit: started.
+[2021-07-10T21:22:41.913Z] post-commit hook started.
+[2021-07-10T21:22:44.998Z] post-commit hook finished. gk-log://duration?t=3085 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625952161922.728293e8&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-10T21:22:45.279Z] Commit: successfully created commit 66a21c7c225fce8e3cd3d1d8c817ec1373373521
+[2021-07-10T21:22:45.281Z] Commit: finished gk-log://duration?t=3543
+[2021-07-10T21:22:46.609Z] Push new-main: started.
+[2021-07-10T21:22:47.051Z] pre-push hook started.
+[2021-07-10T21:22:49.485Z] pre-push hook finished. gk-log://duration?t=2434 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625952167057.0c82ddfa&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-10T21:22:49.984Z] Push new-main: Your remote branch is out of date. Please fetch origin before pushing.
+[2021-07-10T21:22:49.993Z] Push new-main: finished with errors. gk-log://duration?t=3384
+[2021-07-10T21:22:53.972Z] Pull new-main: started.
+[2021-07-10T21:22:53.983Z] Fetch remote origin: started
+[2021-07-10T21:22:55.061Z] Fetch remote origin: finished gk-log://duration?t=1078
+[2021-07-10T21:22:55.163Z] Merge origin/new-main into new-main: started.
+[2021-07-10T21:22:56.163Z] Merge origin/new-main into new-main: There are merge conflicts that need to be resolved
+[2021-07-10T21:22:56.164Z] Merge origin/new-main into new-main: finished with errors. gk-log://duration?t=1001
+[2021-07-10T21:22:56.169Z] Pull new-main: merge failed
+[2021-07-10T21:22:56.172Z] Pull new-main: finished with errors. gk-log://duration?t=2200
+[2021-07-10T21:23:14.040Z] Opening VHS Hero/Assets/Scenes/main.unity in built-in merge tool: started.
+[2021-07-10T21:23:14.226Z] Opening VHS Hero/Assets/Scenes/main.unity in built-in merge tool: finished. gk-log://duration?t=186
+[2021-07-10T21:24:39.100Z] Ignore VHS Hero/Assets/Scenes: started.
+[2021-07-10T21:24:42.376Z] Ignore VHS Hero/Assets/Scenes: finished. gk-log://duration?t=3276
+[2021-07-10T21:25:30.865Z] Revert 66a21c7c225fce8e3cd3d1d8c817ec1373373521 onto refs/heads/new-main: started.
+[2021-07-10T21:25:30.955Z] Auto-stash uncommitted changes: started.
+[2021-07-10T21:25:30.983Z] Stage 61 files for stash: started.
+[2021-07-10T21:25:31.567Z] Stage 61 files for stash: finished. gk-log://duration?t=584
+[2021-07-10T21:25:32.174Z] Auto-stash uncommitted changes: finished. Stash sha: c80fa74040ea0899e34a74aca7fbda888c4e1d58 gk-log://duration?t=1219
+[2021-07-10T21:25:32.285Z] post-commit hook started.
+[2021-07-10T21:25:32.975Z] post-commit hook finished. gk-log://duration?t=690 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625952332318.873f2063&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-10T21:25:33.077Z] Pop most recent stash: started.
+[2021-07-10T21:25:33.806Z] Pop stash c80fa74040ea0899e34a74aca7fbda888c4e1d58: finished with merge conflicts. Stash was not dropped. gk-log://duration?t=728
+[2021-07-10T21:25:34.095Z] Revert 66a21c7c225fce8e3cd3d1d8c817ec1373373521 onto refs/heads/new-main: finished. gk-log://duration?t=3230
+[2021-07-10T21:25:39.058Z] Commit: started.
+[2021-07-10T21:25:39.178Z] Commit: cannot create a tree from a not fully merged index.
+[2021-07-10T21:25:39.180Z] Commit: finished with errors. gk-log://duration?t=122
+[2021-07-10T21:25:39.182Z] Commit: finished gk-log://duration?t=124
+[2021-07-10T21:25:40.392Z] Commit: started.
+[2021-07-10T21:25:40.523Z] Commit: cannot create a tree from a not fully merged index.
+[2021-07-10T21:25:40.530Z] Commit: finished with errors. gk-log://duration?t=137
+[2021-07-10T21:25:40.533Z] Commit: finished gk-log://duration?t=140
+[2021-07-10T21:25:41.080Z] Commit: started.
+[2021-07-10T21:25:41.204Z] Commit: cannot create a tree from a not fully merged index.
+[2021-07-10T21:25:41.207Z] Commit: finished with errors. gk-log://duration?t=127
+[2021-07-10T21:25:41.210Z] Commit: finished gk-log://duration?t=130
+[2021-07-10T21:25:41.561Z] Commit: started.
+[2021-07-10T21:25:41.694Z] Commit: cannot create a tree from a not fully merged index.
+[2021-07-10T21:25:41.706Z] Commit: finished with errors. gk-log://duration?t=145
+[2021-07-10T21:25:41.710Z] Commit: finished gk-log://duration?t=149
+[2021-07-10T21:25:46.892Z] Commit: started.
+[2021-07-10T21:25:47.018Z] Commit: cannot create a tree from a not fully merged index.
+[2021-07-10T21:25:47.020Z] Commit: finished with errors. gk-log://duration?t=128
+[2021-07-10T21:25:47.021Z] Commit: finished gk-log://duration?t=129
+[2021-07-10T21:25:47.491Z] Commit: started.
+[2021-07-10T21:25:47.607Z] Commit: cannot create a tree from a not fully merged index.
+[2021-07-10T21:25:47.608Z] Commit: finished with errors. gk-log://duration?t=117
+[2021-07-10T21:25:47.610Z] Commit: finished gk-log://duration?t=119
+[2021-07-10T21:25:47.688Z] Commit: started.
+[2021-07-10T21:25:47.829Z] Commit: cannot create a tree from a not fully merged index.
+[2021-07-10T21:25:47.831Z] Commit: finished with errors. gk-log://duration?t=143
+[2021-07-10T21:25:47.832Z] Commit: finished gk-log://duration?t=144
+[2021-07-10T21:25:47.879Z] Commit: started.
+[2021-07-10T21:25:48.100Z] Commit: cannot create a tree from a not fully merged index.
+[2021-07-10T21:25:48.106Z] Commit: finished with errors. gk-log://duration?t=227
+[2021-07-10T21:25:48.112Z] Commit: finished gk-log://duration?t=233
+[2021-07-10T21:25:48.245Z] Commit: started.
+[2021-07-10T21:25:48.358Z] Commit: cannot create a tree from a not fully merged index.
+[2021-07-10T21:25:48.361Z] Commit: finished with errors. gk-log://duration?t=116
+[2021-07-10T21:25:48.362Z] Commit: finished gk-log://duration?t=117
+[2021-07-10T21:25:48.424Z] Commit: started.
+[2021-07-10T21:25:48.606Z] Commit: cannot create a tree from a not fully merged index.
+[2021-07-10T21:25:48.607Z] Commit: finished with errors. gk-log://duration?t=183
+[2021-07-10T21:25:48.609Z] Commit: finished gk-log://duration?t=185
+[2021-07-10T21:25:48.808Z] Commit: started.
+[2021-07-10T21:25:48.912Z] Commit: cannot create a tree from a not fully merged index.
+[2021-07-10T21:25:48.916Z] Commit: finished with errors. gk-log://duration?t=108
+[2021-07-10T21:25:48.918Z] Commit: finished gk-log://duration?t=110
+[2021-07-10T21:25:49.025Z] Commit: started.
+[2021-07-10T21:25:49.159Z] Commit: cannot create a tree from a not fully merged index.
+[2021-07-10T21:25:49.162Z] Commit: finished with errors. gk-log://duration?t=137
+[2021-07-10T21:25:49.164Z] Commit: finished gk-log://duration?t=139
+[2021-07-10T21:25:49.204Z] Commit: started.
+[2021-07-10T21:25:49.464Z] Commit: cannot create a tree from a not fully merged index.
+[2021-07-10T21:25:49.469Z] Commit: finished with errors. gk-log://duration?t=265
+[2021-07-10T21:25:49.476Z] Commit: finished gk-log://duration?t=272
+[2021-07-10T21:25:49.638Z] Commit: started.
+[2021-07-10T21:25:49.746Z] Commit: cannot create a tree from a not fully merged index.
+[2021-07-10T21:25:49.749Z] Commit: finished with errors. gk-log://duration?t=111
+[2021-07-10T21:25:49.759Z] Commit: finished gk-log://duration?t=121
+[2021-07-10T21:25:49.812Z] Commit: started.
+[2021-07-10T21:25:49.964Z] Commit: cannot create a tree from a not fully merged index.
+[2021-07-10T21:25:49.965Z] Commit: finished with errors. gk-log://duration?t=153
+[2021-07-10T21:25:49.967Z] Commit: finished gk-log://duration?t=155
+[2021-07-10T21:26:28.832Z] Reset (mixed) refs/heads/new-main to 66a21c7c225fce8e3cd3d1d8c817ec1373373521: started.
+[2021-07-10T21:26:28.917Z] Reset (mixed) refs/heads/new-main to 66a21c7c225fce8e3cd3d1d8c817ec1373373521: finished. gk-log://duration?t=85
+[2021-07-10T21:26:34.482Z] Stage 69 files for commit: started.
+[2021-07-10T21:26:35.243Z] Stage 69 files for commit: finished. gk-log://duration?t=761
+[2021-07-10T21:26:35.893Z] Commit: started.
+[2021-07-10T21:26:36.036Z] post-commit hook started.
+[2021-07-10T21:26:36.922Z] post-commit hook finished. gk-log://duration?t=886 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625952396040.72f879b7&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-10T21:26:37.126Z] Commit: successfully created commit 89c3ca8003bf1ee71d4646c46d55c9d1ac65c41f
+[2021-07-10T21:26:37.130Z] Commit: finished gk-log://duration?t=1236
+[2021-07-10T21:26:42.690Z] Push new-main: started.
+[2021-07-10T21:26:43.070Z] pre-push hook started.
+[2021-07-10T21:26:45.038Z] pre-push hook finished. gk-log://duration?t=1968 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625952403085.0a8b53c5&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-10T21:26:49.864Z] Pull new-main: started.
+[2021-07-10T21:26:49.875Z] Fetch remote origin: started
+[2021-07-10T21:26:50.299Z] Fetch remote origin: finished gk-log://duration?t=424
+[2021-07-10T21:26:50.423Z] Merge origin/new-main into new-main: started.
+[2021-07-10T21:26:51.574Z] Merge origin/new-main into new-main: There are merge conflicts that need to be resolved
+[2021-07-10T21:26:51.580Z] Merge origin/new-main into new-main: finished with errors. gk-log://duration?t=1157
+[2021-07-10T21:26:51.581Z] Pull new-main: merge failed
+[2021-07-10T21:26:51.583Z] Pull new-main: finished with errors. gk-log://duration?t=1719
+[2021-07-10T21:26:51.585Z] Push new-main: merge failed
+[2021-07-10T21:26:51.588Z] Push new-main: finished with errors. gk-log://duration?t=8898
+[2021-07-10T21:28:35.243Z] Reset (hard) refs/heads/new-main to fe67214b1206beb531cf4bf41983e5aaa3c04a96: started.
+[2021-07-10T21:28:35.526Z] Reset (hard) refs/heads/new-main to fe67214b1206beb531cf4bf41983e5aaa3c04a96: finished. gk-log://duration?t=283
+[2021-07-10T21:29:48.357Z] Push new-main: started.
+[2021-07-10T21:29:48.822Z] pre-push hook started.
+[2021-07-10T21:29:51.841Z] pre-push hook finished. gk-log://duration?t=3019 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625952588830.d8bf8c03&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-10T21:29:53.748Z] Pull new-main: started.
+[2021-07-10T21:29:53.761Z] Fetch remote origin: started
+[2021-07-10T21:29:54.234Z] Fetch remote origin: finished gk-log://duration?t=473
+[2021-07-10T21:29:54.383Z] Merge origin/new-main into new-main: started.
+[2021-07-10T21:29:54.626Z] post-merge hook started.
+[2021-07-10T21:29:55.390Z] post-merge hook finished. gk-log://duration?t=764 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-merge%2F1625952594631.bd104422&linktext=View%20hook%20log&loglabel=Hook%3A%20post-merge
+[2021-07-10T21:29:55.404Z] Merge origin/new-main into new-main: finished. gk-log://duration?t=1021
+[2021-07-10T21:29:55.438Z] Pull new-main: finished. gk-log://duration?t=1690
+[2021-07-10T21:29:56.219Z] pre-push hook started.
+[2021-07-10T21:29:58.076Z] pre-push hook finished. gk-log://duration?t=1857 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625952596230.0fdaee3b&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-10T21:30:00.263Z] Push new-main: finished. gk-log://duration?t=11906
+[2021-07-10T21:31:49.996Z] Checkout 66a21c7c225fce8e3cd3d1d8c817ec1373373521: started.
+[2021-07-10T21:31:50.188Z] Auto-stash uncommitted changes: started.
+[2021-07-10T21:31:50.204Z] Stage VHS Hero/Assets/Project/External/Graphy - Ultimate Stats Monitor/Graphy_CustomizationScene.unitypackage.meta for stash: started.
+[2021-07-10T21:31:50.435Z] Stage VHS Hero/Assets/Project/External/Graphy - Ultimate Stats Monitor/Graphy_CustomizationScene.unitypackage.meta for stash: finished. gk-log://duration?t=231
+[2021-07-10T21:31:50.827Z] Auto-stash uncommitted changes: finished. Stash sha: 35f6b627b3041b02e9d906868decceaaf3e47efb gk-log://duration?t=639
+[2021-07-10T21:31:50.914Z] post-checkout hook started.
+[2021-07-10T21:31:52.168Z] post-checkout hook finished. gk-log://duration?t=1254 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-checkout%2F1625952710921.cecac614&linktext=View%20hook%20log&loglabel=Hook%3A%20post-checkout
+[2021-07-10T21:31:52.588Z] Checkout 66a21c7c225fce8e3cd3d1d8c817ec1373373521: finished. gk-log://duration?t=2592
+[2021-07-10T21:31:54.305Z] Stash uncommitted changes: started.
+[2021-07-10T21:31:54.332Z] Stage undefined for stash: started.
+[2021-07-10T21:31:54.480Z] Stage undefined for stash: finished. gk-log://duration?t=148
+[2021-07-10T21:31:54.534Z] Stash uncommitted changes: cannot stash changes - there is nothing to stash.
+[2021-07-10T21:31:54.537Z] Stash uncommitted changes: finished with errors. gk-log://duration?t=232
+[2021-07-10T21:32:01.259Z] Checkout refs/heads/new-main: started.
+[2021-07-10T21:32:01.461Z] post-checkout hook started.
+[2021-07-10T21:32:02.079Z] post-checkout hook finished. gk-log://duration?t=618 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-checkout%2F1625952721468.110d0989&linktext=View%20hook%20log&loglabel=Hook%3A%20post-checkout
+[2021-07-10T21:32:02.417Z] Checkout refs/heads/new-main: finished. gk-log://duration?t=1157
+[2021-07-10T21:32:12.691Z] Apply stash d0bdd366ce1ea00f98505bc1406954d487cf267d: started.
+[2021-07-10T21:32:14.130Z] Apply stash c80fa74040ea0899e34a74aca7fbda888c4e1d58: finished with merge conflicts. gk-log://duration?t=1439
+[2021-07-10T21:32:14.311Z] Stage VHS Hero/Assets/Project/External/Graphy - Ultimate Stats Monitor/Graphy_CustomizationScene.unitypackage.meta for commit: started.
+[2021-07-10T21:32:14.457Z] Stage VHS Hero/Assets/Project/External/Graphy - Ultimate Stats Monitor/Graphy_CustomizationScene.unitypackage.meta for commit: finished. gk-log://duration?t=146
+[2021-07-10T21:32:26.536Z] Opening VHS Hero/Assets/Materials/player-white-flash.mat in built-in merge tool: started.
+[2021-07-10T21:32:26.580Z] Opening VHS Hero/Assets/Materials/player-white-flash.mat in built-in merge tool: finished. gk-log://duration?t=43
+[2021-07-10T21:32:34.125Z] Stage VHS Hero/Assets/Materials/player-white-flash.mat for commit: started.
+[2021-07-10T21:32:34.276Z] Stage VHS Hero/Assets/Materials/player-white-flash.mat for commit: finished. gk-log://duration?t=151
+[2021-07-10T21:32:36.395Z] Opening VHS Hero/Assets/Materials/player-white-flash.mat.meta in built-in merge tool: started.
+[2021-07-10T21:32:36.423Z] Opening VHS Hero/Assets/Materials/player-white-flash.mat.meta in built-in merge tool: finished. gk-log://duration?t=28
+[2021-07-10T21:32:37.999Z] Stage VHS Hero/Assets/Materials/player-white-flash.mat.meta for commit: started.
+[2021-07-10T21:32:38.119Z] Stage VHS Hero/Assets/Materials/player-white-flash.mat.meta for commit: finished. gk-log://duration?t=120
+[2021-07-10T21:32:38.902Z] Opening VHS Hero/Assets/Scenes/main.unity in built-in merge tool: started.
+[2021-07-10T21:32:38.969Z] Opening VHS Hero/Assets/Scenes/main.unity in built-in merge tool: finished. gk-log://duration?t=67
+[2021-07-10T21:33:32.763Z] Commit: started.
+[2021-07-10T21:33:32.845Z] Commit: cannot create a tree from a not fully merged index.
+[2021-07-10T21:33:32.850Z] Commit: finished with errors. gk-log://duration?t=87
+[2021-07-10T21:33:32.856Z] Commit: finished gk-log://duration?t=93
+[2021-07-10T21:33:33.962Z] Commit: started.
+[2021-07-10T21:33:34.082Z] Commit: cannot create a tree from a not fully merged index.
+[2021-07-10T21:33:34.092Z] Commit: finished with errors. gk-log://duration?t=130
+[2021-07-10T21:33:34.094Z] Commit: finished gk-log://duration?t=132
+[2021-07-10T21:33:35.489Z] Commit: started.
+[2021-07-10T21:33:35.599Z] Commit: cannot create a tree from a not fully merged index.
+[2021-07-10T21:33:35.604Z] Commit: finished with errors. gk-log://duration?t=114
+[2021-07-10T21:33:35.605Z] Commit: finished gk-log://duration?t=115
+[2021-07-10T21:33:35.993Z] Commit: started.
+[2021-07-10T21:33:36.091Z] Commit: cannot create a tree from a not fully merged index.
+[2021-07-10T21:33:36.094Z] Commit: finished with errors. gk-log://duration?t=101
+[2021-07-10T21:33:36.095Z] Commit: finished gk-log://duration?t=102
+[2021-07-10T21:33:36.599Z] Commit: started.
+[2021-07-10T21:33:36.716Z] Commit: cannot create a tree from a not fully merged index.
+[2021-07-10T21:33:36.718Z] Commit: finished with errors. gk-log://duration?t=119
+[2021-07-10T21:33:36.722Z] Commit: finished gk-log://duration?t=123
+[2021-07-10T21:33:47.205Z] Reset (hard) refs/heads/new-main to 26b6f6b0b276d5060129d39ef01bcebb9f7c9870: started.
+[2021-07-10T21:33:47.962Z] Reset (hard) refs/heads/new-main to 26b6f6b0b276d5060129d39ef01bcebb9f7c9870: finished. gk-log://duration?t=757
+[2021-07-10T21:34:01.723Z] Stage VHS Hero/Assets/Materials/player-white-flash.mat for commit: started.
+[2021-07-10T21:34:01.911Z] Stage VHS Hero/Assets/Materials/player-white-flash.mat for commit: finished. gk-log://duration?t=188
+[2021-07-10T21:34:02.548Z] Stage VHS Hero/Assets/Materials/player-white-flash.mat.meta for commit: started.
+[2021-07-10T21:34:02.665Z] Stage VHS Hero/Assets/Materials/player-white-flash.mat.meta for commit: finished. gk-log://duration?t=117
+[2021-07-10T21:34:04.593Z] Commit: started.
+[2021-07-10T21:34:04.721Z] post-commit hook started.
+[2021-07-10T21:34:05.279Z] post-commit hook finished. gk-log://duration?t=558 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625952844750.7cfe095f&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-10T21:34:05.493Z] Commit: successfully created commit 93a0a0ffa74348dc73dbb40f21ed9b5bf593492b
+[2021-07-10T21:34:05.495Z] Commit: finished gk-log://duration?t=902
+[2021-07-10T21:34:15.010Z] Unstage 6 files: started.
+[2021-07-10T21:34:15.097Z] Unstage 6 files: finished. gk-log://duration?t=86
+[2021-07-10T21:34:15.229Z] Reset all files: started.
+[2021-07-10T21:34:15.319Z] Reset all files: finished. gk-log://duration?t=90
+[2021-07-10T21:34:15.420Z] Reset all submodules: started.
+[2021-07-10T21:34:15.439Z] Reset all submodules: finished. gk-log://duration?t=19
+[2021-07-10T21:36:00.514Z] Stage 2 files for commit: started.
+[2021-07-10T21:36:01.036Z] Stage 2 files for commit: finished. gk-log://duration?t=522
+[2021-07-10T21:36:01.607Z] Commit: started.
+[2021-07-10T21:36:01.732Z] post-commit hook started.
+[2021-07-10T21:36:02.947Z] post-commit hook finished. gk-log://duration?t=1215 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625952961741.3d06b33f&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-10T21:36:03.125Z] Commit: successfully created commit 39937196242b003421d9cec9af68a14cd558b88b
+[2021-07-10T21:36:03.127Z] Commit: finished gk-log://duration?t=1520
+[2021-07-10T21:36:04.337Z] Push new-main: started.
+[2021-07-10T21:36:04.744Z] pre-push hook started.
+[2021-07-10T21:36:06.693Z] pre-push hook finished. gk-log://duration?t=1949 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625952964747.47b104a1&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-10T21:36:09.242Z] Push new-main: finished. gk-log://duration?t=4905
+[2021-07-11T04:59:36.177Z] Stage VHS Hero/Assets/scripts/Gameplay/Managers/LevelManager.cs for commit: started.
+[2021-07-11T04:59:36.588Z] Stage VHS Hero/Assets/scripts/Gameplay/Managers/LevelManager.cs for commit: finished. gk-log://duration?t=411
+[2021-07-11T04:59:37.406Z] Stage 27 files for commit: started.
+[2021-07-11T04:59:38.326Z] Stage 27 files for commit: finished. gk-log://duration?t=920
+[2021-07-11T04:59:43.407Z] Unstage VHS Hero/Assets/Animations/open.anim: started.
+[2021-07-11T04:59:43.717Z] Unstage VHS Hero/Assets/Animations/open.anim: finished. gk-log://duration?t=310
+[2021-07-11T04:59:44.558Z] Unstage VHS Hero/Assets/Animations/open.anim.meta: started.
+[2021-07-11T04:59:44.725Z] Unstage VHS Hero/Assets/Animations/open.anim.meta: finished. gk-log://duration?t=167
+[2021-07-11T04:59:46.789Z] Unstage VHS Hero/Assets/Animations/Portal.controller: started.
+[2021-07-11T04:59:46.939Z] Unstage VHS Hero/Assets/Animations/Portal.controller: finished. gk-log://duration?t=150
+[2021-07-11T04:59:47.507Z] Unstage VHS Hero/Assets/Animations/Portal.controller.meta: started.
+[2021-07-11T04:59:47.703Z] Unstage VHS Hero/Assets/Animations/Portal.controller.meta: finished. gk-log://duration?t=196
+[2021-07-11T04:59:56.825Z] Unstage VHS Hero/Assets/Sprites/open.png.meta: started.
+[2021-07-11T04:59:57.007Z] Unstage VHS Hero/Assets/Sprites/open.png.meta: finished. gk-log://duration?t=182
+[2021-07-11T04:59:58.098Z] Unstage VHS Hero/Assets/Sprites/open.png: started.
+[2021-07-11T04:59:58.240Z] Unstage VHS Hero/Assets/Sprites/open.png: finished. gk-log://duration?t=142
+[2021-07-11T05:00:00.650Z] Commit: started.
+[2021-07-11T05:00:00.820Z] post-commit hook started.
+[2021-07-11T05:00:02.693Z] post-commit hook finished. gk-log://duration?t=1873 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1625979600866.b12e8227&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-11T05:00:03.026Z] Commit: successfully created commit a0cc8b459562ec4f62f82e964a4ebc0686bee727
+[2021-07-11T05:00:03.028Z] Commit: finished gk-log://duration?t=2378
+[2021-07-11T05:00:11.751Z] Unstage 6 files: started.
+[2021-07-11T05:00:11.845Z] Unstage 6 files: finished. gk-log://duration?t=93
+[2021-07-11T05:00:11.976Z] Reset all files: started.
+[2021-07-11T05:00:12.074Z] Reset all files: finished. gk-log://duration?t=98
+[2021-07-11T05:00:12.185Z] Reset all submodules: started.
+[2021-07-11T05:00:12.200Z] Reset all submodules: finished. gk-log://duration?t=15
+[2021-07-11T05:00:14.543Z] Push new-main: started.
+[2021-07-11T05:00:14.982Z] pre-push hook started.
+[2021-07-11T05:00:17.018Z] pre-push hook finished. gk-log://duration?t=2036 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1625979614993.7db4f6b8&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-11T05:00:19.764Z] Push new-main: finished. gk-log://duration?t=5221
+[2021-07-12T00:34:45.281Z] Stage 31 files for commit: started.
+[2021-07-12T00:34:47.038Z] Stage 31 files for commit: finished. gk-log://duration?t=1757
+[2021-07-12T00:34:51.132Z] Commit: started.
+[2021-07-12T00:34:51.274Z] post-commit hook started.
+[2021-07-12T00:34:53.524Z] post-commit hook finished. gk-log://duration?t=2250 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1626050091332.732186f5&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-12T00:34:53.912Z] Commit: successfully created commit e1b81def911013c295f0437535471332876b9575
+[2021-07-12T00:34:53.915Z] Commit: finished gk-log://duration?t=2783
+[2021-07-12T00:34:54.859Z] Push new-main: started.
+[2021-07-12T00:34:55.286Z] pre-push hook started.
+[2021-07-12T00:34:57.282Z] pre-push hook finished. gk-log://duration?t=1996 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1626050095294.4cf068b9&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-12T00:35:00.165Z] Push new-main: finished. gk-log://duration?t=5306
+[2021-07-12T00:35:23.189Z] Stage VHS Hero/Assets/Scenes/menu.unity for commit: started.
+[2021-07-12T00:35:23.300Z] Stage VHS Hero/Assets/Scenes/menu.unity for commit: finished. gk-log://duration?t=111
+[2021-07-12T00:35:24.195Z] Commit: started.
+[2021-07-12T00:35:24.324Z] post-commit hook started.
+[2021-07-12T00:35:25.042Z] post-commit hook finished. gk-log://duration?t=718 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1626050124329.9d60a66a&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-12T00:35:25.194Z] Commit: successfully created commit 8bd5708ea39a5394aeaa22ff3129818fffcb831b
+[2021-07-12T00:35:25.202Z] Commit: finished gk-log://duration?t=1007
+[2021-07-12T00:35:26.255Z] Push new-main: started.
+[2021-07-12T00:35:26.648Z] pre-push hook started.
+[2021-07-12T00:35:28.414Z] pre-push hook finished. gk-log://duration?t=1766 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1626050126657.ad7a9240&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-12T00:35:30.571Z] Push new-main: finished. gk-log://duration?t=4316
+[2021-07-12T00:48:48.276Z] Checkout a0cc8b459562ec4f62f82e964a4ebc0686bee727: started.
+[2021-07-12T00:48:48.398Z] Auto-stash uncommitted changes: started.
+[2021-07-12T00:48:48.422Z] Stage 3 files for stash: started.
+[2021-07-12T00:48:48.560Z] Stage 3 files for stash: finished. gk-log://duration?t=138
+[2021-07-12T00:48:49.133Z] Auto-stash uncommitted changes: finished. Stash sha: 9c2ef8fccfe5cf79bc7c1300546da72f6277d46c gk-log://duration?t=735
+[2021-07-12T00:48:49.276Z] post-checkout hook started.
+[2021-07-12T00:48:51.389Z] post-checkout hook finished. gk-log://duration?t=2113 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-checkout%2F1626050929283.eeddb157&linktext=View%20hook%20log&loglabel=Hook%3A%20post-checkout
+[2021-07-12T00:48:51.816Z] Checkout a0cc8b459562ec4f62f82e964a4ebc0686bee727: finished. gk-log://duration?t=3540
+[2021-07-12T00:49:24.332Z] Checkout refs/remotes/ianx64/newVersion: started.
+[2021-07-12T00:49:24.385Z] Create ref refs/heads/newVersion at 205c104f6fd26db5f8afaee0fa870a9a712004d4: started.
+[2021-07-12T00:49:24.521Z] Create ref refs/heads/newVersion at 205c104f6fd26db5f8afaee0fa870a9a712004d4: finished. gk-log://duration?t=136
+[2021-07-12T00:49:25.083Z] post-checkout hook started.
+[2021-07-12T00:49:26.109Z] post-checkout hook finished. gk-log://duration?t=1026 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-checkout%2F1626050965090.d68381bd&linktext=View%20hook%20log&loglabel=Hook%3A%20post-checkout
+[2021-07-12T00:49:26.299Z] Checkout refs/remotes/ianx64/newVersion: finished. gk-log://duration?t=1967
+[2021-07-12T00:50:02.598Z] Checkout e1b81def911013c295f0437535471332876b9575: started.
+[2021-07-12T00:50:02.727Z] Auto-stash uncommitted changes: started.
+[2021-07-12T00:50:02.737Z] Stage VHS Hero/Assets/Project/External/Graphy - Ultimate Stats Monitor/Graphy_CustomizationScene.unitypackage.meta for stash: started.
+[2021-07-12T00:50:02.873Z] Stage VHS Hero/Assets/Project/External/Graphy - Ultimate Stats Monitor/Graphy_CustomizationScene.unitypackage.meta for stash: finished. gk-log://duration?t=136
+[2021-07-12T00:50:03.338Z] Auto-stash uncommitted changes: finished. Stash sha: d6e9910ba1d4e5d79409f36c6f04d9e393fbff99 gk-log://duration?t=611
+[2021-07-12T00:50:03.508Z] post-checkout hook started.
+[2021-07-12T00:50:04.372Z] post-checkout hook finished. gk-log://duration?t=864 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-checkout%2F1626051003522.6f98dbb6&linktext=View%20hook%20log&loglabel=Hook%3A%20post-checkout
+[2021-07-12T00:50:04.733Z] Checkout e1b81def911013c295f0437535471332876b9575: finished. gk-log://duration?t=2135
+[2021-07-12T00:50:43.260Z] Checkout refs/heads/new-main: started.
+[2021-07-12T00:50:43.507Z] post-checkout hook started.
+[2021-07-12T00:50:44.345Z] post-checkout hook finished. gk-log://duration?t=838 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-checkout%2F1626051043511.b06042e5&linktext=View%20hook%20log&loglabel=Hook%3A%20post-checkout
+[2021-07-12T00:50:44.614Z] Checkout refs/heads/new-main: finished. gk-log://duration?t=1354
+[2021-07-12T01:46:32.023Z] Stage 9 files for commit: started.
+[2021-07-12T01:46:32.739Z] Stage 9 files for commit: finished. gk-log://duration?t=716
+[2021-07-12T01:46:33.939Z] Commit: started.
+[2021-07-12T01:46:34.049Z] post-commit hook started.
+[2021-07-12T01:46:35.431Z] post-commit hook finished. gk-log://duration?t=1382 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1626054394055.da75e25c&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-12T01:46:35.619Z] Commit: successfully created commit 7aff5bda5dc573a20c9d33f3346dda2eab413e34
+[2021-07-12T01:46:35.621Z] Commit: finished gk-log://duration?t=1682
+[2021-07-12T01:46:37.205Z] Push new-main: started.
+[2021-07-12T01:46:37.589Z] pre-push hook started.
+[2021-07-12T01:46:39.580Z] pre-push hook finished. gk-log://duration?t=1991 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1626054397603.d58a6067&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-12T01:46:42.217Z] Push new-main: finished. gk-log://duration?t=5012
+[2021-07-12T01:59:11.376Z] Stage VHS Hero/Assets/Scenes/main.unity for commit: started.
+[2021-07-12T01:59:11.952Z] Stage VHS Hero/Assets/Scenes/main.unity for commit: finished. gk-log://duration?t=576
+[2021-07-12T01:59:12.582Z] Commit: started.
+[2021-07-12T01:59:12.753Z] post-commit hook started.
+[2021-07-12T01:59:14.077Z] post-commit hook finished. gk-log://duration?t=1324 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1626055152763.63ba9d32&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-12T01:59:14.277Z] Commit: successfully created commit 98ff80c13785c1be1d340683d4a07ade08dda8f1
+[2021-07-12T01:59:14.282Z] Commit: finished gk-log://duration?t=1700
+[2021-07-12T01:59:16.622Z] Push new-main: started.
+[2021-07-12T01:59:17.009Z] pre-push hook started.
+[2021-07-12T01:59:18.840Z] pre-push hook finished. gk-log://duration?t=1831 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1626055157017.b4f0f103&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-12T01:59:21.676Z] Push new-main: finished. gk-log://duration?t=5054
+[2021-07-12T02:17:24.920Z] Stage 14 files for commit: started.
+[2021-07-12T02:17:25.733Z] Stage 14 files for commit: finished. gk-log://duration?t=813
+[2021-07-12T02:17:27.184Z] Commit: started.
+[2021-07-12T02:17:27.342Z] post-commit hook started.
+[2021-07-12T02:17:29.006Z] post-commit hook finished. gk-log://duration?t=1664 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1626056247347.e701146a&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-12T02:17:29.215Z] Commit: successfully created commit 58890665b2fa30e5650f0e6526ee7a5e0d6252a5
+[2021-07-12T02:17:29.219Z] Commit: finished gk-log://duration?t=2035
+[2021-07-12T02:17:30.353Z] Push new-main: started.
+[2021-07-12T02:17:30.733Z] pre-push hook started.
+[2021-07-12T02:17:32.746Z] pre-push hook finished. gk-log://duration?t=2013 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1626056250743.421a5217&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-12T02:17:35.343Z] Push new-main: finished. gk-log://duration?t=4990
+[2021-07-12T04:20:44.197Z] Stage 6 files for commit: started.
+[2021-07-12T04:20:45.245Z] Stage 6 files for commit: finished. gk-log://duration?t=1048
+[2021-07-12T04:20:45.906Z] Commit: started.
+[2021-07-12T04:20:46.478Z] post-commit hook started.
+[2021-07-12T04:20:48.552Z] post-commit hook finished. gk-log://duration?t=2074 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1626063646485.ab5489b2&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-12T04:20:48.907Z] Commit: successfully created commit a81f88e68330e611fca83463257cca0669396847
+[2021-07-12T04:20:48.912Z] Commit: finished gk-log://duration?t=3006
+[2021-07-12T05:23:48.063Z] Stage 42 files for commit: started.
+[2021-07-12T05:23:49.834Z] Stage 42 files for commit: finished. gk-log://duration?t=1771
+[2021-07-12T05:33:39.288Z] Stage 73 files for commit: started.
+[2021-07-12T05:33:39.564Z] Stage 73 files for commit: finished. gk-log://duration?t=276
+[2021-07-12T05:33:43.040Z] Commit: started.
+[2021-07-12T05:33:43.245Z] post-commit hook started.
+[2021-07-12T05:33:46.649Z] post-commit hook finished. gk-log://duration?t=3404 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1626068023252.991b88c4&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-12T05:33:46.947Z] Commit: successfully created commit 24d9780b2b5c23bb8a72c7b5b20434e03376823b
+[2021-07-12T05:33:46.968Z] Commit: finished gk-log://duration?t=3928
+[2021-07-12T05:33:50.480Z] Push new-main: started.
+[2021-07-12T05:33:50.881Z] pre-push hook started.
+[2021-07-12T05:33:53.078Z] pre-push hook finished. gk-log://duration?t=2197 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1626068030889.1ba3aab1&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-12T05:33:56.792Z] Push new-main: finished. gk-log://duration?t=6312
+[2021-07-12T05:35:01.885Z] Stage 8 files for commit: started.
+[2021-07-12T05:35:02.003Z] Stage 8 files for commit: finished. gk-log://duration?t=118
+[2021-07-12T05:35:02.838Z] Commit: started.
+[2021-07-12T05:35:02.998Z] post-commit hook started.
+[2021-07-12T05:35:04.604Z] post-commit hook finished. gk-log://duration?t=1606 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1626068103014.2c2ff5c5&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-12T05:35:04.843Z] Commit: successfully created commit 5e089746cca52a94f79959fd820cdbd7ae0b6b1d
+[2021-07-12T05:35:04.855Z] Commit: finished gk-log://duration?t=2017
+[2021-07-12T05:35:07.781Z] Push new-main: started.
+[2021-07-12T05:35:08.167Z] pre-push hook started.
+[2021-07-12T05:35:10.149Z] pre-push hook finished. gk-log://duration?t=1982 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1626068108175.ab2d43d0&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-12T05:35:12.656Z] Push new-main: finished. gk-log://duration?t=4875
+[2021-07-12T05:40:10.756Z] Stage 74 files for commit: started.
+[2021-07-12T05:40:11.697Z] Stage 74 files for commit: finished. gk-log://duration?t=941
+[2021-07-12T05:40:12.276Z] Commit: started.
+[2021-07-12T05:40:12.497Z] post-commit hook started.
+[2021-07-12T05:40:14.359Z] post-commit hook finished. gk-log://duration?t=1862 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1626068412505.83f08557&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-12T05:40:14.884Z] Commit: successfully created commit 15eeec23edf97a405a95382d32f6d5e7b5509275
+[2021-07-12T05:40:14.888Z] Commit: finished gk-log://duration?t=2612
+[2021-07-12T05:40:16.317Z] Push new-main: started.
+[2021-07-12T05:40:16.705Z] pre-push hook started.
+[2021-07-12T05:40:18.874Z] pre-push hook finished. gk-log://duration?t=2169 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1626068416710.0ddfdac0&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-12T05:40:20.985Z] Push new-main: finished. gk-log://duration?t=4668
+[2021-07-12T05:50:47.631Z] Stage 217 files for commit: started.
+[2021-07-12T05:50:48.656Z] Stage 217 files for commit: finished. gk-log://duration?t=1025
+[2021-07-12T05:50:49.441Z] Commit: started.
+[2021-07-12T05:50:49.619Z] post-commit hook started.
+[2021-07-12T05:50:51.583Z] post-commit hook finished. gk-log://duration?t=1964 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1626069049623.55ce82fc&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-12T05:50:51.768Z] Commit: successfully created commit aa91cb6abd159a7507953b2deb24dba8811eaf20
+[2021-07-12T05:50:51.770Z] Commit: finished gk-log://duration?t=2329
+[2021-07-12T05:50:54.985Z] Push new-main: started.
+[2021-07-12T05:50:55.476Z] pre-push hook started.
+[2021-07-12T05:50:57.484Z] pre-push hook finished. gk-log://duration?t=2008 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1626069055481.56e0bc78&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-12T05:51:00.042Z] Push new-main: finished. gk-log://duration?t=5057
+[2021-07-12T06:00:27.399Z] Stage 178 files for commit: started.
+[2021-07-12T06:00:27.890Z] Stage 178 files for commit: finished. gk-log://duration?t=491
+[2021-07-12T06:00:28.600Z] Commit: started.
+[2021-07-12T06:00:28.788Z] post-commit hook started.
+[2021-07-12T06:00:30.525Z] post-commit hook finished. gk-log://duration?t=1737 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1626069628814.149e7295&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-12T06:00:30.713Z] Commit: successfully created commit 74a7cc13921dc0f34606e1ef4b735c065470d27d
+[2021-07-12T06:00:30.715Z] Commit: finished gk-log://duration?t=2115
+[2021-07-12T06:21:39.558Z] Stage 11 files for commit: started.
+[2021-07-12T06:21:41.211Z] Stage 11 files for commit: finished. gk-log://duration?t=1653
+[2021-07-12T06:21:42.157Z] Commit: started.
+[2021-07-12T06:21:42.338Z] post-commit hook started.
+[2021-07-12T06:21:44.784Z] post-commit hook finished. gk-log://duration?t=2446 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1626070902343.59ba86a3&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-12T06:21:44.968Z] Commit: successfully created commit 2329ba18701ba65de429192658505b54029a151d
+[2021-07-12T06:21:44.973Z] Commit: finished gk-log://duration?t=2816
+[2021-07-12T06:21:46.818Z] Push new-main: started.
+[2021-07-12T06:21:47.234Z] pre-push hook started.
+[2021-07-12T06:21:49.434Z] pre-push hook finished. gk-log://duration?t=2200 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1626070907245.647298bc&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-12T06:21:52.036Z] Push new-main: finished. gk-log://duration?t=5218
+[2021-07-12T07:12:14.501Z] Stage 15 files for commit: started.
+[2021-07-12T07:12:15.415Z] Stage 15 files for commit: finished. gk-log://duration?t=914
+[2021-07-12T07:12:15.880Z] Commit: started.
+[2021-07-12T07:12:16.069Z] post-commit hook started.
+[2021-07-12T07:12:18.107Z] post-commit hook finished. gk-log://duration?t=2038 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1626073936078.e45d9733&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-12T07:12:18.329Z] Commit: successfully created commit c04ef3ab451b8bff663dcbb8c40bad41f175faed
+[2021-07-12T07:12:18.334Z] Commit: finished gk-log://duration?t=2454
+[2021-07-12T07:12:19.387Z] Push new-main: started.
+[2021-07-12T07:12:19.844Z] pre-push hook started.
+[2021-07-12T07:12:21.848Z] pre-push hook finished. gk-log://duration?t=2004 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1626073939849.d5bdf659&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-12T07:12:24.453Z] Push new-main: finished. gk-log://duration?t=5066
+[2021-07-12T08:07:43.614Z] Stage 41 files for commit: started.
+[2021-07-12T08:07:43.891Z] Stage 41 files for commit: finished. gk-log://duration?t=277
+[2021-07-12T08:07:44.669Z] Commit: started.
+[2021-07-12T08:07:44.895Z] post-commit hook started.
+[2021-07-12T08:07:46.894Z] post-commit hook finished. gk-log://duration?t=1999 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1626077264908.5942e1de&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-12T08:07:47.163Z] Commit: successfully created commit d1cc636c8fb9a84c7603fd0ac14967e16f030aac
+[2021-07-12T08:07:47.166Z] Commit: finished gk-log://duration?t=2497
+[2021-07-12T08:07:49.308Z] Push new-main: started.
+[2021-07-12T08:07:49.718Z] pre-push hook started.
+[2021-07-12T08:07:51.708Z] pre-push hook finished. gk-log://duration?t=1990 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1626077269723.581a56f6&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-12T08:07:54.262Z] Push new-main: finished. gk-log://duration?t=4954
+[2021-07-12T10:49:36.463Z] Stage 108 files for commit: started.
+[2021-07-12T10:49:37.285Z] Stage 108 files for commit: finished. gk-log://duration?t=822
+[2021-07-12T10:49:40.687Z] Commit: started.
+[2021-07-12T10:49:40.898Z] post-commit hook started.
+[2021-07-12T10:49:43.162Z] post-commit hook finished. gk-log://duration?t=2264 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1626086980947.44a7c651&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-12T10:49:43.875Z] Commit: successfully created commit cca5fdce5436a8d2facd3eaf684e94f25c6d8039
+[2021-07-12T10:49:43.878Z] Commit: finished gk-log://duration?t=3191
+[2021-07-12T10:49:47.483Z] Push new-main: started.
+[2021-07-12T10:49:47.859Z] pre-push hook started.
+[2021-07-12T10:49:49.782Z] pre-push hook finished. gk-log://duration?t=1923 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1626086987863.5c227786&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-12T10:49:52.480Z] Push new-main: finished. gk-log://duration?t=4997
+[2021-07-12T14:23:57.603Z] Stage 455 files for commit: started.
+[2021-07-12T14:23:58.605Z] Stage 455 files for commit: finished. gk-log://duration?t=1002
+[2021-07-12T14:24:17.308Z] Commit: started.
+[2021-07-12T14:24:17.529Z] post-commit hook started.
+[2021-07-12T14:24:19.325Z] post-commit hook finished. gk-log://duration?t=1796 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1626099857534.2a08bafc&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-12T14:24:19.713Z] Commit: successfully created commit f1cc23b093ef87659e57f81969235dd39b9e41c1
+[2021-07-12T14:24:19.716Z] Commit: finished gk-log://duration?t=2408
+[2021-07-12T14:24:43.875Z] Push new-main: started.
+[2021-07-12T14:24:44.266Z] pre-push hook started.
+[2021-07-12T14:24:46.377Z] pre-push hook finished. gk-log://duration?t=2111 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1626099884274.d260847d&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-12T14:24:48.694Z] Push new-main: finished. gk-log://duration?t=4819
+[2021-07-12T18:05:57.497Z] Stage 3 files for commit: started.
+[2021-07-12T18:05:58.056Z] Stage 3 files for commit: finished. gk-log://duration?t=559
+[2021-07-12T18:06:00.572Z] Commit: started.
+[2021-07-12T18:06:00.742Z] post-commit hook started.
+[2021-07-12T18:06:01.840Z] post-commit hook finished. gk-log://duration?t=1098 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1626113160775.3740f1ff&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-12T18:06:02.167Z] Commit: successfully created commit 60dd0d7bc9a872496dd4e3a7d86f9fa7c6f78495
+[2021-07-12T18:06:02.170Z] Commit: finished gk-log://duration?t=1598
+[2021-07-12T18:06:20.089Z] Push new-main: started.
+[2021-07-12T18:06:20.491Z] pre-push hook started.
+[2021-07-12T18:06:22.438Z] pre-push hook finished. gk-log://duration?t=1947 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1626113180502.80853048&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-12T18:06:25.051Z] Push new-main: finished. gk-log://duration?t=4962
+[2021-07-14T04:14:28.836Z] Stage 24 files for commit: started.
+[2021-07-14T04:14:29.420Z] Stage 24 files for commit: finished. gk-log://duration?t=584
+[2021-07-14T04:14:30.618Z] Commit: started.
+[2021-07-14T04:14:30.824Z] post-commit hook started.
+[2021-07-14T04:14:31.646Z] post-commit hook finished. gk-log://duration?t=822 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1626236070852.93a4a4af&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-14T04:14:31.863Z] Commit: successfully created commit b29cbc02ecee41896ad8fbf2a4e02c4ef3531444
+[2021-07-14T04:14:31.866Z] Commit: finished gk-log://duration?t=1248
+[2021-07-14T04:14:33.795Z] Push new-main: started.
+[2021-07-14T04:14:34.189Z] pre-push hook started.
+[2021-07-14T04:14:36.277Z] pre-push hook finished. gk-log://duration?t=2088 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1626236074203.853307cf&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-14T04:14:39.243Z] Push new-main: finished. gk-log://duration?t=5448
+[2021-07-14T05:24:30.831Z] Stage 7 files for commit: started.
+[2021-07-14T05:24:31.780Z] Stage 7 files for commit: finished. gk-log://duration?t=948
+[2021-07-14T05:24:33.206Z] Commit: started.
+[2021-07-14T05:24:33.380Z] post-commit hook started.
+[2021-07-14T05:24:33.853Z] post-commit hook finished. gk-log://duration?t=473 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1626240273407.3b9ef304&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-14T05:24:34.034Z] Commit: successfully created commit 774afa5c543f0fa0692d23373eac2c4167e7a8e1
+[2021-07-14T05:24:34.040Z] Commit: finished gk-log://duration?t=834
+[2021-07-14T05:24:35.314Z] Push new-main: started.
+[2021-07-14T05:24:35.709Z] pre-push hook started.
+[2021-07-14T05:24:37.638Z] pre-push hook finished. gk-log://duration?t=1929 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1626240275720.68d28f81&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-14T05:24:40.287Z] Push new-main: finished. gk-log://duration?t=4973
+[2021-07-15T15:11:36.715Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T15:11:36.726Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T15:12:36.647Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T15:12:36.651Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T15:13:36.663Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T15:13:36.672Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T15:14:36.655Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T15:14:36.661Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T15:15:36.647Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T15:15:36.651Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T15:16:36.661Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T15:16:36.666Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T15:17:36.620Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T15:17:36.623Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T15:18:36.649Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T15:18:36.685Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T15:19:36.653Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T15:19:36.657Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T15:20:36.642Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T15:20:36.647Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T15:21:36.640Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T15:21:36.644Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T15:22:36.649Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T15:22:36.656Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T15:23:36.639Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T15:23:36.651Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T15:24:36.640Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T15:24:36.645Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T15:25:36.656Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T15:25:36.670Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T15:31:17.310Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T15:31:17.313Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T15:34:28.387Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T15:34:28.392Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T15:35:28.371Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T15:35:28.380Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T15:36:28.370Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T15:36:28.373Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T15:37:28.423Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T15:37:28.427Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T15:50:04.995Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T15:50:04.998Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:04:57.830Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:04:57.834Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:19:35.799Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:19:35.802Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:22:16.769Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:22:16.777Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:23:16.753Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:23:16.769Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:24:16.760Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:24:16.769Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:25:16.758Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:25:16.767Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:26:16.759Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:26:16.767Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:27:16.746Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:27:16.758Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:28:16.741Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:28:16.750Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:29:16.757Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:29:16.762Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:30:16.727Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:30:16.746Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:31:16.744Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:31:16.755Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:32:16.724Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:32:16.748Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:33:16.731Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:33:16.736Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:34:17.316Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:34:17.320Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:35:16.695Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:35:16.703Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:36:16.763Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:36:16.768Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:37:16.818Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:37:16.821Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:38:16.766Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:38:16.773Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:39:16.728Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:39:16.742Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:40:16.759Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:40:16.763Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:41:16.773Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:41:16.777Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:42:16.684Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:42:16.688Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:43:16.739Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:43:16.746Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:44:16.757Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:44:16.769Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:45:16.796Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:45:16.798Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:46:16.715Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:46:16.723Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:47:16.712Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:47:16.717Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:48:16.751Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:48:16.760Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:49:16.709Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:49:16.713Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:50:16.708Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:50:16.715Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:51:16.715Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:51:16.726Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:52:16.725Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:52:16.739Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:53:16.706Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:53:16.712Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:54:16.718Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:54:16.725Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:55:16.700Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:55:16.709Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:56:16.667Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:56:16.677Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:57:16.709Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:57:16.719Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:58:16.715Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:58:16.725Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:59:16.798Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T16:59:16.802Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T17:00:16.712Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T17:00:16.720Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T17:01:17.260Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T17:01:17.265Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T17:03:04.939Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T17:03:04.946Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T17:04:04.863Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T17:04:04.868Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T17:05:04.958Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T17:05:04.962Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T17:06:04.861Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T17:06:04.874Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T17:07:04.857Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T17:07:04.869Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T17:08:04.923Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T17:08:04.928Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T17:09:04.859Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T17:09:04.863Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T17:10:04.862Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T17:10:04.866Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T17:11:04.864Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T17:11:04.871Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T17:12:04.924Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T17:12:04.929Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T17:13:04.863Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T17:13:04.870Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T17:20:47.173Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T17:20:47.179Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T17:28:49.511Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T17:28:49.515Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T17:45:01.977Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T17:45:01.986Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T17:59:57.362Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T17:59:57.366Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T18:14:34.746Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T18:14:34.750Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T18:31:36.790Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T18:31:36.793Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T18:45:50.470Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T18:45:50.475Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T19:00:25.734Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T19:00:25.740Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T19:17:02.826Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T19:17:02.830Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T19:29:22.600Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T19:29:22.605Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T19:41:19.048Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-15T19:41:19.052Z] Fetch remote ianx64: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2021-07-17T20:43:21.635Z] Stage 488 files for commit: started.
+[2021-07-17T20:43:23.036Z] Stage 488 files for commit: finished. gk-log://duration?t=1401
+[2021-07-17T20:43:23.676Z] Commit: started.
+[2021-07-17T20:43:23.908Z] post-commit hook started.
+[2021-07-17T20:43:24.691Z] post-commit hook finished. gk-log://duration?t=783 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1626554603928.46ae4293&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-17T20:43:24.916Z] Commit: successfully created commit 23f86464f949164d56822c414340a37c8ab1a48a
+[2021-07-17T20:43:24.918Z] Commit: finished gk-log://duration?t=1242
+[2021-07-17T20:43:26.458Z] Push new-main: started.
+[2021-07-17T20:43:26.861Z] pre-push hook started.
+[2021-07-17T20:43:29.155Z] pre-push hook finished. gk-log://duration?t=2294 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1626554606869.84af2f33&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-17T20:43:31.929Z] Push new-main: finished. gk-log://duration?t=5471
+[2021-07-17T21:06:32.936Z] Push new-main: started.
+[2021-07-17T21:06:33.368Z] pre-push hook started.
+[2021-07-17T21:06:37.892Z] pre-push hook finished. gk-log://duration?t=4524 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1626555993387.efdc3aca&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-17T21:06:40.107Z] Push new-main: finished. gk-log://duration?t=7171
+[2021-07-18T08:30:08.997Z] Stage 2285 files for commit: started.
+[2021-07-18T08:30:13.335Z] Stage 2285 files for commit: finished. gk-log://duration?t=4338
+[2021-07-18T08:30:17.181Z] Commit: started.
+[2021-07-18T08:30:17.372Z] post-commit hook started.
+[2021-07-18T08:30:19.724Z] post-commit hook finished. gk-log://duration?t=2352 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpost-commit%2F1626597017434.9194a150&linktext=View%20hook%20log&loglabel=Hook%3A%20post-commit
+[2021-07-18T08:30:20.438Z] Commit: successfully created commit 5435be50537d139981f6173da1988cb61b4a5a77
+[2021-07-18T08:30:20.440Z] Commit: finished gk-log://duration?t=3259
+[2021-07-18T08:30:28.707Z] Push new-main: started.
+[2021-07-18T08:30:29.096Z] pre-push hook started.
+[2021-07-18T08:30:31.356Z] pre-push hook finished. gk-log://duration?t=2260 gk-log://log-link?type=RAW_TEXT&file=repos%2FVHS%20Hero%20git-ef1596f2%2Fhooks%2Fpre-push%2F1626597029101.ee5e3937&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-push
+[2021-07-18T08:30:34.338Z] Push new-main: finished. gk-log://duration?t=5631

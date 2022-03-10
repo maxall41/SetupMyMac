@@ -1,0 +1,72 @@
+{
+  "tabInfo": {
+    "tabs": [
+      {
+        "id": "9974f240-66d2-4433-a1ae-ac733f4644d3",
+        "type": "REPO",
+        "repoName": "Prometheus",
+        "repoPath": "/Users/maxcampbell/Documents/Arduino/Prometheus/"
+      },
+      {
+        "id": "e23e2fa6-1126-46b7-9951-b8330cb98914",
+        "type": "RELEASE_NOTES"
+      },
+      {
+        "id": "9ab4f3ad-ee4e-4324-a56e-58bd94f19ec1",
+        "type": "NEW"
+      },
+      {
+        "id": "1fcda378-287b-4bd8-9212-5d1ada52a2e9",
+        "type": "REPO",
+        "repoName": "VHS Hero git",
+        "repoPath": "/Users/maxcampbell/Desktop/VHS Hero git/"
+      },
+      {
+        "id": "5ba8331b-5e9e-4f17-acda-175a603616c9",
+        "type": "REPO",
+        "repoName": "portfolio-site-v2",
+        "repoPath": "/Users/maxcampbell/Desktop/portfolio-site-v2/"
+      }
+    ],
+    "selectedTabId": "5ba8331b-5e9e-4f17-acda-175a603616c9"
+  },
+  "externalEditor": "Visual Studio Code",
+  "profileIcon": "gravatar",
+  "profileName": "Default Profile",
+  "userEmail": "maxall4@protonmail.com",
+  "userName": "max",
+  "gpg": {
+    "gpgProgram": null,
+    "userSigningKey": null,
+    "commitGpgSign": null,
+    "tagForceSignAnnotated": null
+  },
+  "repoInit": {
+    "lastRepoInitPath": "/Users/maxcampbell/Desktop"
+  },
+  "hostingServiceFrecencyMetadata": {
+    "github": {
+      "id": "github",
+      "timestamps": [
+        1622342093115,
+        1624906734245
+      ],
+      "total": 2
+    }
+  },
+  "layout": {
+    "DetailPanel": {
+      "height": 396
+    }
+  },
+  "fileNodeList": {
+    "viewMode": "full_path"
+  },
+  "organizationId": null,
+  "editor": {
+    "fontFamily": "Monaco"
+  },
+  "ui": {
+    "theme": "dark"
+  }
+}
