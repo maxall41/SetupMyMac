@@ -307,6 +307,11 @@ os.system("brew install --cask gitkraken")
 
 os.system("npm install --global yarn")
 
+# Install syntax highlighting
+
+os.system("git clone https://github.com/zsh-users/zsh-syntax-highlighting.git")
+os.system("echo 'source ${(q-)PWD}/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh' >> ${ZDOTDIR:-$HOME}/.zshrc")
+
 # Install Roy
 
 os.system("hdiutil attach downloaded_roy_install.dmg")
