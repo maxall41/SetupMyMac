@@ -163,6 +163,10 @@ os.system("brew install --cask gimp")
 
 os.system("brew install bat")
 
+# Install Docker
+
+os.system("brew install docker")
+
 # Install KiCad
 
 os.system("brew install --cask kicad")
