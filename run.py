@@ -123,6 +123,10 @@ os.system("killall Finder")
 
 os.system("brew tap homebrew/cask")
 
+# Install Sketch
+
+os.system("add brew install --cask sketch")
+
 # Install UnRar
 
 os.system("brew install unar")
