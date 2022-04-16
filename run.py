@@ -127,6 +127,10 @@ os.system("brew tap homebrew/cask")
 
 os.system("add brew install --cask sketch")
 
+# Install maccy (Clipboard manager)
+
+os.system("brew install --cask maccy")
+
 # Install UnRar
 
 os.system("brew install unar")
