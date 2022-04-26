@@ -135,6 +135,11 @@ os.system("brew install --cask maccy")
 
 os.system("brew install unar")
 
+# Install gomuks
+
+os.system("brew tap aaronraimist/tap")
+os.system("brew install gomuks")
+
 # Install Poetry
 
 os.system("curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python -")
@@ -146,6 +151,10 @@ os.system("sh -c '$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/too
 # Install Powerlevel10K
 
 os.system("git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k")
+
+# Install Unarchiver
+
+os.system("brew install --cask the-unarchiver")
 
 # Install XXH
 
